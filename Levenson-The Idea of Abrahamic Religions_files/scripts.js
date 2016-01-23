@@ -1,0 +1,1 @@
+$(function(){$('#nav-toggle').on('click',function(event){$('#nav').toggleClass('toggled');return event.preventDefault();});});
