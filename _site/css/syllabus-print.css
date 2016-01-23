@@ -1,0 +1,191 @@
+	/* Print Only*/
+	@media print {
+		.noprint {display: none !important;}
+		.hide {display: none !important;}
+		.noshow {display: block !important;}
+		}
+		
+	/* Screen Only*/
+	@media screen {
+		.noprint {display: block !important;}
+		.hide {display: none !important;}
+		.noshow {display: none !important;}
+		}
+	
+	body {
+		background-color: white;
+		margin: 0;
+		font-family: Times New Roman; Times; Serif;
+		font-size: 10pt;
+		font-weight: normal;
+		line-height: 1.25em;
+		height:auto;
+		overflow:visible
+		}
+		
+	a:link {
+		color: blue
+		}
+		
+	a:visited {
+		color: blue
+		}
+		
+	a.header {
+		color: black;
+		text-decoration: none
+		}
+		
+	a.new-window {
+		background-image:none;
+		padding-right:0
+		}
+	
+	h1 {
+		font-family: Times New Roman; Times; Serif;
+		font-size: 14pt;
+		font-weight: bold;
+		font-variant: small-caps;
+		text-align: center;
+		margin: 1em 0 .25em 0;
+		color: black
+		}
+		
+	h2 {
+		font-family: Times New Roman; Times; Serif;
+		font-size: 12pt;
+		font-weight: bold;
+		font-variant: small-caps;
+		text-align: left;
+		margin: 1.5em 0 .75em 0;
+		color: black
+		}
+		
+	h3 {
+		font-size: 10pt;
+		font-weight: bold;
+		margin: 1em 0 0 0
+		}
+		
+	p {
+		text-align: left;
+		margin: 1.125em 0 1.125em 0
+		}
+		
+	ol {
+		text-align: left;
+		margin-left: .25em;
+		padding-left: 1.25em
+		}
+		
+		ol li {
+		list-style-type: none
+		}
+		
+		.number li {
+		list-style-type: decimal;
+		margin: 0 0 1em 0;
+		}
+		
+		#leaders {
+    	max-width: 40em;
+    	overflow-x: hidden
+    	}
+    	
+    	#leaders li {
+    	list-style-type:decimal;
+    	margin-left:.125em
+    	}
+		
+		#leaders li:before {
+    	float: left;
+    	width: 0;
+    	white-space: nowrap;
+    	content:
+		". . . . . . . . . . . . . . . . . . . . "
+		". . . . . . . . . . . . . . . . . . . . "
+		". . . . . . . . . . . . . . . . . . . . "
+		". . . . . . . . . . . . . . . . . . . . "}
+		
+		#leaders span:first-child {
+    	padding-right: 0.33em;
+    	background: white
+    	}
+		
+		#leaders span + span {
+	    float: right;
+    	padding-left: 0.33em;
+    	background: white
+    	}
+				
+	ul {
+		text-align:left
+		}
+		
+		ul li {
+		list-style-type: none;
+		margin: 0;
+		padding: 0
+		}
+		
+		.bullets li{
+		margin-left: 1.5em;
+		list-style-type: disc;
+		margin-bottom: 0;
+		margin-top: 1em
+		}
+		
+	div {
+		}
+		
+		#schedule-header {
+		position:inline;
+		width:100%;
+		margin:0;
+		overflow:visible
+		}
+	
+	table {
+		}
+		
+	#schedule {
+		width:100%;
+		margin:0;
+		border-collapse: collapse
+		}
+		
+		tr {
+		vertical-align: top
+		}
+		
+		td {
+		}
+		
+		.week {
+		line-height:1.5em;
+		width:8%;
+		text-align:center;
+		padding-bottom:1em
+		}
+		
+		.date {
+		line-height:1.5em;
+		width:12%;
+		text-align:right;
+		padding-bottom:1em
+		}
+	
+		.title {
+		line-height:1.5em;
+		width:80%;
+		text-align:left;
+		padding-left:2em;
+		padding-bottom:1em
+		}
+	
+	.italic-underline {
+		font-style: italic;
+		text-decoration: underline
+		}
+		
+</style>

@@ -1,0 +1,216 @@
+	/* Print Only*/
+	@media print {
+		.noprint {display: none !important;}
+		.hide {display: none !important;}
+		.noshow {display: block !important;}
+		}
+		
+	/* Screen Only*/
+	@media screen {
+		.noprint {display: block !important;}
+		.hide {display: none !important;}
+		.noshow {display: none !important;}
+		}
+	
+	body {
+        background-image:url(http://jeffkeiser.com/images/michelangelo-fall.jpg);
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+		background-color:#fff;
+		width:100%;
+		height:100%;
+		padding:0;
+		margin:3em 0 3em 0;
+		text-align:center;
+		font-family: Helvetica; Arial; Geneva; Verdana; Sans-Serif;
+		font-weight: normal;
+		line-height: 1.5em
+		}
+		
+		
+	a:link {
+		text-decoration:none;
+		color:#930
+		}
+		
+	a:hover {
+		text-decoration:underline;
+		color:#930
+		}
+		
+	a:visited {
+		color:#c96
+		}
+		
+	a.header {
+		color:#930;
+		text-decoration: none
+		}
+		
+	a.new-window {
+		padding-right:1.25em;
+		background-image:url('http://jeffkeiser.com/images/new_window_icon.gif');
+		background-repeat:no-repeat;
+        background-position:right;
+		}
+	
+	h1 {
+		font-family: Times New Roman; Times; Serif;
+		font-size: 2.5em;
+		line-height: 1em;
+		font-weight: bold;
+		margin: 0 0 0 0;
+		color:#930
+		}
+		
+	h2 {
+		font-family: Times New Roman; Times; Serif;
+		font-size: 1.125em;
+		font-weight: bold;
+		font-variant: small-caps;
+		text-align: left;
+		margin: 1.5em 0 .75em 0;
+		color:#930
+		}
+		
+	h3 {
+		font-size: 1em;
+		font-weight: bold;
+		margin: 1em 0 0 0;
+		}
+		
+		
+	hr {
+		width: 100%;
+		margin-top: 1.5em;
+		color:#f4a460;
+		background-color:#f4a460
+		}
+		
+	p {
+		text-align: left;
+		margin: 1.125em 0 1.125em 0
+		}
+		
+	ol {
+		text-align: left;
+		margin-left: .25em;
+		padding-left: 1.25em
+		}
+		
+		ol li {
+		list-style-type: none
+		}
+		
+		.number li {
+		list-style-type: decimal;
+		margin: 0 0 1em 0;
+		}
+		
+		#leaders {
+    	max-width: 40em;
+    	overflow-x: hidden
+    	}
+    	
+    	#leaders li {
+    	list-style-type:decimal;
+    	margin-bottom:1em;
+    	margin-left:.125em
+    	}
+		
+		#leaders li:before {
+    	float: left;
+    	width: 0;
+    	white-space: nowrap;
+    	content:
+		". . . . . . . . . . . . . . . . . . . . "
+		". . . . . . . . . . . . . . . . . . . . "
+		". . . . . . . . . . . . . . . . . . . . "
+		". . . . . . . . . . . . . . . . . . . . "}
+		
+		#leaders span:first-child {
+    	padding-right: 0.33em;
+    	background: white
+    	}
+		
+		#leaders span + span {
+	    float: right;
+    	padding-left: 0.33em;
+    	background: white
+    	}
+		
+	ul {
+		text-align:left
+		}
+		
+		ul li {
+		list-style-type: none;
+		margin: 0;
+		padding: 0
+		}
+		
+		.bullets li{
+		margin-left: 1.5em;
+		list-style-type: disc;
+		margin-bottom: 0;
+		margin-top: 1em
+		}
+		
+	div {
+		}
+        
+        #outer-wrapper {
+        width:80%;
+        margin:0 auto
+        }
+		
+	table {
+		}
+	
+	    #schedule {
+		width:100%;
+		margin-top:2em;
+		padding: 0;
+		border-collapse: collapse
+		}
+		
+		tr{
+		vertical-align: top
+		}
+		
+		td{
+		}
+		
+		.week {
+		line-height:1.5em;
+		width:8%;
+		text-align:center;
+		padding: 0 0 1em 0
+		}
+		
+		.date {
+		line-height:1.5em;
+		width:12%;
+		text-align:right;
+		padding: 0 0 1em 0
+		}
+	
+		.title {
+		line-height:1.5em;
+		width:80%;
+		text-align:left;
+		padding: 0 0 1em 2em
+		}
+		
+	.embed{
+		display:block;
+		margin-top:1.5em;
+		margin-bottom:1.5em
+		}
+		
+	.italic-underline {
+		font-style: italic;
+		text-decoration: underline
+		}
+			
+	</style>
