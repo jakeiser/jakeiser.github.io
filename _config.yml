@@ -10,5 +10,3 @@ url: "http://jeffkeiser.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-
-include: ['_pages']
