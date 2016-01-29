@@ -10,6 +10,8 @@ this.page.url = 'http://jeffkeiser.com'; // Replace PAGE_URL with your page's ca
 this.page.identifier = 'jeffkeisercom'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 
+var disqus_url = "http://jeffkeiser.com{{ page.url | replace:'index.html','' }}";
+
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
 
