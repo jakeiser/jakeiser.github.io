@@ -13,7 +13,7 @@ tags:
 - Socrates
 modified_time: '2014-06-17T09:23:05.161-04:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-4050227880071404881
-disqus_identifier: http://sacredveils.blogspot.com/2014/06/memory-eternal-ellen-aitken-19612014.html
+blogger_orig_url: http://sacredveils.blogspot.com/2014/06/memory-eternal-ellen-aitken-19612014.html
 permalink: memory-eternal-ellen-bradshaw-aitken
 ---
 
