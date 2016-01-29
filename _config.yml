@@ -2,7 +2,7 @@
 title: Jeff Keiser
 email: info@jeffkeiser.com
 description: > # this means to ignore newlines until "baseurl:"
- JeffKeiser.com is the website of Jeffrey A. Keiser, exploring Christianity and culture from the perspective of an Eastern Orthodox biblical scholar. The site is currently under construction, so check back regularly for updates.
+ JeffKeiser.com explores Christianity and culture from the perspective of an Eastern Orthodox biblical scholar. The site is currently under construction, so check back regularly for updates.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jeffkeiser.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
