@@ -9,6 +9,7 @@ modified_time: '2010-07-19T21:25:24.273-04:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-2461466850134002069
 blogger_orig_url: http://sacredveils.blogspot.com/2010/02/gift-that-keeps-on-giving-anselm-on.html
 permalink: anselm-on-the-atonement
+disqus_identifier: 68412153
 ---
 
 In my [last post](/sin-debt-and-the-economy-of-salvation) I suggested that Anselm’s argument in *Cur Deus Homo* does not depend on the notion that Christ suffered the full weight of the punishments that would otherwise be visited upon sinners, but rather on the notion that Christ *voluntarily* submitted to the same penalty that all human beings suffer *involuntarily* as a result of sin, namely death. On this reading ‘satisfaction’ does not refer to appeasing the infinite wrath of an angry God but to the payment of a debt with a gift of infinite value: the very life of God in Jesus.
