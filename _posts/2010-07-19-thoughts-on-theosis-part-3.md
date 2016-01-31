@@ -18,7 +18,6 @@ modified_time: '2010-07-20T23:25:03.858-04:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-4777336507776193834
 blogger_orig_url: http://sacredveils.blogspot.com/2010/07/thoughts-on-theosis-part-3-theosis-and.html
 permalink: thoughts-on-theosis-part-3
-disqus_identifier: 120136865
 ---
 
 Other posts in this series:  

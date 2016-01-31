@@ -14,7 +14,6 @@ modified_time: '2013-01-15T15:54:17.357-05:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-8975743725115171820
 blogger_orig_url: http://sacredveils.blogspot.com/2013/01/quote-of-day.html
 permalink: quote-of-the-day-plutarch-on-moral-virtue-446c
-disqus_identifier: 1027654861
 ---
 
 οὔτε γὰρ ὁ σοφὸς ἐγκρατὴς ἀλλὰ σώφρων, οὔθ’ ὁ ἀμαθὴς ἀκρατὴς ἀλλ’ ἀκόλαστος· ὁ μὲν γὰρ ἥδεται τοῖς καλοῖς ὁ δ’ οὐκ ἄχθεται τοῖς αἰσχροῖς. σοφιστικῆς οὖν ψυχῆς ἡ ἀκρασία λόγον ἐχούσης οἷς ἔγνωκεν ὀρθῶς ἐμμένειν μὴ δυνάμενον (Plutarch, *Virt. mor.* 446c).
