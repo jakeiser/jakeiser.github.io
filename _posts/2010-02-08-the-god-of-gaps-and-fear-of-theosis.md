@@ -9,7 +9,6 @@ modified_time: '2010-07-19T21:33:07.645-04:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-4600657761240674690
 blogger_orig_url: http://sacredveils.blogspot.com/2010/02/god-of-gaps-and-fear-of-theosis.html
 permalink: the-god-of-gaps-and-fear-of-theosis
-disqus_identifier: 4537790685
 ---
 
 Michael Gorman’s comments over at Cross Talk concerning Protestants’ [Fear of Theosis](http://www.michaeljgorman.net/2010/01/24/fear-of-theosis) have sparked a lively discussion with Carl Mosser. It is good to see biblical scholars engaging with the subject of theosis, although, as Mosser observes, the discussion could benefit from greater precision at certain points. Since I have not (yet) read Gorman’s recent book, *[Inhabiting the Cruciform God: Kenosis, Justification, and Theosis in Paul&#39;s Narrative Soteriology](http://www.amazon.com/Inhabiting-Cruciform-God-Justification-Soteriology/dp/0802862659?ie=UTF8&tag=sacrveil-20&link_code=btl&camp=213689&creative=392969),* I shall claim ignorance of its contents and restrict my remarks to what I see as the wider theological and ecumenical issues involved in the ongoing Protestant (re)discovery of theosis.
