@@ -14,7 +14,9 @@ comments: true
     {{ content }}
   </article>
   
-  {% if page.comments %}
+  {% if page.comments and page.blogger_orig_url %}
+  {% include disqus_comments_old.html %}
+  {% elseif page.comments %}
   {% include disqus_comments.html %}
   {% endif %}
 
