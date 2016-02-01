@@ -14,6 +14,6 @@ blogger_orig_url: http://sacredveils.blogspot.com/2012/10/quote-of-day.html
 permalink: quote-of-the-day-dio-chrysostom-alexander-32-18
 ---
 
-“Clemency is the mark of a good ruler, but lack of severity is the mark of a bad philosopher” (Dio Chrysostom, *Alexander* 32.18)
+“Clemency is the mark of a good ruler, but lack of severity is the mark of a bad philosopher” (Dio Chrysostom, *Alexander* 32.18).
 
 Sorry, Plato. If Dio is right, either a good king will be a bad philosopher or a bad king will be a good philosopher.
