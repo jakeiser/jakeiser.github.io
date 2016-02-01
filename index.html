@@ -20,6 +20,7 @@ layout: default
             {% endif %}
             {% if post.content contains '<!--excerpt.end-->' %}
             <a href="{{ post.url | prepend: site.baseurl }}">...Read more</a>
+            {% endif %}
 
 </p>
       </li>
