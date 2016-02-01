@@ -6,48 +6,9 @@
 </description>
     <link>http://jeffkeiser.com/</link>
     <atom:link href="http://jeffkeiser.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 Jan 2016 21:20:25 -0500</pubDate>
-    <lastBuildDate>Sun, 31 Jan 2016 21:20:25 -0500</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
-    
-      <item>
-        <title>This is a test post</title>
-        <description>&lt;p&gt;Testing 1-2-3&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Jan 2016 11:55:04 -0500</pubDate>
-        <link>http://jeffkeiser.com/this-is-a-test-post</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/this-is-a-test-post</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Jan 2016 06:55:04 -0500</pubDate>
-        <link>http://jeffkeiser.com/jekyll/update/2016/01/23/welcome-to-jekyll-2.html</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/jekyll/update/2016/01/23/welcome-to-jekyll-2.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
+    <pubDate>Mon, 01 Feb 2016 17:10:20 -0500</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2016 17:10:20 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Memory Eternal | Αἰωνία ἡ μνήμη: Ellen Bradshaw Aitken (1961–2014)</title>
@@ -57,7 +18,8 @@
 
 &lt;p&gt;“True philosophers are always preparing to die” (Socrates, in Plato’s &lt;em&gt;Phaedo&lt;/em&gt; 67e).&lt;/p&gt;
 
-&lt;p&gt;Ellen Bradshaw Aitken, my advisor, friend, and mentor, died early in the morning on Saturday, June 14. Her death was graceful and peaceful, as was her life. Many of her friends, colleagues, and students have shared memories of Ellen on her Facebook page, which now serves as a fitting memorial to a life well-lived. This is true because Ellen was always enthusiastic about the possibilities of scholarship in the digital age, but especially because memorials are as much for the living as for the dead. We ‘share’ and ‘like’ to support each other, so I want to do my small part in preserving her memory among the living by sharing my experiences of her life—and her death.&lt;/p&gt;
+&lt;!--excerpt.start--&gt;
+&lt;p&gt;Ellen Bradshaw Aitken, my advisor, friend, and mentor, died early in the morning on Saturday, June 14. Her death was graceful and peaceful, as was her life.&lt;!--excerpt.end--&gt; Many of her friends, colleagues, and students have shared memories of Ellen on her Facebook page, which now serves as a fitting memorial to a life well-lived. This is true because Ellen was always enthusiastic about the possibilities of scholarship in the digital age, but especially because memorials are as much for the living as for the dead. We ‘share’ and ‘like’ to support each other, so I want to do my small part in preserving her memory among the living by sharing my experiences of her life—and her death.&lt;/p&gt;
 
 &lt;p&gt;My relationship with Ellen was always serendipitous. I first met her in 2002, when I was a master’s student at Harvard. As my de facto advisor for matters related to the study of the New Testament, she gently answered my naïve questions about the value of historical scholarship. She did not have to take the time for this, but she did—always. When I was considering Ph.D. programs several years later, after she had moved on to McGill, she suggested that I apply there. I am embarrassed to say that neither McGill nor Montréal had been on my rader before that moment, but the decision was easy. Over the next nine years, in addition to regular meetings in her office or over lunch, we would have many chance conversations in the foyer of the Birks building at McGill. I vividly recall one such conversation, in which she explained with a warm smile that she need only stand in a certain spot for a short while and whomever she wanted to see would invariably pass by. Call me superstitious, if you like, but I believe that she is standing in that very spot right now, smiling warmly and waiting to see whomever she wants to see.&lt;/p&gt;
 
@@ -96,7 +58,8 @@
         <title>Saint Paul, Conversion, and Social Constructionism</title>
         <description>&lt;p&gt;&lt;img style=&quot;float: left; margin-right: 1em;&quot; title=&quot;&quot; src=&quot;http://irrco.files.wordpress.com/2010/11/stpaul.jpg&quot; alt=&quot;Ravenna Paul&quot; width=&quot;100px&quot; height=&quot;100px&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Several weeks ago I met with a few friends for an ongoing discussion of William James’s classic Gifford Lectures, &lt;em&gt;&lt;a href=&quot;http://web.archive.org/web/20080727010425/http://etext.lib.virginia.edu/toc/modeng/public/JamVari.html&quot;&gt;The Varieties of Religious Experience&lt;/a&gt;.&lt;/em&gt; One of our criticisms of James concerns his assumption that psychological phenomena recur unchanged over millennia. This came up again in our discussion of James’s lectures on conversion. As a New Testament scholar, I wondered why James skips lightly over Saint Paul’s conversion. James calls it “the most eminent” of those “striking, instantaneous instances” of conversion, but refrains from analyzing it in much detail. This is significant because Paul’s conversion has provided a template for other conversions throughout the history of Christianity. It is also significant because, in recent decades, scholars have debated the conditions of Paul’s about-face from persecutor of the church to preacher of Jesus as the Christ. A consensus has formed around the view that Paul did not—indeed &lt;em&gt;could not&lt;/em&gt;—convert from Judaism to Christianity, but from Pharisaic Judaism to an apocalyptic, messianic sect of Judaism. The debate continues over the question of whether this conversion was truly instantaneous or whether it was the culmination of prior social and psychological processes. This question is complicated by the fact that our only accounts of the event come from Paul’s own letters, written some twenty years later, and the second-hand reports in the Acts of the Apostles.&lt;/p&gt;
+&lt;!--excerpt.start--&gt;
+&lt;p&gt;Several weeks ago I met with a few friends for an ongoing discussion of William James’s classic Gifford Lectures, &lt;em&gt;&lt;a href=&quot;http://web.archive.org/web/20080727010425/http://etext.lib.virginia.edu/toc/modeng/public/JamVari.html&quot;&gt;The Varieties of Religious Experience&lt;/a&gt;.&lt;/em&gt; One of our criticisms of James concerns his assumption that psychological phenomena recur unchanged over millennia. This came up again in our discussion of James’s lectures on conversion. As a New Testament scholar, I wondered why James skips lightly over Saint Paul’s conversion.&lt;!--excerpt.end--&gt; James calls it “the most eminent” of those “striking, instantaneous instances” of conversion, but refrains from analyzing it in much detail. This is significant because Paul’s conversion has provided a template for other conversions throughout the history of Christianity. It is also significant because, in recent decades, scholars have debated the conditions of Paul’s about-face from persecutor of the church to preacher of Jesus as the Christ. A consensus has formed around the view that Paul did not—indeed &lt;em&gt;could not&lt;/em&gt;—convert from Judaism to Christianity, but from Pharisaic Judaism to an apocalyptic, messianic sect of Judaism. The debate continues over the question of whether this conversion was truly instantaneous or whether it was the culmination of prior social and psychological processes. This question is complicated by the fact that our only accounts of the event come from Paul’s own letters, written some twenty years later, and the second-hand reports in the Acts of the Apostles.&lt;/p&gt;
 
 &lt;p&gt;As I see it, there are at least three ways to frame the issue:&lt;/p&gt;
 
@@ -145,9 +108,7 @@
     
       <item>
         <title>Quote of the Day</title>
-        <description>&lt;p&gt;οὔτε γὰρ ὁ σοφὸς ἐγκρατὴς ἀλλὰ σώφρων, οὔθ’ ὁ ἀμαθὴς ἀκρατὴς ἀλλ’ ἀκόλαστος· ὁ μὲν γὰρ ἥδεται τοῖς καλοῖς ὁ δ’ οὐκ ἄχθεται τοῖς αἰσχροῖς. σοφιστικῆς οὖν ψυχῆς ἡ ἀκρασία λόγον ἐχούσης οἷς ἔγνωκεν ὀρθῶς ἐμμένειν μὴ δυνάμενον (Plutarch, &lt;em&gt;Virt. mor.&lt;/em&gt; 446c).&lt;/p&gt;
-
-&lt;p&gt;The wise man is not self-mastered but moderate, nor does the fool lack self-mastery but moderation. For the one takes pleasure in what is honourable, while the other is not troubled by shameful things. Lack of self-mastery, therefore, is the mark of a sophistic soul having reason but not the ability to stand by the things that it has correctly discerned (Plutarch, &lt;em&gt;On Moral Virtue&lt;/em&gt; 446c).&lt;/p&gt;
+        <description>&lt;p&gt;“The wise person is not self-mastered but moderate, nor does the fool lack self-mastery but moderation. For the one takes pleasure in what is honourable, while the other is not troubled by shameful things. Lack of self-mastery, therefore, is the mark of a sophistic soul having reason but not the ability to stand by the things that it has correctly discerned” (Plutarch, &lt;em&gt;On Moral Virtue&lt;/em&gt; 446c).&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Jan 2013 15:42:00 -0500</pubDate>
         <link>http://jeffkeiser.com/quote-of-the-day-plutarch-on-moral-virtue-446c</link>
@@ -170,9 +131,7 @@
     
       <item>
         <title>Quote of the Day</title>
-        <description>&lt;p&gt;χρηστοῦ μέν ἐστιν ἡγεμόνος συγγνώμη, φιλοσόφου δὲ κακοῦ μὴ πικρὸν εἶναι (Dio Chrysostom, &lt;em&gt;Alex.&lt;/em&gt; 32.18).&lt;/p&gt;
-
-&lt;p&gt;“Clemency is the mark of a good ruler, but lack of severity is the mark of a bad philosopher.”&lt;/p&gt;
+        <description>&lt;p&gt;“Clemency is the mark of a good ruler, but lack of severity is the mark of a bad philosopher” (Dio Chrysostom, &lt;em&gt;Alexander&lt;/em&gt; 32.18).&lt;/p&gt;
 
 &lt;p&gt;Sorry, Plato. If Dio is right, either a good king will be a bad philosopher or a bad king will be a good philosopher.&lt;/p&gt;
 </description>
@@ -224,7 +183,8 @@
 
 &lt;p&gt;Anselm’s theory of satisfaction set an important precedent for later conceptions of the Incarnation and Atonement in Western Christendom, but it is neither the only nor the earliest response to the question posed by the Incarnation. According to Irenaeus of Lyons, Jesus Christ is “the only true and steadfast teacher, the Word of God … [who] became what we are in order to draw us to himself” (&lt;em&gt;Against Heresies&lt;/em&gt; 5, Introduction). Clement of Alexandria says that “the Word of God became human so that you may learn from a human how a human may become god” (&lt;em&gt;Exhortation to the Greeks&lt;/em&gt; 1.8.4). Similar sayings abound in the Fathers.&lt;/p&gt;
 
-&lt;p&gt;The theme of teaching and discipleship provides a helpful way to think about theosis. For many of the Eastern Fathers the Incarnation teaches not only that human nature &lt;em&gt;can&lt;/em&gt; be deified but that deification is ultimately what God intended for human beings. I looked at some of the key scriptures supporting this view in my &lt;a href=&quot;/thoughts-on-theosis-part-2&quot;&gt;last post&lt;/a&gt;, but more can be said about how the Fathers read the Bible through the lens of the Incarnation. This Christological way of to reading is especially remarkable in certain early interpretations of Genesis 1, where the acts of creation are understood not merely as past events but also as anticipating the &lt;em&gt;future&lt;/em&gt; perfection of God’s creatures. “God does not judge the beauty of His work by the charm of the eyes,” says Saint Basil the Great:&lt;/p&gt;
+&lt;!--excerpt.start--&gt;
+&lt;p&gt;The theme of teaching and discipleship provides a helpful way to think about theosis. For many of the Eastern Fathers the Incarnation teaches not only that human nature &lt;em&gt;can&lt;/em&gt; be deified but that deification is ultimately what God intended for human beings.&lt;!--excerpt.end--&gt; I looked at some of the key scriptures supporting this view in my &lt;a href=&quot;/thoughts-on-theosis-part-2&quot;&gt;last post&lt;/a&gt;, but more can be said about how the Fathers read the Bible through the lens of the Incarnation. This Christological way of to reading is especially remarkable in certain early interpretations of Genesis 1, where the acts of creation are understood not merely as past events but also as anticipating the &lt;em&gt;future&lt;/em&gt; perfection of God’s creatures. “God does not judge the beauty of His work by the charm of the eyes,” says Saint Basil the Great:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;and He does not form the same idea of beauty that we do. What He esteems beautiful is that which presents in its perfection all the fitness of art, and that which tends to the usefulness of its end. He, then, who proposed to Himself a manifest design in His works, approved each one of them, as fulfilling its end in accordance with His creative purpose (&lt;em&gt;Homilies on the Six Days of Creation&lt;/em&gt; 3.10)&lt;/p&gt;
@@ -290,7 +250,7 @@
 
 &lt;p&gt;Irenaus, Clement, and Athanasius link “becoming god” with the prior event of God becoming human—the Incarnation. I’ll have more to say about this connection later, but for now it suffices to say that these Fathers provide the simplest &lt;em&gt;conceptual&lt;/em&gt; definition of theosis—“becoming god.” They do not use the actual word &lt;em&gt;theosis.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;In fact, neither the word &lt;em&gt;theosis&lt;/em&gt; nor &lt;em&gt;any&lt;/em&gt; of the technical words and phrases typically used to express the concept have direct equivalents in the Bible.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; The closest biblical parallel to the idea of &lt;em&gt;participation&lt;/em&gt; in God is 2 Peter’s reference to becoming &lt;em&gt;sharers&lt;/em&gt; of the divine nature through the glory and excellence of Jesus (2 Pet 1:4),&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; but the Fathers rarely cite this passage.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; The most frequently cited text in both modern and patristic discussions of becoming god is Psalm 82:6 (81:6 in the Septuagint, the Greek translation of the Hebrew scriptures). Now a single verse is admittedly a weak foundation for an entire tradition, even by the standards of patristic exegesis, so let’s look more closely at the psalm in its historical, canonical, and traditional contexts.&lt;/p&gt;
+&lt;p&gt;Neither the word &lt;em&gt;theosis&lt;/em&gt; nor &lt;em&gt;any&lt;/em&gt; of the technical words and phrases typically used to express the concept have direct equivalents in the Bible.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; The closest biblical parallel to the idea of &lt;em&gt;participation&lt;/em&gt; in God is 2 Peter’s reference to becoming &lt;em&gt;sharers&lt;/em&gt; of the divine nature through the glory and excellence of Jesus (2 Pet 1:4),&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; but the Fathers rarely cite this passage.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; &lt;!--excerpt.start--&gt;The most frequently cited text in discussions of becoming god is Psalm 82:6 (81:6 in the Septuagint, the Greek translation of the Hebrew scriptures). A single verse is admittedly a weak foundation for an entire tradition, even by the standards of patristic exegesis, so let’s look more closely at this psalm in its historical, canonical, and traditional contexts.&lt;!--excerpt.end--&gt;&lt;/p&gt;
 
 &lt;p&gt;In its original historical setting Psalm 82 may have had in view one of several possible scenarios:&lt;/p&gt;
 
@@ -366,7 +326,8 @@
     
       <item>
         <title>Orthodox Christianity is not Exotic</title>
-        <description>&lt;p&gt;Since Eastern Orthodox Christianity is most likely to feature in mass media at this time of year, the following remarks by John Anthony McGuckin are worth repeating, both for the benefit of Orthodox and non-Orthodox alike. First, from McGuckin’s recent introduction to the Orthodox Church:&lt;/p&gt;
+        <description>&lt;!--excerpt.start--&gt;
+&lt;p&gt;Since Eastern Orthodox Christianity is most likely to feature in mass media at this time of year, the following remarks by John Anthony McGuckin are worth repeating, both for the benefit of Orthodox and non-Orthodox alike.&lt;!--excerpt.end--&gt; First, from McGuckin’s recent introduction to the Orthodox Church:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The Orthodox (generally) do not regard themselves as exotic. If they have come to Orthodoxy from other forms of Western Christian tradition, or from secular atheism, they are often tempted to regard themselves as exotic for a while, but it soon wears off. Apparently, however, many external observers do still retain that perspective, and it can often tempt the Orthodox to live up to it by ‘posing’ as exotic: a dangerous state of affairs which postcolonial theory has put its finger on already as ‘subalternism’, or that state where a small group with a residual minority consciousness tries to live up to expectations foisted on it by the dominant hegemonic powers of the age. The Christian Orthodox, as they have been encountered relatively rarely, ‘in the flesh’, in the ordinary experience of most Western Christians, are certainly a ‘strange encounter’. The root presuppositions, and the basic style of worship and attitude that are so familiar in many forms of Western Christian practice, seem different here. If the Orthodox feature in the public eye of the media at all, it is usually with a view to the ‘strange’ rituals of a church that has a very ancient liturgical style, and often uses languages that outsiders do not remotely understand.&lt;/p&gt;
@@ -393,6 +354,135 @@
         <category>Orthodoxy</category>
         
         <category>Postcolonialism</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Thoughts on Theosis, Part 1: Vocabulary</title>
+        <description>&lt;p&gt;Other posts in this series:&lt;br /&gt;
+&lt;a href=&quot;/thoughts-on-theosis-part-2&quot;&gt;Part 2: What the Bible Says About Theosis&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/thoughts-on-theosis-part-3&quot;&gt;Part 3: Theosis and Orthodox Doctrine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In view of the recent surge of Protestant interest in the Orthodox understanding of theosis, especially among Evangelicals, I thought I would pull together a few remarks on the subject, with the caveat that the views and opinions expressed in what follows distill my own scarcely comprehensive reading and imperfect (in)experience.&lt;/p&gt;
+
+&lt;p&gt;Although contemporary Orthodox Christians see themselves as heirs and transmitters of the Patristic and Byzantine tradition, reading the Church Fathers can be intimidating at first; the amount of material to sift through is immense, the learning curve is steep, and the most accessible translations are sometimes incomplete or outdated. Fortunately, Norman Russell’s Fellow Workers with God now provides a clear and readable primer on “Orthodox thinking on Theosis.”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; A glance at some of the older, still influential surveys of Orthodox Christianity illustrates why Russell’s contribution is important. Let’s start with the vocabulary.&lt;/p&gt;
+
+&lt;p&gt;Popular introductions to Orthodoxy and surveys of Orthodox theology do not always include clearly marked chapters dedicated to theosis.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; If they provide indices they may not include an entry for theosis or, if they do, it will likely point back to the entry for deification. In addition to theosis and deification, readers will also encounter more complex phrases that generally seem to cover the same territory, like union with God or participation in God.&lt;/p&gt;
+
+&lt;p&gt;Deification and theosis are basically synonyms. I’m not entirely sure what combination of factors has influenced an increasing preference for theosis among Orthodox theologians over the past decade or so,&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; but I would guess that the flowering of eastern patristic and Byzantine scholarship in the past century, initiated by Russian émigrés like Vladimir Lossky, Georges Florovsky, and John Meyendorff, has encouraged Orthodox theologians both to use the language of the Fathers and to distinguish their views from western conceptions of deification.&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; It is also possible that, in their encounters with Evangelicals, the Orthodox have found that theosis does not set off Evangelical warning bells quite so quickly as deification.&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;!--excerpt.start--&gt;
+&lt;p&gt;Whether union with God and participation in God are basically equivalent to theosis depends on whether one views theosis as the goal of human life (“union”) or as a process (“participation”).&lt;!--excerpt.end--&gt; As of this post, the Wikipedia article on “Theosis” tends toward the former, describing theosis as only the final stage of a three-stage process leading to union with God. Russell remarks, however, that theosis is both … and.&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;There is a certain unresolved but vital tension between these two aspects of theosis. Again, my guess is that Protestants’ fear of theosis is sometimes confirmed by their reading of Orthodox theologians who emphasize theosis as the goal of Christian life, which can be (partially correctly) interpreted as implying that theosis is something for which one must work. Theosis as a process may have more in common with what Protestants typically think of as sanctification. In either case a number of qualifications are necessary to prevent Orthodox thinking on theosis from sliding into pantheism or undifferentiated monotheism. Before we go there, however, stay tuned for a look at &lt;a href=&quot;/thoughts-on-theosis-part-2&quot;&gt;what the Bible says about Theosis&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;There is no shortage of scholarly books and essays on the subject, including Russell’s indispensible study ofThe Doctrine of Deification in the Greek Patristic Tradition Andrew Louth’s short essay on “The Place of Theosis in Orthodox Theology” is among the more accessible treatments (pp. 32–44 in Partakers of the Divine Nature: The History and Development of Deification in the Christian Traditions, edited by Michael J. Christensen and Jeffery A. Wittung). The full text of the late Panagiōtēs K. Chrēstou’s Partakers of God is available here. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Exceptions include Vladimir Lossky’s The Mystical Theology of the Eastern Church, with a chapter on “The Way of Union,” and Daniel Clendenin’s Eastern Orthodox Christianity: A Western Perspective, with a chapter entitled “The Deification of Humanity: Theosis.” In what is still the most popular introduction to Orthodoxy, Timothy (Metropolitan Kallistos) Ware’s The Orthodox Church, Ware discusses deification in a subsection entitled ‘Partakers of the Divine Nature’ (the links will take you to an older edition; my printed 1997 edition has been revised to incorporate inclusive language, among other things—“humankind” instead of “man”, etc.). So, the issue is not whether Orthodox theologians discuss theosis, inevitably they do, but how they define and present it (see note 6 below). &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;This shift can be observed quite clearly in the successive editions of a short book by Archimandrite George, Abbot of St. Gregorios Monastery on Mt. Athos. In three editions from 1992 to 2001, the English version was entitled The deification as the purpose of man’s life. The title of the most recent 2006 edition is Theosis: the true purpose of human life (note also the use of inclusive language). &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Although the language of the Fathers is not necessarily uniform, at least initially. Carl Mosser has recently recommended using theopoiesis instead of theosis to characterize the perspective of early Church Fathers like Irenaeus, Athanasius, and others. For quick reference, Peter J. Leithart has provided a summary of Mosser’s views. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;As a transliterated Greek word, theosis has both a technical ring and the quality of being what Mosser (see note 4 above) might call “an exotic flower.” See Mosser’s exchange with Michael J. Gorman in the comments section of Gorman’s Cross Talk post on Protestants’ Fear of Theosis. Mosser’s comments concerning my own criticism of his position are also worth a look. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;In his introduction to Fellow Workers with God Russell quotes four contemporary Orthodox theologians, each of whom offers a different perspective on deification or theosis (pp. 19–21). These four perspectives can be classified according to two distinct emphases. Russell harmonizes these emphases in his description of theosis as “both the goal of the divine economy and the process by which the economy is worked out in the believer” (p. 21). &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 24 Mar 2010 12:44:00 -0400</pubDate>
+        <link>http://jeffkeiser.com/thoughts-on-theosis-part-1</link>
+        <guid isPermaLink="true">http://jeffkeiser.com/thoughts-on-theosis-part-1</guid>
+        
+        <category>Participation in God</category>
+        
+        <category>Deification</category>
+        
+        <category>Union with God</category>
+        
+        <category>Theosis</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lent is Our Damascus Road, Part 3: Torn from His Mother’s Womb</title>
+        <description>&lt;p&gt;Other posts in this series:&lt;br /&gt;
+&lt;a href=&quot;/lent-is-our-damascus-road-part-1&quot;&gt;Lent Is Our Damascus Road, Part 1: Blindness&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;/lent-is-our-damascus-road-part-2&quot;&gt;Lent Is Our Damascus Road, Part 2: Two Perspectives&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;By his own admission, Paul’s &lt;em&gt;modus operandi&lt;/em&gt; was to forget the past and press on to what lies ahead (Phil 3:13–14). On the rare occasions when he does look back one point is crystal clear. In the words of a justly famous essay by Krister Stendahl:&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Sin with capital S in Paul’s past was that he had persecuted the Church of God. This climax of his dedicated obedience to his Jewish faith [Gal 1:13, Phil 3:6] was the shameful deed which made him the least worthy of apostleship [1 Cor 15:9]. This motif, which is elaborated dramatically by the author of the Acts of the Apostles [&lt;cite style=&quot;font-style: normal&quot; title=&quot;Acts 9&quot; class=&quot;bibleref&quot;&gt;Acts 9&lt;/cite&gt;; &lt;cite style=&quot;font-style: normal&quot; title=&quot;Acts 22&quot; class=&quot;bibleref&quot;&gt;22&lt;/cite&gt;; &lt;cite style=&quot;font-style: normal&quot; title=&quot;Acts 26&quot; class=&quot;bibleref&quot;&gt;26&lt;/cite&gt;], is well grounded in Paul’s own epistles. Similarly, when I Timothy states on Paul’s account that “Christ Jesus came into the world to save sinners, of whom I am number one” [1 Tim 1:15], this is not an expression of contrition in the present tense, but refers to how Paul in his ignorance had been a blaspheming and violent persecutor, before God in his mercy and grace had revealed to him his true Messiah and made Paul an Apostle and a prototype of sinners’ salvation [1 Tim  1:12-16] (p. 89)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Stendahl pressed his case against seeing Paul as the prototypical introspective conscience of the West by suggesting that “Paul knew that he had made up for this terrible Sin of persecuting the Church.” In as many words he indicated that Paul possessed no less robust an awareness of his own blamelessness after his initial encounter with the risen Christ than before.&lt;/p&gt;
+
+&lt;p&gt;Did Saint Paul really believe that he had &lt;em&gt;made up&lt;/em&gt; for his cardinal sin of persecuting the Church of God? Stendahl wanted his readers to think so, and toward that end he quoted Paul’s own words: “… his grace toward me was not in vain; on the contrary, I worked harder than any of them—though it was not I but the grace of God which is with me” (1 Cor 15:10). If this tells us anything about Paul, however, it only tells us that he thought he &lt;em&gt;had&lt;/em&gt; to work harder than the rest of the Apostles, not that his work was complete or that he had somehow atoned for his violent past. In the same context he refers to himself as &lt;em&gt;the ektrōma&lt;/em&gt;, the last of all to see the risen Christ and the &lt;em&gt;only&lt;/em&gt; one who was, in the sterile, Elizabethan rendering of several popular translations, “untimely born” (1 Cor 15:8)&lt;/p&gt;
+
+&lt;p&gt;Modern studies of conversion have shown that converts typically tell their stories in language and concepts learned from their new communities. We may expect no less of Saint Paul, but it is difficult to believe that the early Jesus folk typically called themselves &lt;em&gt;stillborns&lt;/em&gt; or &lt;em&gt;abortions.&lt;/em&gt; This is Paul’s own choice of words, and it gives every indication that he experienced his vision of the risen Christ as a profound rupture with what he himself refers to as his former life in Judaism.&lt;/p&gt;
+
+&lt;p&gt;Saint Paul was &lt;em&gt;not&lt;/em&gt; an especially introspective person nor did he often dwell on the past; that much is clear, but we ought to appreciate the fact that when he does recall his former life, some twenty or so years after his initial encounter with the risen Christ, what stands out is his excessive persecution of the Church and his zeal for the traditions of his fathers:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For you have heard of my former conduct in Judaism, that I was persecuting the Church of God beyond measure and trying to destroy it, that I was advancing in Judaism beyond many contemporaries among my people, being even more zealous for the traditions of my fathers. But when the God who separated me from my mother’s womb and called me through his grace was pleased to reveal his son in me, so that I might proclaim him among the nations, I did not immediately consult with flesh and blood … (Gal 1:13–16).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It is possible that Paul portrays himself in prophetic terms here as being set apart from birth for the special purpose of proclaiming the Son of God among the nations, a &lt;em&gt;calling&lt;/em&gt; which he had only lately realized with the aid of revelation, but the proximity of his references to the “traditions of his fathers” and “his mother’s womb” suggests that the two are really one and the same thing, that Paul saw himself as being torn from his comfortable life in Judaism and cast out among the nations, an experience that came upon him suddenly and for which he was profoundly unprepared. The intersection of this language in with his self-characterization elsewhere as &lt;em&gt;the ektrōma&lt;/em&gt; suggests that Paul viewed himself as lying dead in his sins at the very moment of his calling. A later midrash on Exodus portrays God’s redemption of Israel from slavery in Egypt in similarly visceral terms: “When I passed I saw you lying in your blood and I said to you, ‘Rise’”. The midrash goes on to describe how God nurtured Israel and adorned her in beautiful clothing, in much the same way Paul speaks of those who are baptized as having “put on Christ” (Gal 3:27).&lt;/p&gt;
+
+&lt;p&gt;Were we to ask Paul what were the sins in which he was stillborn, it is doubtful that he would say he had failed to meet the demands of the Law. In fact he almost certainly thought that his actions against the nascent Church were fully acceptable according to the Law. Whatever Paul experienced at the moment when he encountered the risen Christ, his subsequent reflections do not indicate much psychological turmoil over Judaism or the Law. The memory that he had persecuted the Church evidently stayed with him, however, and if we are reaching for a psychological explanation for his startling transformation then &lt;em&gt;that memory&lt;/em&gt; is the place to go. Thus we can endorse Stendahl’s original insight that Paul was not especially introspective with the qualification that the risen Christ &lt;em&gt;challenged&lt;/em&gt; him to be introspective. Paul’s blindness is a metaphor for his failure to see that, in his zeal, what he did not perceive as a transgression of the Law was nevertheless a sin against the body of Christ. “Saul, Saul, why do you persecute &lt;em&gt;me?”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If we persist in speaking of Paul’s conversion, in this light, we would do well to set aside the big religious questions and consider in the first instance what were the personal implications for Paul and, by application, for ourselves. If we persist in thinking of Paul’s conversion, in this light, we would do well to think of a moral conversion, a repudiation of coercive violence in the blinding presence of the risen Lord, the same Lord who had submitted himself to the violence of the cross. If we persist in thinking of Paul’s conversion, in this light, we would do well to think of an intellectual conversion, a stunning, catalytic realization that this Lord &lt;em&gt;IS&lt;/em&gt; who they say he is. If we persist in speaking of Paul’s conversion, in this light, we would do well to think of a spiritual conversion, an immediate awareness that the power of life even now dwells in our decaying flesh. If we persist in thinking of Paul’s &lt;em&gt;calling,&lt;/em&gt; in this light, we would do well to remember that he could not have been called without first being converted. This, at any rate, is how the Acts of the Apostles remembers Saint Paul.&lt;/p&gt;
+
+&lt;p&gt;Lent is our Damascus road, but in order to hear the voice of the Spirit speaking through Saul’s encounter with the risen Lord we need to attend to the details. The Damascus road is not about Judaism or Christianity; it is not about Law or Gospel; it is not about works or faith. It is about abject blindness in the face of glory; it is about hearing and heeding the words of the Lord. It is about being converted &lt;em&gt;and&lt;/em&gt; being called.&lt;/p&gt;
+
+&lt;!--excerpt.start--&gt;
+&lt;p&gt;Lent challenges us to look &lt;em&gt;inward&lt;/em&gt; in an age when we are more inclined to extend ourselves &lt;em&gt;outward&lt;/em&gt; in ever-expanding social networks. In an age of information without understanding, of breadth without depth, Lent is our time to contemplate what is the breadth and length and height and depth of the love of God, that we may be filled up to all the fullness of God (Eph 3:18–19). Lent is our time for moral, intellectual, and spiritual conversion; only then will we realize our calling.&lt;!--excerpt.end--&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As for your birth, on the day you were born your navel cord was not cut, nor were you washed with water to cleanse you, nor rubbed with salt, nor wrapped in cloths. No eye pitied you, to do any of these things for you out of compassion for you; but you were thrown out in the open field, for you were abhorred on the day you were born. I passed by you, and saw you flailing about in your blood. As you lay in your blood, I said to you, ‘Live!’ (Ezekiel 16:4&amp;amp;8211;6)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Krister Stendahl, “&lt;a href=&quot;http://www.dburnett.com/wp-content/uploads/2011/07/The-Apostle-Paul-and-the-Introspective-Conscience-of-the-West.pdf&quot;&gt;The Apostle Paul and the Introspective Conscience of the West&lt;/a&gt;,” &lt;em&gt;Harvard Theological Review&lt;/em&gt; 56.3 (1963): pp. 199–215. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 11 Mar 2010 21:47:00 -0500</pubDate>
+        <link>http://jeffkeiser.com/lent-is-our-damascus-road-part-3</link>
+        <guid isPermaLink="true">http://jeffkeiser.com/lent-is-our-damascus-road-part-3</guid>
+        
+        <category>Acts</category>
+        
+        <category>Philippians</category>
+        
+        <category>New Perspective</category>
+        
+        <category>Lent</category>
+        
+        <category>Paul</category>
+        
+        <category>Ephesians</category>
+        
+        <category>Conversion</category>
+        
+        <category>Calling</category>
+        
+        <category>Galatians</category>
         
         
       </item>
