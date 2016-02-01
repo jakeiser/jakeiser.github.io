@@ -16,4 +16,4 @@ blogger_orig_url: http://sacredveils.blogspot.com/2013/01/quote-of-day.html
 permalink: quote-of-the-day-plutarch-on-moral-virtue-446c
 ---
 
-The wise person is not self-mastered but moderate, nor does the fool lack self-mastery but moderation. For the one takes pleasure in what is honourable, while the other is not troubled by shameful things. Lack of self-mastery, therefore, is the mark of a sophistic soul having reason but not the ability to stand by the things that it has correctly discerned (Plutarch, *On Moral Virtue* 446c).
+“The wise person is not self-mastered but moderate, nor does the fool lack self-mastery but moderation. For the one takes pleasure in what is honourable, while the other is not troubled by shameful things. Lack of self-mastery, therefore, is the mark of a sophistic soul having reason but not the ability to stand by the things that it has correctly discerned” (Plutarch, *On Moral Virtue* 446c).
