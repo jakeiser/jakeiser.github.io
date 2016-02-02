@@ -17,7 +17,6 @@ blogger_orig_url: http://sacredveils.blogspot.com/2014/06/memory-eternal-ellen-a
 permalink: memory-eternal-ellen-bradshaw-aitken
 disqus_identifier: 4537788376
 comments: true
-# other options
 ---
 
 <img style="float: left; width: 150px; margin-right: 1em;" title="" src="http://publications.mcgill.ca/reporter/files/2014/06/aitken_090826-111252-5232.web_.jpg" alt="" width="" height="" border="0">
