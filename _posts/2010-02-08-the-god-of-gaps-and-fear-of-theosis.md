@@ -9,6 +9,7 @@ modified_time: '2010-07-19T21:33:07.645-04:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-4600657761240674690
 blogger_orig_url: http://sacredveils.blogspot.com/2010/02/god-of-gaps-and-fear-of-theosis.html
 permalink: the-god-of-gaps-and-fear-of-theosis
+comments: true
 disqus_identifier: 4537790685
 ---
 

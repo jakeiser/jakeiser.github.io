@@ -9,6 +9,7 @@ modified_time: '2010-07-19T20:46:30.204-04:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-8097049620067193953
 blogger_orig_url: http://sacredveils.blogspot.com/2010/03/orthodox-christianity-is-not-exotic.html
 permalink: orthodox-christianity-is-not-exotic
+comments: true
 ---
 
 <!--excerpt.start-->Since Eastern Orthodox Christianity is most likely to feature in mass media at this time of year, the following remarks by John Anthony McGuckin are worth repeating, both for the benefit of Orthodox and non-Orthodox alike.<!--excerpt.end--> First, from McGuckin’s recent introduction to the Orthodox Church:

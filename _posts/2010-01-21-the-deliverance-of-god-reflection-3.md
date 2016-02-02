@@ -11,6 +11,7 @@ modified_time: '2010-07-19T21:31:28.574-04:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-5675458594562102071
 blogger_orig_url: http://sacredveils.blogspot.com/2010/01/on-deliverance-of-god-reflection-3.html
 permalink: the-deliverance-of-god-reflection-3
+comments: true
 ---
 
 Previous Posts in this Series:  

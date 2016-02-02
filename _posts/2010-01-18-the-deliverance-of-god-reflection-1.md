@@ -11,6 +11,8 @@ modified_time: '2010-03-11T22:39:26.801-05:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-101488287081528080
 blogger_orig_url: http://sacredveils.blogspot.com/2010/01/reflections-on-deliverance-of-god-part.html
 permalink: the-deliverance-of-god-reflection-1
+comments: true
+disqus_identifier: e481c6b5-3db6-44bc-9d2f-e9cf9afa0dac
 ---
 
 <!--excerpt.start-->This post begins a series of modest reflections on Douglas Campbell’s latest book, entitled *[The Deliverance of God: An Apocalyptic Rereading of Justification in Paul](http://www.amazon.com/Deliverance-God-Apocalyptic-Rereading-Justification/dp/0802831265?ie=UTF8&tag=sacrveil-20&link_code=btl&camp=213689&creative=392969).* Campbell’s thesis is relatively simple, but its implications are potentially far-reaching.<!--excerpt.end--> He argues that many of the contradictions and inconsistencies that have preoccupied Pauline scholars at least since the late nineteenth century may not be inherent features of Paul’s thought so much as fissures formed by the imposition of an essentially foreign interpretive framework, or what Campbell calls Justification theory. NT scholars sometimes refer to this somewhat inaptly as the Lutheran Perspective, in order to differentiate it from the increasingly inaptly-named [New Perspective on Paul](http://www.thepaulpage.com/new-perspective/introduction-and-summary), but most laypersons will have encountered it in the form of the classic Protestant doctrine of Justification by faith.
