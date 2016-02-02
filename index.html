@@ -15,11 +15,7 @@ layout: default
         
             <p class="post-excerpt">
             {% if post.content contains '<!--excerpt.start-->' and post.content contains '<!--excerpt.end-->' %}
-            {{ ((post.content | split:'<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | remove: '<p>' | remove: '</p>' }}
-            <!--{% else %}
-            {{ post.content }}
-            {% endif %}-->
-            
+            {{ ((post.content | split:'<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | remove: '<p>' | remove: '</p>' }}            
             {% if post.content contains '<!--excerpt.end-->' %}
         	.&nbsp;.&nbsp;.&nbsp;<a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
             {% endif %}
