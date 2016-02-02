@@ -14,6 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-11289503251319452
 blogger_orig_url: http://sacredveils.blogspot.com/2010/01/sin-debt-and-economy-of-salvation.html
 permalink: sin-debt-and-the-economy-of-salvation
 comments: true
+disqus_identifier: 98bc7801-c645-4634-8626-0dba58c5dbcf
 ---
 
 Previous Posts in this Series:  

@@ -15,6 +15,7 @@ blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-47759806276485880
 blogger_orig_url: http://sacredveils.blogspot.com/2014/05/saint-paul-conversion-and-social.html
 permalink: saint-paul-conversion-and-social-constructionism
 comments: true
+disqus_identifer: ed84d7e6-a9ca-453e-9dc8-5dd3e7bbaf62
 ---
 
 <img style="float: left; margin-right: 1em;" title="" src="http://irrco.files.wordpress.com/2010/11/stpaul.jpg" alt="Ravenna Paul" width="100px" height="100px" border="0" />

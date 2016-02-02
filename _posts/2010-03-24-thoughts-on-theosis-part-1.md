@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-13099435360078626
 blogger_orig_url: http://sacredveils.blogspot.com/2010/03/thoughts-on-theosis-part-1-jargon.html
 permalink: thoughts-on-theosis-part-1
 comments: true
+disqus_identifier: da899d9b-c62b-4694-9730-a56b3ff9d71f
 ---
 
 Other posts in this series:  

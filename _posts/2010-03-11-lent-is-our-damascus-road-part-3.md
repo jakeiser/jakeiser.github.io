@@ -17,6 +17,7 @@ blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-21427765113088719
 blogger_orig_url: http://sacredveils.blogspot.com/2010/03/lent-is-our-damascus-road-part-3-torn.html
 permalink: lent-is-our-damascus-road-part-3
 comments: true
+disqus_identifier: b5f9ea79-552c-4298-ad2a-20ac26fe1132
 ---
 
 Other posts in this series:  

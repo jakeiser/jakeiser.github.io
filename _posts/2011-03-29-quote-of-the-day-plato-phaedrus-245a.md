@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-26541086023582604
 blogger_orig_url: http://sacredveils.blogspot.com/2011/03/quote-of-day.html
 permalink: quote-of-the-day-plato-phaedrus-245a
 comments: true
+disqus_identifer: 0391dc17-c009-4bed-bcb3-9b7cb2f7a98b
 ---
 
 “The poetry of the sane person is eclipsed by that of inspired manics” (Plato, *Phaedrus* 245a)

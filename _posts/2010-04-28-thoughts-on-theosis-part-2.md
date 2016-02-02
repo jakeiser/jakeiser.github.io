@@ -15,6 +15,7 @@ blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-15699565405579149
 blogger_orig_url: http://sacredveils.blogspot.com/2010/04/thoughts-on-theosis-part-2-what-bible.html
 permalink: thoughts-on-theosis-part-2
 comments: true
+disqus_identifer: e22ecbae-4d7f-4740-b92e-3c8d0db9499e
 ---
 
 Other posts in this series:  
