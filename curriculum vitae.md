@@ -2,6 +2,7 @@
 layout: page
 title: Curriculum Vitae
 permalink: /curriculum-vitae/
+exclude: true
 ---
 
 ###Education

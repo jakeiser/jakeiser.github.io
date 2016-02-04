@@ -15,7 +15,7 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-         {% unless page.courses %}
+         {% unless page.courses or page.exclude %}
            {% if page.permalink %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
            {% endif %}
