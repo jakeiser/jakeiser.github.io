@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Memory Eternal | Αἰωνία ἡ μνήμη: Ellen Bradshaw Aitken (1961–2014)'
+title: 'Memory Eternal: Ellen Bradshaw Aitken (1961–2014)'
 date: '2014-06-16T15:04:00.001-04:00'
 tags:
 - Philosophy
