@@ -46,7 +46,7 @@
 		
 	a.new-window {
 		padding-right:1.25em;
-		background-image:url('http://jeffkeiser.com/images/new_window_icon.gif');
+		background-image:url('/assets/new_window_icon.gif');
 		background-repeat:no-repeat;
         background-position:right;
 		}
@@ -197,12 +197,6 @@
 		width:80%;
 		text-align:left;
 		padding: 0 0 1em 2em
-		}
-		
-	.embed{
-		display:block;
-		margin-top:1.5em;
-		margin-bottom:1.5em
 		}
 		
 	.italic-underline {

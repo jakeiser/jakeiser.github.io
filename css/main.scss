@@ -3,7 +3,19 @@
 ---
 @charset "utf-8";
 
-
+/* Print Only*/
+@media print {
+	.noprint {display: none !important;}
+	.hide {display: none !important;}
+	.noshow {display: block !important;}
+	}
+		
+/* Screen Only*/
+@media screen {
+	.noprint {display: block !important;}
+	.hide {display: none !important;}
+	.noshow {display: none !important;}
+	}
 
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
@@ -33,6 +45,7 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
