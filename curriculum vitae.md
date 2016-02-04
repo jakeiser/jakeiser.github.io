@@ -38,7 +38,7 @@ Hearing God’s Silence: Ignatius of Antiokheia and the Music of the Spheres. Pa
 
 The Circumcision of Jesus (Luke 2:21) and the Formation of Luke’s Infancy Narrative. Pages 39–52 in Scriptura: Nouvelle Series 9.2 (2007): Récits de l'enfance et filiation  de Jesus.
 
-[Crucifying Adam: The Mysticism and Mystagogy of Paul the Apostle](). Pages 189–210 in ed. Jeffrey Keiser and Michelle Rebidoux, ARC, The Journal of the Faculty of Religious Studies, McGill University 35 (2007): Essays on Mysticism and Phenomenology.
+[Crucifying Adam: The Mysticism and Mystagogy of Paul the Apostle]({{ site.url }}/assets/keiser-crucifying-adam.pdf). Pages 189–210 in ed. Jeffrey Keiser and Michelle Rebidoux, ARC, The Journal of the Faculty of Religious Studies, McGill University 35 (2007): Essays on Mysticism and Phenomenology.
 
 #### Edited Volumes
 
@@ -62,13 +62,15 @@ The Circumcision of Jesus (Luke 2:21) and the Formation of Luke’s Infancy Narr
 
 * *archēgos*
 
-    “Range of Usage,” Ellen B. Aitken, L. Stephanie Cobb, Jeffrey Keiser, and Richard Harley   
-“Broad Context”  Ellen B. Aitken, L. Stephanie Cobb, Jeffrey Keiser, and Bradley Rice  
-“Following the Heroic Path,”  Richard Harley, Jeffrey Keiser, and Matthew Lootens
+    “Range of Usage,” Ellen B. Aitken, L. Stephanie Cobb, Jeffrey Keiser, and Richard Harley
+    
+    “Broad Context”  Ellen B. Aitken, L. Stephanie Cobb, Jeffrey Keiser, and Bradley Rice
+    
+    “Following the Heroic Path,”  Richard Harley, Jeffrey Keiser, and Matthew Lootens
 
 * *doulos*
 
-    Three Slaves Who Rose to Prominence,”  Richard Harley and Jeffrey Keiser
+    “Three Slaves Who Rose to Prominence,”  Richard Harley and Jeffrey Keiser
 
 * *euergesia*
 
@@ -77,6 +79,7 @@ The Circumcision of Jesus (Luke 2:21) and the Formation of Luke’s Infancy Narr
 * *eusebeia*
 
     “Aeneas and the Roman Ideal of Piety” Mikeal Parsons and Jeffrey Keiser
+    
     “Christianity and the Dynamics of Piety in a Troubled Province,” Mikeal Parsons and Jeffrey Keiser
 
 ### Scholarly Presentations
@@ -85,7 +88,7 @@ Hero Christology in Asia Minor: Evidence from Pliny the Younger. Paper presented
 
 Disarming Death: Personification and Perception in 1 Cor 15:55 and Graeco-Roman Culture. Paper presented at Coming Back to Life: Performance, Memory, and Cognition in the Ancient Mediterranean, McGill University, Montreal, Quebec, Friday, May 9, 2014.
 
-In Memoriam Apostoli Pauli: Paul and the Body Politic in Galatians. Paper presented at the Society of Biblical Literature Annual Meeting, joint Graeco-Roman Religion/Society for Ancient Mediterranean Religions Session, San Francisco, Calififornia, Sunday, November 20, 2011.
+[In Memoriam Apostoli Pauli: Paul and the Body Politic in Galatians]({{ site.url }}/assets/keiser-in-memoriam-apostoli-pauli.pdf). Paper presented at the Society of Biblical Literature Annual Meeting, joint Graeco-Roman Religion/Society for Ancient Mediterranean Religions Session, San Francisco, Calififornia, Sunday, November 20, 2011.
 
 Of Tombs and Turning Points. Paper presented at the New England Society of Biblical Literature Regional Meeting, Andover Newton Theological School, Newton Centre, Massachusetts, Friday, April 29, 2011.
 
@@ -95,7 +98,7 @@ Life in the Flesh: Greek Patristic Interpretations of Gal 2:20. Paper presented 
 
 ‘My Erōs is Crucified’: Some Remarks on the Spiritual Legacy of Ignatius of Antioch.  Paper presented at Late Antique Crossroads in the Levant: Space, Rituals, Texts, and Daily Life. An International Colloquium in Montreal, November 1–4, 2006.
 
-Love Divine: A Reappraisal of Erōs in the Dionysian Hierarchies. Paper presented at the Second Annual Archbishop Iakovos Graduate Student Conference in Patristic Studies and the History of Christianity in Late Antiquity, sponsored by the Pappas Patristic Institute, Holy Cross Greek Orthodox School of Theology, Brookline, Massachusetts, March 23–25, 2006.
+[Love Divine: A Reappraisal of Erōs in the Dionysian Hierarchies]({{ site.url  }}/assets/keiser-love-divine.pdf). Paper presented at the Second Annual Archbishop Iakovos Graduate Student Conference in Patristic Studies and the History of Christianity in Late Antiquity, sponsored by the Pappas Patristic Institute, Holy Cross Greek Orthodox School of Theology, Brookline, Massachusetts, March 23–25, 2006.
 
 The Patristic Reception of Apocryphal Acts of the Apostles from Tertullian to Priscillian of Avila. Paper presented to the Seminar for Advanced New Testament Students, Harvard Divinity School, Cambridge, Massachusetts, December 3, 2003.
 
