@@ -4,13 +4,13 @@ title: Curriculum Vitae
 permalink: /curriculum-vitae/
 ---
 
-###Education
+### Education
 
 * Ph.D., New Testament and Early Christianity, McGill University, 2013
 * M.T.S. Harvard Divinity School, 2004
 * B.S., Graphic Design, Biola University, 1998
 
-###Teaching Experience
+### Teaching Experience
 
 Course Lecturer, Faculty of Religious Studies, McGill University
   
@@ -26,21 +26,21 @@ Teaching Assistant, Faculty of Religious Studies, McGill University
 
 * RELG 202: The Religion of Ancient Israel, Dr. Gerbern Oegema (2006)
 
-###Publications
+### Publications
 
-####Peer-Reviewed Articles and Essays
+#### Peer-Reviewed Articles and Essays
 
 Disarming Death: Theomachy and Resurrection in 1 Corinthians 15. Forthcoming in ed. Frederick S. Tappenden and Carly Daniel-Hughes, *[Coming Back to Life: The Permeability of Past and Present, Death and Life in the Ancient Mediterranean](http://comingbacktolife.mcgill.ca)* (Montreal: McGill University Library and Archives, Forthcoming 2016).
 
 Hearing God’s Silence: Ignatius of Antiokheia and the Music of the Spheres. Pages 3–34 in ed. Ellen Bradshaw Aitken and John M. Fossey, *The Levant: Crossroads of Late Antiquity: History, Religion, and Archaeology* (McGill Monographs in Classical Archaeology and History 22; Leiden: Brill, 2014).
 
-####Articles and Essays
+#### Articles and Essays
 
 The Circumcision of Jesus (Luke 2:21) and the Formation of Luke’s Infancy Narrative. Pages 39–52 in Scriptura: Nouvelle Series 9.2 (2007): Récits de l'enfance et filiation  de Jesus.
 
 [Crucifying Adam: The Mysticism and Mystagogy of Paul the Apostle](). Pages 189–210 in ed. Jeffrey Keiser and Michelle Rebidoux, ARC, The Journal of the Faculty of Religious Studies, McGill University 35 (2007): Essays on Mysticism and Phenomenology.
 
-####Edited Volumes
+#### Edited Volumes
 
 *The Levant: Crossroads of Late Antiquity: History, Religion, and Archaeology.* Ed. Ellen Bradshaw Aitken and John M. Fossey. Assoc. Ed. George Kellaris, Jeffrey Keiser. McGill Monographs in Classical Archaeology and History 22; Leiden: Brill, 2014.
 
@@ -52,7 +52,7 @@ The Circumcision of Jesus (Luke 2:21) and the Formation of Luke’s Infancy Narr
 
 *ARC, The Journal of the Faculty of Religious Studies, McGill University 33* (2005): Essays in Honour of Frederik Wisse: Scholar, Churchman, Mentor. Ed. Warren Kappeler. Copyediting, Michelle Rebidoux and Jeffrey Keiser. Cover design and typesetting, Jeffrey Keiser.
 
-####Lexical Entries
+#### Lexical Entries
 
 [Contexticon of New Testament Language](http://www.contexticon.com), Ed. Richard Harley. Cambridge, Mass.: Contexticon Learning and Research, Inc.
 
@@ -79,7 +79,7 @@ The Circumcision of Jesus (Luke 2:21) and the Formation of Luke’s Infancy Narr
     “Aeneas and the Roman Ideal of Piety” Mikeal Parsons and Jeffrey Keiser
     “Christianity and the Dynamics of Piety in a Troubled Province,” Mikeal Parsons and Jeffrey Keiser
 
-###Scholarly Presentations
+### Scholarly Presentations
 
 Hero Christology in Asia Minor: Evidence from Pliny the Younger. Paper presented at the Canadian Society of Biblical Studies Annual Meeting, Brock University, St. Catharines, Ontario, Saturday, May 24, 2014.
 
@@ -99,7 +99,7 @@ Love Divine: A Reappraisal of Erōs in the Dionysian Hierarchies. Paper presente
 
 The Patristic Reception of Apocryphal Acts of the Apostles from Tertullian to Priscillian of Avila. Paper presented to the Seminar for Advanced New Testament Students, Harvard Divinity School, Cambridge, Massachusetts, December 3, 2003.
 
-###Scholarships, Awards, and Other Honors
+### Scholarships, Awards, and Other Honors
 
 * Travel Award for Research Seminar on Early Christianity in Rome, McGill University, May/June 2011 ($2400)
 * New England Society of Biblical Literature Regional Travel Award, April 2011 ($100)
@@ -111,21 +111,21 @@ The Patristic Reception of Apocryphal Acts of the Apostles from Tertullian to Pr
 * Harvard Divinity School stipend for archeological fieldwork, 2003 ($1300)
 * Peter and Masha Plotkin Memorial Foundation Award, Biola University 1998 ($500)
 
-###Committee Memberships and Other Service Activities
+### Committee Memberships and Other Service Activities
 
 * Society of Biblical Literature Student Advisory Board member, 2006–2008
 * Society of Biblical Literature On-Campus Student Representative (OSR) for McGill University, 2006–2008
 * Abstracts Review Committee member for the Third Annual Archbiship Iakovos Graduate Student Conference in Patristic Studies and the History of Christianity in Late Antiquity, sponsored by the Pappas Patristic Institute, Holy Cross Greek Orthodox School of Theology, Brookline Massachusetts, March 15–17, 2007.
 * Organizing Committee member and Webmaster for Late Antique Crossroads in the Levant: Space, Rituals, Texts, and Daily Life. An International Colloquium in Montreal, November 1–4, 2006. www.lateantiquecrossroads.mcgill.ca.
 
-###Professional Organizations
+### Professional Organizations
 
 * American Academy of Religion
 * Canadian Society of Biblical Studies
 * North American Patristics Society
 * Society of Biblical Literature
 
-###Research Interests
+### Research Interests
 
 * Pauline Epistles
 * Early Christian Mysticism
@@ -133,7 +133,7 @@ The Patristic Reception of Apocryphal Acts of the Apostles from Tertullian to Pr
 * Reception History
 * Bible and Culture
 
-###Languages
+### Languages
 
 * Greek (Classical, Koine, and Patristic)
 * Latin
