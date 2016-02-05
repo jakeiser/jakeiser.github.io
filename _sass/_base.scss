@@ -46,6 +46,15 @@ img {
 }
 
 
+/**
+ * Embedded Files
+ */
+.embed {
+    margin: 1em 0 1em 0;
+}
+
+
+
 
 /**
  * Figures
@@ -127,6 +136,7 @@ blockquote {
  */
 
 table {
+	table-layout: fixed;
 	}
 	
 	#schedule {
@@ -147,21 +157,21 @@ table {
 	line-height:1.5em;
 	width:8%;
 	text-align:center;
-	padding: .75em 1.5em .75em 0
+	padding: .5em 1.5em .5em 0
 	}
 	
 	.date {
 	line-height:1.5em;
 	width:12%;
 	text-align:right;
-	padding: .75em 0 .75em 0
+	padding: .5em 0 .5em 0
 	}
 	
 	.title {
 	line-height:1.5em;
 	width:80%;
 	text-align:left;
-	padding: .75em 0 .75em 2em
+	padding: .5em 0 .5em 2em
 	}
 
 /**
@@ -196,8 +206,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(60% - (#{$spacing-unit} * 2));
+    max-width:         calc(60% - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -205,8 +215,8 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
+        max-width: -webkit-calc(60% - (#{$spacing-unit}));
+        max-width:         calc(60% - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }

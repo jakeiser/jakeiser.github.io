@@ -13,7 +13,11 @@
       </div>
     </div>
 
-    {% include footer.html %}
+    {% if page.courses %}
+      {% include footer-syllabus.html %}
+      {% else %}
+      {% include footer.html %}
+     {% endif %}
     {% include google_analytics.html %}
 
   </body>
