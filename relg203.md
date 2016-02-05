@@ -1,142 +1,116 @@
-<!DOCTYPE html>
+---
+layout: page
+title: Bible and Western Culture
+courses: true
+permalink: /relg203-test/
+exclude: true
+---
 
-<html>
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>RELG 203: Syllabus</title>
+RELG 203, McGill University, Winter 2015  
+RPHYS 112, Tue, Thur 4:05–5:25 p.m.  
 
-<link rel="stylesheet" type="text/css" href="/css/syllabus-screen.css" media="screen" />
+Professor Jeffrey A. Keiser ([jkeiser.2+relg203@gmail.com](mailto:jkeiser.2+relg203@gmail.com?subject=RELG203))
 
-<link rel="stylesheet" type="text/css" href="/css/syllabus-print.css" media="print" />
+**Office and Hours:**  
+Birks 021; Tue 2:00 p.m.–3:00 p.m. and Thurs 11:00 a.m.–12:00 p.m.
 
-</head>
-<body>
+**Teaching Assistants:**  
+Brad Rice ([bradley.rice@mail.mcgill.ca](mailto:bradley.rice@mail.mcgill.ca?subject=RELG203))  
+Pauline Yee ([pauline.yee@mail.mcgill.ca](mailto:pauline.yee@mail.mcgill.ca?subject=RELG203))
 
-<div id="outer-wrapper">
-<h1 style="margin-bottom:0">Bible and Western Culture</h1>
+### Course Description
 
-<ul style="text-align:center">
-<li>RELG 203, McGill University, Winter 2015</li>
-<li>RPHYS 112, Tue/Thur 4:05–5:25 p.m.</li>
-<li style="margin-top:1em">Professor Jeffrey A. Keiser (students with last names beginning with A&#8211;G)</li>
-<li>(<a href="mailto:jkeiser.2+relg203@gmail.com?subject=RELG203">jkeiser.2+relg203@gmail.com</a>)</li>
-<li>Office: Birks 021</li>
-<li>Hours: Tue 2:00 p.m.&#8211;3:00 p.m. and Thurs 11:00 a.m.&#8211;12:00 p.m.</li>
-<li style="margin-top:1em">Teaching Assistants:</li>
-<li>Brad Rice (<a href="mailto:bradley.rice@mail.mcgill.ca?subject=RELG203">bradley.rice@mail.mcgill.ca</a> (students with last names beginning with H&#8211;M)</li>
-<li>Pauline Yee (<a href="mailto:pauline.yee@mail.mcgill.ca?subject=RELG203">pauline.yee@mail.mcgill.ca</a>) (students with last names beginning with N&#8211;Z)</li>
-</ul>
+This course explores the historical contexts and literary structures of the Bible in its own right as well as the influence of the Bible in literature, art, music, and film. Key persons, stories, and themes from the Bible and its history of interpretation will be studied in relation to ideologies and events that have shaped, and continue to shape, Western culture.
 
-<!--Course Description-->
+### Course Theses
 
-<h2>Course Description</h2>
-<p>This course explores the historical contexts and literary structures of the Bible in its own right as well as the influence of the Bible in literature, art, music, and film. Key persons, stories, and themes from the Bible and its history of interpretation will be studied in relation to ideologies and events that have shaped, and continue to shape, Western culture.</p>
+1. The Bible considered as a whole has a particular literary shape.
+2. The Bible is mythical in terms of its function in culture.
+3. The Bible has undergone a process of secularization.
 
-<h2>Course Theses</h2>
+### Course Objectives
 
-<ol class="number">
-<li>The Bible considered as a whole has a particular literary shape.</li>
-<li>The Bible is mythical in terms of its function in culture.</li>
-<li>The Bible has undergone a process of secularization.</li>
-</ol>
+Students in this course will:
 
-<h2>Course Objectives</h2>
+1. learn how to interpret the Bible and its manifold cultural representations critically and contextually;
+2. become familiar with persons, events, and trends in the Bible and its history interpretation;
+3. reflect critically on the category of ‘Western Culture’.
 
-<p>Students in this course will:</p>
-<ol class="number">
-<li>learn how to interpret the Bible and its manifold cultural representations critically and contextually;</li>
-<li>become familiar with persons, events, and trends in the Bible and its history interpretation;</li>
-<li>reflect critically on the category of ‘Western Culture’.</li>
-</ol>
+### Texts
 
-<!--Required Texts-->
+1. Bible
+  
+     Reading assignments from the Bible are linked to the e-text of the *New Revised Standard Version* (NRSV), hosted by the [Oremus Bible Browser](http://bible.oremus.org/). Many translations of the Bible are also available at [unboundbible.org](http://www.unboundbible.org), <a class="new-window" href="https://www.biblegateway.com/passage/" target="_blank">[biblegateway.com](https://www.biblegateway.com/passage/), and [lire.la-bible.net](http://lire.la-bible.net/index.php), all of which allow side-by-side comparison of multiple translations. You should acquire a printed Bible as well. The best choices for this class are Harold Attridge, et al., eds., *[The HarperCollins Study Bible, Student Edition](http://www.amazon.ca/Harpercollins-Study-Bible-Student-Revised/dp/0060786841/ref=sr_1_1?ie=UTF8&amp;amp;qid=1409422103&amp;sr=8-1&amp;keywords=HarperCollins+Study+Bible%2C+Student+Edition),* (San Francisco, Calif.: HarperOne, 2006) and Michael Coogan, et al., eds., *[The New Oxford Annotated Bible with Apocrypha, College Edition](http://www.amazon.ca/Oxford-Annotated-Bible-Apocrypha-9530/dp/0195289609)* (4th ed.; Oxford: Oxford University Press, 2010). Both of these editions use the NRSV. Other acceptable choices include the following:
+     
+   * New American Bible (NAB)
+   * New American Standard Bible (NASB)
+   * New English Bible (NEB)
+   * New English Translation (NET)
+   * New Jerusalem Bible (NJB)
+   * Revised Standard Version (RSV)
+   * TANAKH or Jewish Study Bible (NJPS). These two versions contain the Hebrew Bible only, so you will need to acquire one of the above translations for the New Testament
+   * Traduction oecuménique de la Bible (TOB)<br /><br />
+  
+  
+   You may use the King James Version (KJV) as a companion to one of the versions listed above if you have a special interest in English literature. The KJV is an outdated and inaccurate translation by today’s standards, but it remains the most influential translation of the Bible into English.
+   
+   *Paraphrases or primarily “dynamic/functional equivalency” translations such as the Contemporary English Version (CEV), the Good News Bible (GNB), the Living Bible (LB), The Message, the New Living Translation (NLT), The Voice, and Todays English Version (TEV) are not adequate for this course. Please speak with the instructor if you are unsure whether your version is acceptable.*
+   
+   Bibles can be purchased at the [Canadian Bible Society](http://maps.google.ca/maps?ie=UTF8&amp;amp;oe=utf-8&amp;amp;client=firefox-a&amp;q=Canadian+Bible+Society+Montreal&amp;amp;fb=1&amp;amp;cid=0,0,3543729535322090350&amp;amp;ll=45.504828,-73.56941&amp;amp;spn=0.007564,0.019312&amp;z=16&amp;amp;iwloc=A) (located in the Cathedral Mall between St. Catherine and Maisonneuve) or generally at any bookstore.
 
-<h2>Texts</h2>
+2. Other Required Readings
 
-<ol class="number">
-<li style="font-weight: bold; margin-bottom: 1em">Bible</li></ol>
-<p style="margin-bottom: 1em">Reading assignments from the Bible are linked to the e-text of the <i>New Revised Standard Version</i> (NRSV), hosted by the Oremus Bible Browser (<a href="http://bible.oremus.org/">http://bible.oremus.org/</a>). Many translations of the Bible are also available at <a class="new-window" href="http://www.unboundbible.org">unboundbible.org</a>, <a class="new-window" href="https://www.biblegateway.com/passage/" target="_blank">biblegateway.com</a>, and <a class="new-window" href="http://lire.la-bible.net/index.php" target="_blank">lire.la-bible.net</a>, all of which allow side-by-side comparison of multiple translations. You should acquire a printed Bible as well. The best choices for this class are Harold Attridge, et al., eds., <a class="new-window" style="font-style:italic" href="http://www.amazon.ca/Harpercollins-Study-Bible-Student-Revised/dp/0060786841/ref=sr_1_1?ie=UTF8&amp;amp;qid=1409422103&amp;sr=8-1&amp;keywords=HarperCollins+Study+Bible%2C+Student+Edition" target="_blank">The HarperCollins Study Bible, Student Edition</a> (San Francisco, Calif.: HarperOne, 2006) and Michael Coogan, et al., eds., <a class="new-window" style="font-style:italic" href="http://www.amazon.ca/Oxford-Annotated-Bible-Apocrypha-9530/dp/0195289609" target="_blank">The New Oxford Annotated Bible with Apocrypha, College Edition</a> (4th ed.; Oxford: Oxford University Press, 2010). Both of these editions use the NRSV. Other acceptable choices include the following:</p>
+   In addition to the assigned texts from the Bible, other required readings are listed for some lectures. These readings are accessible through links on the course schedule.
+   
+   NOTE: You will be responsible for reading all of the texts assigned for each lecture prior to class, so organize your time accordingly and come prepared.
 
-<ul class="bullets">
-<li>New American Bible (NAB)</li>
-<li>New American Standard Bible (NASB)</li>
-<li>New English Bible (NEB)</li>
-<li>New English Translation (NET)</li>
-<li>New Jerusalem Bible (NJB)</li>
-<li>Revised Standard Version (RSV)</li>
-<li>TANAKH or Jewish Study Bible (NJPS). These two versions contain the Hebrew Bible only, so you will need to acquire one of the above translations for the New Testament</li>
-<li>Traduction oecuménique de la Bible (TOB)</li>
-</ul>
+### Course Requirements
 
-<p>You may use the King James Version (KJV) as a companion to one of the versions listed above if you have a special interest in English literature. The KJV is an outdated and inaccurate translation by today’s standards, but it remains the most influential translation of the Bible into English.</p>
+Attendance is mandatory. Your comprehension and critical engagement with the assigned readings and lectures will be evaluated, so come prepared. Your grade in the course will be based on the following elements:
 
-<p style="font-style: italic; margin-bottom: 1em">Paraphrases or primarily “dynamic/functional equivalency” translations such as the Contemporary English Version (CEV), the Good News Bible (GNB), the Living Bible (LB), The Message, the New Living Translation (NLT), The Voice, and Todays English Version (TEV) are not adequate for this course. Please speak with the instructor if you are unsure whether your version is acceptable.</p>
+1. *<span style="text-decoration: underline">Thinking Pieces:</span>*&#160;&#160;Over the semester you must complete five (5) Thinking Pieces. These are short assignments that encourage critical engagement with the assigned readings and other course materials. Thinking pieces should not exceed two pages (approximately 500 words) of typed, double-spaced text in 12-point Times New Roman or an equivalent font. If you  consult outside sources, you must cite them in the body of your paper using the author-date system, e.g. (Maritain 74&#8211;75). Give full bibliographic information in a List of Works Cited at the end of your paper. Consult the [essays and papers](https://www.mcgill.ca/religiousstudies/current/papers#style) page of the Faculty of Religious Studies for examples of author-date citations and corresponding entries in reference lists.
+   
+   Unless otherwise instructed, you must upload each thinking piece to MyCourses prior to the beginning of class on the day it is due. Each piece will be given a score of 0&#8211;5 points. Late assignments will be reduced by one point for each day they are late. You may consult the grading rubric for these assignments by clicking on the “Rubrics” link on MyCourses.
 
-<p>Bibles can be purchased at the <a href="http://maps.google.ca/maps?ie=UTF8&amp;amp;oe=utf-8&amp;amp;client=firefox-a&amp;q=Canadian+Bible+Society+Montreal&amp;amp;fb=1&amp;amp;cid=0,0,3543729535322090350&amp;amp;ll=45.504828,-73.56941&amp;amp;spn=0.007564,0.019312&amp;z=16&amp;amp;iwloc=A">Canadian Bible Society</a> (located in the Cathedral Mall between St. Catherine and Maisonneuve) or generally at any bookstore.</p>
+2. *<span style="text-decoration: underline">Midterm:</span>*&#160;&#160;A midterm exam will be administered in class on **Thursday, March 10**. Additional details will be released later in the course.
 
-<ol class="number">
-<li value="2" style="font-weight: bold">Required Readings</li></ol>
+   *You are responsible to attend class on the day of the exam. In case of an emergency, appropriate documentation explaining your absence must be submitted to the instructor. If the absence is officially excused, an alternative test will be administered at a mutually-agreeable time. Otherwise the absence will be regarded as unexcused and the mark entered as a zero.*
 
-<p>In addition to the assigned texts from the Bible, other required readings are listed for some lectures. These readings are accessible through links on the course schedule.</p>
+3. *<span style="text-decoration: underline">Final Exam:</span>*&#160;&#160;A centrally scheduled final exam will be administered during the final exam period. Consult the [exams page](http://www.mcgill.ca/students/exams/) regularly for the precise date, time, and location of the exam. The final will be cumulative, but weighted toward the second half of the course.
 
-<p style="font-style: italic">NOTE: You will be responsible for reading all of the texts assigned for each lecture prior to class, so organize your time accordingly and come prepared.</p>
-
-<!--Course Requirements-->
-
-<h2>Course Requirements</h2>
-
-<p>Attendance is mandatory. Your comprehension and critical engagement with the assigned readings and lectures will be evaluated, so come prepared. Your grade in the course will be based on the following elements:</p>
-
-<ol class="number"><li value="1"><span style="font-style:italic; text-decoration: underline">Thinking Pieces:</span>&#160;&#160;</ol>
-
-<p style="margin-left:1.5em">Over the semester you must complete five (5) Thinking Pieces. These are short assignments that encourage critical engagement with the assigned readings and other course materials. Thinking pieces should not exceed two pages (approximately 500 words) of typed, double-spaced text in 12-point Times New Roman or an equivalent font. If you  consult outside sources, you must cite them in the body of your paper using the author-date system, e.g. (Maritain 74&#8211;75). Give full bibliographic information in a List of Works Cited at the end of your paper. Consult the <a class="new-window" href="https://www.mcgill.ca/religiousstudies/current/papers#style" target="_blank">essays and papers</a> page of the Faculty of Religious Studies for examples of author-date citations and corresponding entries in reference lists.</p>
-
-<p style="margin-left:1.5em; font-style: italic">Unless otherwise instructed, you must upload each thinking piece to MyCourses prior to the beginning of class on the day it is due. Each piece will be given a score of 0&#8211;5 points. Late assignments will be reduced by one point for each day they are late. You may consult the grading rubric for these assignments by clicking on the “Rubrics” link on MyCourses.</p>
-
-<ol class="number"><li value="2"><span style="font-style:italic;text-decoration: underline">Midterm:</span>&#160;&#160;A midterm exam will be administered in class on <b>Thursday, March 10</b>. Additional details will be released later in the course.</li></ol>
-
-<p style="margin-left:1.5em; font-style:italic">You are responsible to attend class on the day of the exam. In case of an emergency, appropriate documentation explaining your absence must be submitted to the instructor. If the absence is officially excused, an alternative test will be administered at a mutually-agreeable time. Otherwise the absence will be regarded as unexcused and the mark entered as a zero.</p>
-
-<ol class="number">
-<li value="5"><span style="font-style:italic; text-decoration: underline">Final Exam:</span>&#160;&#160;A centrally scheduled final exam will be administered during the final exam period. Consult the <a class="new-window" href="http://www.mcgill.ca/students/exams/" target="_blank">exams page</a> regularly for the precise date, time, and location of the exam. The final will be cumulative, but weighted toward the second half of the course.</li></ol>
-
-<p style="margin-left:1.5em; font-style:italic">You are responsible to arrive on time at the correct location on the day of the exam. University regulations prevent instructors from making alternative arrangements for centrally-administered final examinations.</p>
+   *You are responsible to arrive on time at the correct location on the day of the exam. University regulations prevent instructors from making alternative arrangements for centrally-administered final examinations.*
 
 <!--Summary of Course Requirements-->
 
-<h2>Summary of Course Requirements</h2>
+### Summary of Course Requirements
 
-<ol id="leaders">
-<li><span>Thinking Pieces (5 x 10%)</span><span>50%</span></li>
-<li><span>Midterm Exam</span><span>20%</span></li>
-<li style="margin-bottom:0"><span>Final Exam</span><span>30%</span></li>
-</ol>
+1. Thinking Pieces (5 x 10%): 50%
+2. Midterm Exam: 20%
+3. Final Exam: 30%
 
 <!--Academic Integrity-->
 
-<h2>Academic Integrity</h2>
-<p style="font-style:italic">McGill University values academic integrity. Therefore, all students must understand the meaning and consequences of cheating, plagiarism and other academic offences under the Code of Student Conduct and Disciplinary Procedures (see  <a href="www.mcgill.ca/students/srr/honest/">www.mcgill.ca/students/srr/honest/</a> for more information).</p>
+### Academic Integrity
 
-<p style="font-style:italic">L'université McGill attache une haute importance à l’honnêteté académique. Il incombe par conséquent à tous les étudiants de comprendre ce que l'on entend par tricherie, plagiat et autres infractions académiques, ainsi que les conséquences que peuvent avoir de telles actions, selon le Code de conduite de l'étudiant et des procédures disciplinaires (pour de plus amples renseignements, veuillez consulter le site <a href="www.mcgill.ca/students/srr/honest/">www.mcgill.ca/students/srr/honest/</a>).</p>
+*McGill University values academic integrity. Therefore, all students must understand the meaning and consequences of cheating, plagiarism and other academic offences under the Code of Student Conduct and Disciplinary Procedures (see [www.mcgill.ca/students/srr/honest](www.mcgill.ca/students/srr/honest/) for more information).*
 
-<!--Language-->
+*L'université McGill attache une haute importance à l’honnêteté académique. Il incombe par conséquent à tous les étudiants de comprendre ce que l'on entend par tricherie, plagiat et autres infractions académiques, ainsi que les conséquences que peuvent avoir de telles actions, selon le Code de conduite de l'étudiant et des procédures disciplinaires (pour de plus amples renseignements, veuillez consulter le site [www.mcgill.ca/students/srr/honest](www.mcgill.ca/students/srr/honest/)).*
 
-<h2>Language</h2>
-<p style="font-style:italic">In accord with McGill University’s Charter of Students’ Rights, students in this course have the right to submit in English or in French any written work that is to be graded.</p>
+### Language
 
-<p style="font-style:italic">Conformément à  la Charte des droits de l’étudiant de l’Université McGill, chaque étudiant a le droit de soumettre en français ou en anglais tout travail écrit devant être noté.</p>
+*In accord with McGill University’s Charter of Students’ Rights, students in this course have the right to submit in English or in French any written work that is to be graded.*
 
-<!--Students with Disabilitites-->
+*Conformément à  la Charte des droits de l’étudiant de l’Université McGill, chaque étudiant a le droit de soumettre en français ou en anglais tout travail écrit devant être noté.*
 
-<h2>Students with Disabilities</h2>
-<p style="font-style:italic">If you have a disability you may wish to speak with the instructor about your situation. It would be helpful if you contact the <a href="http://www.mcgill.ca/osd">Office for Students with Disabilities</a> at 514-398-6009 before you do this.</p>
+### Students with Disabilities
 
-<h2>Changes to the Syllabus</h2>
-<p>The official version of this syllabus will be hosted online. You will receive advance notification of any modifications to the course schedule.</p>
+*If you have a disability you may wish to speak with the instructor about your situation. It would be helpful if you contact the [Office for Students with Disabilities](http://www.mcgill.ca/osd) at 514-398-6009 before you do this.*
 
-<!--Course Schedule-->
+### Changes to the Syllabus
 
-<h2>Course Schedule</h2>
+The official version of this syllabus will be hosted online. You will receive advance notification of any modifications to the course schedule.
+
+### Course schedule
 
 <table id="schedule">
 <tr>
@@ -148,15 +122,15 @@
 <!--Week 01-->
 
 <tr>
-<td class="week"><h3>01</h3></td>
-<td class="date"><h3>Jan. 12</h3></td>
-<td class="title"><h3>Introduction, Procedures, and Expectations</h3><span class="hide noprint"> style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLYVBKVkJVcGhXQ0U/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b>01</b></td>
+<td class="date"><b>Jan. 12</b></td>
+<td class="title"><b>Introduction, Procedures, and Expectations</b><span class="hide noprint"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLYVBKVkJVcGhXQ0U/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Jan. 14</h3></td>
-<td class="title"><h3>What is Western Culture?</h3><span class="noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNmN3WGI5aHBBRHc/view?usp=sharing" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #01:</i> What are the defining features of the west, according to the Wikipedia article on “<a class="new-window" href="https://en.wikipedia.org/wiki/Western_culture" target="_blank">Western Culture</a>”? What would you criticize about this article and why?</span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Jan. 14</b></td>
+<td class="title"><b>What is Western Culture?</b><span class="noprint"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNmN3WGI5aHBBRHc/view?usp=sharing" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #01:</i> What are the defining features of the west, according to the Wikipedia article on “<a class="new-window" href="https://en.wikipedia.org/wiki/Western_culture" target="_blank">Western Culture</a>”? What would you criticize about this article and why?</span></td>
 </tr>
 
 <tr><td colspan="3"><hr class="noprint"></td></tr>
@@ -164,22 +138,22 @@
 <!--Week 02-->
 
 <tr>
-<td class="week"><h3>02</h3></td>
-<td class="date"><h3>Jan. 19</h3></td>
-<td class="title"><h3>What is the Bible? Part 1</h3><span class="noprint"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLQUJBOW5GY1ZoUms/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b>02</b></td>
+<td class="date"><b>Jan. 19</b></td>
+<td class="title"><b>What is the Bible? Part 1</b><span class="noprint"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLQUJBOW5GY1ZoUms/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
 <td class="week"></td>
 <td class="date">Clip</td>
 <td class="title">
-<i>Desperate Housewives</i> Opening Credits (yU + co, 2004). Learn more at <a class="new-window" href="http://www.artcyclopedia.com/feature-2005-05.html">http://www.artcyclopedia.com/feature-2005-05.html</a>.<span class="noprint"><iframe class="embed" width="420" height="315" src="https://www.youtube.com/embed/aR0jKlwE0zI"></iframe></span></td>
+<i>Desperate Housewives</i> Opening Credits (yU + co, 2004). Learn more at <a class="new-window" href="http://www.artcyclopedia.com/feature-2005-05.html">http://www.artcyclopedia.com/feature-2005-05.html</a>.<span class="noprint"><iframe class="embed noprint" width="420" height="315" src="https://www.youtube.com/embed/aR0jKlwE0zI"></iframe></span></td>
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Jan. 21</h3></td>
-<td class="title"><h3>What is the Bible? Part 2</h3><span class="noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLVmQ1OWVqeHlkUVk/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Jan. 21</b></td>
+<td class="title"><b>What is the Bible? Part 2</b><span class="noprint"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLVmQ1OWVqeHlkUVk/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -205,9 +179,9 @@
 <!--Week 03-->
 
 <tr>
-<td class="week"><h3>03</h3></td>
-<td class="date"><h3>Jan. 26</h3></td>
-<td class="title"><h3>Arguing Over Origins, Part 1: Genesis and Evolution</h3><span class="noprint"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNEVTVnJRSUtOdjA/view?usp=sharing" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #03:</i>&nbsp;&nbsp;Print out this <a class="new-window" href="https://docs.google.com/document/d/1pAr2jiYf_LFyuymCbQbBMnnzcNiF3OXHrWDf2ABteiA/edit?usp=sharing" target="_blank">assignment</a>. Use the blank column in the middle of each page to make notes comparing and contrasting Genesis 1:1&#8211;2:4a with Genesis 2:4b&#8211;24. We will discuss your findings in class, so remember to bring the completed assignment with you.</span>
+<td class="week"><b>03</b></td>
+<td class="date"><b>Jan. 26</b></td>
+<td class="title"><b>Arguing Over Origins, Part 1: Genesis and Evolution</b><span class="noprint"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNEVTVnJRSUtOdjA/view?usp=sharing" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #03:</i>&nbsp;&nbsp;Print out this <a class="new-window" href="https://docs.google.com/document/d/1pAr2jiYf_LFyuymCbQbBMnnzcNiF3OXHrWDf2ABteiA/edit?usp=sharing" target="_blank">assignment</a>. Use the blank column in the middle of each page to make notes comparing and contrasting Genesis 1:1&#8211;2:4a with Genesis 2:4b&#8211;24. We will discuss your findings in class, so remember to bring the completed assignment with you.</span>
 </tr>
 
 <tr>
@@ -225,7 +199,8 @@
 <tr>
 <td class="week"></td>
 <td class="date">Clip</td>
-<td class="title">Ken Ham of Answers in Genesis on why creationism is important<iframe class="embed noprint" src="https://drive.google.com/file/d/0B7vb2Xa26caLXzdDS1R5ZURYaDA/preview"; width="640"; height="480"></iframe>
+<td class="title">Ken Ham of Answers in Genesis on why creationism is important<iframe class="embed noprint" src="https://drive.google.com/file/d/0B7vb2Xa26caLXzdDS1R5ZURYaDA/preview"; width="640"; height="480"></iframe></td>
+</tr>
 
 <tr class="hide">
 <td class="week"></td>
@@ -234,9 +209,9 @@
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Jan. 28</h3></td>
-<td class="title"><h3>Arguing Over Origins, Part 2: Genesis and Ecology</h3><span class="noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLZFJUYTNyV1psX2c/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Jan. 28</b></td>
+<td class="title"><b>Arguing Over Origins, Part 2: Genesis and Ecology</b><span class="noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLZFJUYTNyV1psX2c/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -268,9 +243,9 @@
 <!--Week 04-->
 
 <tr>
-<td class="week"><h3>04</h3></td>
-<td class="date"><h3>Feb. 02</h3></td>
-<td class="title"><h3>The Fall of Adam and the Rise of Eve: Genesis 3 in Feminist and Postfeminist Perspectives</h3><span class="noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLWFJlcXJlWEJ4U0k/view?usp=sharing" target="_blank">Slides</a></span><span class="noprint"><i>Thinking Piece:</i> Consider the following print advertisement for GHD hair styling products. Would you characterize this image as a feminist appropriation of Genesis 3? Why or why not?</span><img style="margin-top:1em; text-align:left" src="http://i.huffpost.com/gen/368113/KATY-PERRY-GHD-ADS.jpg"></td>
+<td class="week"><b>04</b></td>
+<td class="date"><b>Feb. 02</b></td>
+<td class="title"><b>The Fall of Adam and the Rise of Eve: Genesis 3 in Feminist and Postfeminist Perspectives</b><span class="noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLWFJlcXJlWEJ4U0k/view?usp=sharing" target="_blank">Slides</a></span><span class="noprint"><i>Thinking Piece:</i> Consider the following print advertisement for GHD hair styling products. Would you characterize this image as a feminist appropriation of Genesis 3? Why or why not?</span><img style="margin-top:1em; text-align:left" src="http://i.huffpost.com/gen/368113/KATY-PERRY-GHD-ADS.jpg"></td>
 </tr>
 
 <tr>
@@ -304,9 +279,9 @@
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Feb. 04</h3></td>
-<td class="title"><h3 style="margin-bottom:0em">Recovering Eden: The Legacy of Paradise in Western Culture</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLWFJlcXJlWEJ4U0k/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Feb. 04</b></td>
+<td class="title"><h3 style="margin-bottom:0em">Recovering Eden: The Legacy of Paradise in Western Culture</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLWFJlcXJlWEJ4U0k/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -326,9 +301,9 @@
 <!--Week 05-->
 
 <tr>
-<td class="week"><h3>05</h3></td>
-<td class="date"><h3>Feb. 09</h3></td>
-<td class="title"><h3>The Prehistory of Noah’s Flood</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNlhuQmQxc0tUTTA/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b>05</b></td>
+<td class="date"><b>Feb. 09</b></td>
+<td class="title"><b>The Prehistory of Noah’s Flood</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNlhuQmQxc0tUTTA/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -350,9 +325,9 @@
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Feb. 11</h3></td>
-<td class="title"><h3>The Aftermath of Noah’s Flood</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNlhuQmQxc0tUTTA/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Feb. 11</b></td>
+<td class="title"><b>The Aftermath of Noah’s Flood</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNlhuQmQxc0tUTTA/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -396,9 +371,9 @@
 <!--Week 06-->
 
 <tr>
-<td class="week"><h3>06</h3></td>
-<td class="date"><h3>Feb. 16</h3></td>
-<td class="title"><h3>Will the Real Abraham Please Stand Up?</h3><span class="hide noprint"> style="margin-bottom:1em"><a class="new-window" style="margin-bottom:1em" href="" target="_blank">Slides</a></span><span style="margin-bottom:1em"><i>Thinking Piece:</i>&nbsp;&nbsp;Abraham is often called the father of three faiths: Judaism, Christianity, and Islam. What purpose does this characterization serve? Do you think it is an accurate characterization? Defend your answer with reference to the assigned materials for today.</span></td>
+<td class="week"><b>06</b></td>
+<td class="date"><b>Feb. 16</b></td>
+<td class="title"><b>Will the Real Abraham Please Stand Up?</b><span class="hide noprint"> style="margin-bottom:1em"><a class="new-window" style="margin-bottom:1em" href="" target="_blank">Slides</a></span><span style="margin-bottom:1em"><i>Thinking Piece:</i>&nbsp;&nbsp;Abraham is often called the father of three faiths: Judaism, Christianity, and Islam. What purpose does this characterization serve? Do you think it is an accurate characterization? Defend your answer with reference to the assigned materials for today.</span></td>
 </tr>
 
 <tr>
@@ -426,9 +401,9 @@
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Feb. 18</h3></td>
-<td class="title"><h3>Abrahamic Religions and the Binding/Sacrifice of Isaac</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" style="margin-bottom:1em" href="https://drive.google.com/file/d/0B7vb2Xa26caLcXFCNU14MDNlNVE/view?usp=sharing" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #06:</i>&nbsp;&nbsp;Consider the painting depicted below from the standpoint of Jewish-Christian relations. Does the painting suggest that <a class="new-window" href="http://bible.oremus.org/?ql=288719246" target="_blank">Genesis 22</a> unites or divides the two religions? Briefly explain your answer.</span><img class="hide" style="display:block;margin-top:1em; margin-bottom:2em; border:0" src="https://39247db53c6dff4c62521a846f297b916fd83d55.googledrive.com/host/0B7vb2Xa26caLOGZPVGVUdTdDdVE/Chagall-The Sacrifice of Isaac.jpg"></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Feb. 18</b></td>
+<td class="title"><b>Abrahamic Religions and the Binding/Sacrifice of Isaac</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" style="margin-bottom:1em" href="https://drive.google.com/file/d/0B7vb2Xa26caLcXFCNU14MDNlNVE/view?usp=sharing" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #06:</i>&nbsp;&nbsp;Consider the painting depicted below from the standpoint of Jewish-Christian relations. Does the painting suggest that <a class="new-window" href="http://bible.oremus.org/?ql=288719246" target="_blank">Genesis 22</a> unites or divides the two religions? Briefly explain your answer.</span><img class="hide" style="display:block;margin-top:1em; margin-bottom:2em; border:0" src="https://39247db53c6dff4c62521a846f297b916fd83d55.googledrive.com/host/0B7vb2Xa26caLOGZPVGVUdTdDdVE/Chagall-The Sacrifice of Isaac.jpg"></td>
 </tr>
 
 <tr>
@@ -442,9 +417,9 @@
 <tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <tr>
-<td class="week"><h3>07</h3></td>
-<td class="date"><h3>Feb. 23</h3></td>
-<td class="title"><h3>Sodom and Gomorrah</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="" target="_blank">Slides</a></span><span><i>Thinking Piece:</i>&nbsp;&nbsp;The sin of Sodom is popularly presented as <a class="new-window" href="http://www.str.org/articles/what-was-the-sin-of-sodom-and-gomorrah" target="_blank">homosexuality</a> or as <a class="new-window" href="http://www.huffingtonpost.com/rev-patrick-s-cheng-phd/what-was-the-real-sin-of_b_543996.html" target="_blank">radical inhospitality</a>. What are the flaws of each viewpoint?</span></td>
+<td class="week"><b>07</b></td>
+<td class="date"><b>Feb. 23</b></td>
+<td class="title"><b>Sodom and Gomorrah</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="" target="_blank">Slides</a></span><span><i>Thinking Piece:</i>&nbsp;&nbsp;The sin of Sodom is popularly presented as <a class="new-window" href="http://www.str.org/articles/what-was-the-sin-of-sodom-and-gomorrah" target="_blank">homosexuality</a> or as <a class="new-window" href="http://www.huffingtonpost.com/rev-patrick-s-cheng-phd/what-was-the-real-sin-of_b_543996.html" target="_blank">radical inhospitality</a>. What are the flaws of each viewpoint?</span></td>
 </tr>
 
 <tr>
@@ -472,9 +447,9 @@
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Feb. 25</h3></td>
-<td class="title"><h3 style="margin-bottom:0em">Exodus and Liberation</h3><span class="hide noprint"> style="margin-bottom:1em"><a class="new-window" href="" target="_blank">Slides</a></span><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLYldNaUpwNVdGbE0/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Feb. 25</b></td>
+<td class="title"><h3 style="margin-bottom:0em">Exodus and Liberation</b><span class="hide noprint"> style="margin-bottom:1em"><a class="new-window" href="" target="_blank">Slides</a></span><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLYldNaUpwNVdGbE0/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -494,15 +469,15 @@
 <!--Study Break-->
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Mar. 01</h3></td>
-<td class="title"><h3>STUDY BREAK</h3></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Mar. 01</b></td>
+<td class="title"><b>STUDY BREAK</b></td>
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Mar. 03</h3></td>
-<td class="title"><h3>STUDY BREAK</h3></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Mar. 03</b></td>
+<td class="title"><b>STUDY BREAK</b></td>
 </tr>
 
 <!--Week 08-->
@@ -510,9 +485,9 @@
 <tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <tr>
-<td class="week"><h3>08</h3></td>
-<td class="date"><h3>Mar. 08</h3></td>
-<td class="title"><h3 style="margin-bottom:0em">The Ten Commandments, the Horned Moses, and the Foundations of Western Law</h3><span class="hide noprint">Handout: <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLenNhSTBDazNRR3M/view?usp=sharing" target="_blank">Which Ten Commandments?</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLZ0Q2cGhfZFYxTlU/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b>08</b></td>
+<td class="date"><b>Mar. 08</b></td>
+<td class="title"><h3 style="margin-bottom:0em">The Ten Commandments, the Horned Moses, and the Foundations of Western Law</b><span class="hide noprint">Handout: <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLenNhSTBDazNRR3M/view?usp=sharing" target="_blank">Which Ten Commandments?</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLZ0Q2cGhfZFYxTlU/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -529,9 +504,9 @@
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Mar. 10</h3></td>
-<td class="title"><h3 style="margin-bottom:0em">MIDTERM</h3></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Mar. 10</b></td>
+<td class="title"><h3 style="margin-bottom:0em">MIDTERM</b></td>
 </tr>
 
 <tr><td colspan="3"><hr class="noprint"></td></tr>
@@ -539,9 +514,9 @@
 <!--Week 09-->
 
 <tr>
-<td class="week"><h3>09</h3></td>
-<td class="date"><h3>Mar. 15</h3></td>
-<td class="title"><h3>Bon King, Bad King</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLcW5xZ05McFhjaXM/view?usp=sharing" target="_blank">Slides</a></span><span class="hide noprint"><i>Thinking Piece #08:</i>&nbsp;&nbsp;The story of the Exodus from Egypt has been promoted as a paradigm of liberation for minorities in the West, and for the poor and oppressed in Central and South America and in South Africa. Why do you think this paradigm is especially difficult for Palestinian Christians to accept? Why have they chosen instead to focus on the story of Naboth’s Vineyard?</span></td>
+<td class="week"><b>09</b></td>
+<td class="date"><b>Mar. 15</b></td>
+<td class="title"><b>Bon King, Bad King</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLcW5xZ05McFhjaXM/view?usp=sharing" target="_blank">Slides</a></span><span class="hide noprint"><i>Thinking Piece #08:</i>&nbsp;&nbsp;The story of the Exodus from Egypt has been promoted as a paradigm of liberation for minorities in the West, and for the poor and oppressed in Central and South America and in South Africa. Why do you think this paradigm is especially difficult for Palestinian Christians to accept? Why have they chosen instead to focus on the story of Naboth’s Vineyard?</span></td>
 </tr>
 
 <tr>
@@ -569,9 +544,9 @@
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Mar. 17</h3></td>
-<td class="title"><h3>By the Rivers of Babylon: The Babylonian Exile in Text and Tradition</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLakVJUG16TGlyNnc/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Mar. 17</b></td>
+<td class="title"><b>By the Rivers of Babylon: The Babylonian Exile in Text and Tradition</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLakVJUG16TGlyNnc/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -591,9 +566,9 @@
 <!--Week 10-->
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Mar. 22</h3></td>
-<td class="title"><h3>The Beginning of the Gospels</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLSFBybmFiTVlQTkk/view?usp=sharing" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #4:</i>&nbsp;&nbsp;When did Jesus become the Son of God, according the four canonical gospels?</span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Mar. 22</b></td>
+<td class="title"><b>The Beginning of the Gospels</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLSFBybmFiTVlQTkk/view?usp=sharing" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #4:</i>&nbsp;&nbsp;When did Jesus become the Son of God, according the four canonical gospels?</span></td>
 </tr>
 
 <tr>
@@ -603,9 +578,9 @@
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Mar. 24</h3></td>
-<td class="title"><h3>Jesus in the Gospels</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #09:</i>&nbsp;&nbsp;Write a job description for the Messiah.</span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Mar. 24</b></td>
+<td class="title"><b>Jesus in the Gospels</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #09:</i>&nbsp;&nbsp;Write a job description for the Messiah.</span></td>
 </tr>
 
 <tr>
@@ -619,9 +594,9 @@
 <!--Week 11-->
 
 <tr>
-<td class="week"><h3>11</h3></td>
-<td class="date"><h3>Mar. 29</h3></td>
-<td class="title"><h3>The Last Supper from Da Vinci to Da Sopranos</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLeGhpVkE3eEVaRXc/view?usp=sharing" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #10:</i>&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s <i>The Last Temptation of Christ</i> (1988) and Ron Howard’s <i>The Da Vinci Code</i> (2006), then read the recent <i>Atlantic Monthly</i> article on “<a class="new-window" href="http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/" target="_blank">The Curious Case of Jesus’s Wife</a>.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?</span></td>
+<td class="week"><b>11</b></td>
+<td class="date"><b>Mar. 29</b></td>
+<td class="title"><b>The Last Supper from Da Vinci to Da Sopranos</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLeGhpVkE3eEVaRXc/view?usp=sharing" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #10:</i>&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s <i>The Last Temptation of Christ</i> (1988) and Ron Howard’s <i>The Da Vinci Code</i> (2006), then read the recent <i>Atlantic Monthly</i> article on “<a class="new-window" href="http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/" target="_blank">The Curious Case of Jesus’s Wife</a>.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?</span></td>
 </tr>
 
 <tr>
@@ -649,13 +624,13 @@
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Mar. 31</h3></td>
-<td class="title"><h3>The Passion of the Christ in Music, Art, and Film</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLeURrZFhDOFFuRjg/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Mar. 31</b></td>
+<td class="title"><b>The Passion of the Christ in Music, Art, and Film</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLeURrZFhDOFFuRjg/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
+<td class="week"><b></b></td>
 <td class="date">HB/OT</td>
 <td class="title"><a href="http://bible.oremus.org/?ql=308774126">Isaiah 52:13&#8211;53:12;&#160;&#160;Zechariah 12&#8211;13</a></td>
 </tr>
@@ -667,13 +642,13 @@
 </tr>
 
 <tr class="hide">
-<td class="week"><h3></h3></td>
+<td class="week"><b></b></td>
 <td class="date"></td>
 <td class="title">Mel Gibson, Dir., “<a href="https://drive.google.com/file/d/0B7vb2Xa26caLZFlaemVDSXE4MkU/edit?usp=sharing">Gethesemene</a>,” <i>The Passion of the Christ</i>&#160;&#160;(Icon, 2004).<iframe class="embed noprint" src="https://docs.google.com/file/d/0B7vb2Xa26caLZFlaemVDSXE4MkU/preview" width="640" height="385"></iframe></td>
 </tr>
 
 <tr class="hide">
-<td class="week"><h3></h3></td>
+<td class="week"><b></b></td>
 <td class="date"></td>
 <td class="title">Mel Gibson, Dir., “<a href="https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/view?usp=sharing">Golgotha</a>,” <i>The Passion of the Christ</i>&#160;&#160;(Icon, 2004).<iframe class="embed noprint" src="https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/preview" width="640" height="360"></iframe></td>
 </tr>
@@ -683,9 +658,9 @@
 <!--Week 12-->
 
 <tr>
-<td class="week"><h3>12</h3></td>
-<td class="date"><h3>Apr. 05</h3></td>
-<td class="title"><h3>Law and Gospel: The Letters and Legacy of Paul the Apostle</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/open?id=0B7vb2Xa26caLbjhsQlhPdTBSbnM" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #11:</i>&nbsp;&nbsp;What is justification? If good works do not justify a person before God, according to Martin Luther, then what is the point of doing good works?</span></td>
+<td class="week"><b>12</b></td>
+<td class="date"><b>Apr. 05</b></td>
+<td class="title"><b>Law and Gospel: The Letters and Legacy of Paul the Apostle</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/open?id=0B7vb2Xa26caLbjhsQlhPdTBSbnM" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #11:</i>&nbsp;&nbsp;What is justification? If good works do not justify a person before God, according to Martin Luther, then what is the point of doing good works?</span></td>
 </tr>
 
 <tr>
@@ -722,9 +697,9 @@ Your browser does not support the audio element.
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Apr. 07</h3></td>
-<td class="title"><h3>Christ and the Antichrist(s)</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/open?id=0B7vb2Xa26caLSkM5OVhPNkxndGs" target="_blank">Slides</a></span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Apr. 07</b></td>
+<td class="title"><b>Christ and the Antichrist(s)</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/open?id=0B7vb2Xa26caLSkM5OVhPNkxndGs" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -768,9 +743,9 @@ Your browser does not support the audio element.
 <!--Week 13-->
 
 <tr>
-<td class="week"><h3>13</h3></td>
-<td class="date"><h3>Apr. 12</h3></td>
-<td class="title"><h3>Apocalypse, Then and Now: The End Times in Fact, Fiction, and Film</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLN3VfcHRaYVFHR1k/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b>13</b></td>
+<td class="date"><b>Apr. 12</b></td>
+<td class="title"><b>Apocalypse, Then and Now: The End Times in Fact, Fiction, and Film</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLN3VfcHRaYVFHR1k/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr class="hide">
@@ -824,14 +799,8 @@ Your browser does not support the audio element.
 </tr>
 
 <tr>
-<td class="week"><h3></h3></td>
-<td class="date"><h3>Apr. 14</h3></td>
-<td class="title"><h3>Summary and Conclusion</h3><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLVTJNVjBsWlhoa0U/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="week"><b></b></td>
+<td class="date"><b>Apr. 14</b></td>
+<td class="title"><b>Summary and Conclusion</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLVTJNVjBsWlhoa0U/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 </table>
-
-<p>&#169; Instructor generated course materials (e.g., slides, handouts, notes, summaries, exam questions, etc.) are protected by law and may not be copied or distributed in any form or in any medium without explicit permission of the instructor.  Note that infringements of copyright can be subject to follow up by the University under the Code of Student Conduct and Disciplinary Procedures.</p>
-</div>
-
-</body>
-</html>

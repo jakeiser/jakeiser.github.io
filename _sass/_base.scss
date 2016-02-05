@@ -123,6 +123,48 @@ blockquote {
 
 
 /**
+ * Tables
+ */
+
+table {
+	}
+	
+	#schedule {
+	width:100%;
+	margin-top:2em;
+	padding: 0;
+	border-collapse: collapse;
+	}
+		
+	tr{
+	vertical-align: top;
+	}
+		
+	td{
+	}
+		
+	.week {
+	line-height:1.5em;
+	width:8%;
+	text-align:center;
+	padding: .75em 1.5em .75em 0
+	}
+	
+	.date {
+	line-height:1.5em;
+	width:12%;
+	text-align:right;
+	padding: .75em 0 .75em 0
+	}
+	
+	.title {
+	line-height:1.5em;
+	width:80%;
+	text-align:left;
+	padding: .75em 0 .75em 2em
+	}
+
+/**
  * Code formatting
  */
 pre,
