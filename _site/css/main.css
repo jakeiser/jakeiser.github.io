@@ -56,12 +56,6 @@ img {
   vertical-align: middle; }
 
 /**
- * Embedded Files
- */
-.embed {
-  margin: 1em 0 1em 0; }
-
-/**
  * Figures
  */
 figure > img {
@@ -114,9 +108,6 @@ blockquote {
 /**
  * Tables
  */
-table {
-  table-layout: fixed; }
-
 #schedule {
   width: 100%;
   margin-top: 2em;
@@ -130,19 +121,19 @@ tr {
   line-height: 1.5em;
   width: 8%;
   text-align: center;
-  padding: 0.5em 1.5em 0.5em 0; }
+  padding: 0.75em 1.5em 0.75em 0; }
 
 .date {
   line-height: 1.5em;
   width: 12%;
   text-align: right;
-  padding: 0.5em 0 0.5em 0; }
+  padding: 0.75em 0 0.75em 0; }
 
 .title {
   line-height: 1.5em;
   width: 80%;
   text-align: left;
-  padding: 0.5em 0 0.5em 2em; }
+  padding: 0.75em 0 0.75em 2em; }
 
 /**
  * Code formatting
@@ -169,16 +160,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(60% - (30px * 2));
-  max-width: calc(60% - (30px * 2));
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(800px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(60% - (30px));
-      max-width: calc(60% - (30px));
+      max-width: -webkit-calc(800px - (30px));
+      max-width: calc(800px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 

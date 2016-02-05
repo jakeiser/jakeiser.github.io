@@ -112,7 +112,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 
 ### Course schedule
 
-<table id="schedule" border="1">
+<table id="schedule">
 <tr>
 <td class="week">Week</td>
 <td class="date">Month/Day</td>
@@ -133,7 +133,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <td class="title"><b>What is Western Culture?</b><span class="noprint"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNmN3WGI5aHBBRHc/view?usp=sharing" target="_blank">Slides</a></span><span class="hide"><i>Thinking Piece #01:</i> What are the defining features of the west, according to the Wikipedia article on “<a class="new-window" href="https://en.wikipedia.org/wiki/Western_culture" target="_blank">Western Culture</a>”? What would you criticize about this article and why?</span></td>
 </tr>
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <!--Week 02-->
 
@@ -174,7 +174,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <td class="title"><i>Thinking Piece #02:</i> Respond to Bart Ehrman, “<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLaWFmOWN0UnQ5RUk/view?usp=sharing" target="_blank">The Book of Genesis</a>,” pp. 31&#8211;38 in idem, <i>The Bible: A Historical and Literary Introduction</i> (New York: Oxford University Press, 2014). There is much to commend in this introduction to the Primeval History (Genesis 1&#8211;11), but pay special attention to Ehrman’s classification of this section of Genesis as a “literary myth.” How does Ehrman define myth? What scholarly approach to myth does Erhman’s definition fit most closely? How does McCutcheon criticize this approach?</td>
 </tr>
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <!--Week 03-->
 
@@ -199,7 +199,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <tr>
 <td class="week"></td>
 <td class="date">Clip</td>
-<td class="title">Ken Ham of Answers in Genesis on why creationism is important<iframe class="embed noprint" src="https://drive.google.com/file/d/0B7vb2Xa26caLXzdDS1R5ZURYaDA/preview" width="640" height="480"></iframe></td>
+<td class="title">Ken Ham of Answers in Genesis on why creationism is important<iframe class="embed noprint" src="https://drive.google.com/file/d/0B7vb2Xa26caLXzdDS1R5ZURYaDA/preview"; width="640"; height="480"></iframe></td>
 </tr>
 
 <tr class="hide">
@@ -238,7 +238,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <td class="title">U.S. President Barack Obama’s Second Inaugural Address (Washington D.C., January 21, 2013)<span class="noshow"><a href="https://youtu.be/RvH01Z6ic0M?t=12m20s">https://youtu.be/RvH01Z6ic0M?t=12m20s</a></span><iframe class="embed noprint" width="560" height="315" src="https://www.youtube.com/embed/RvH01Z6ic0M?start=740&amp;amp;end=794"></iframe></td>
 </tr>
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <!--Week 04-->
 
@@ -281,7 +281,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <tr>
 <td class="week"><b></b></td>
 <td class="date"><b>Feb. 04</b></td>
-<td class="title"><b>Recovering Eden: The Legacy of Paradise in Western Culture</b><span class="hide noprint"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLWFJlcXJlWEJ4U0k/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="title"><h3 style="margin-bottom:0em">Recovering Eden: The Legacy of Paradise in Western Culture</b><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLWFJlcXJlWEJ4U0k/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -296,7 +296,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <td class="title">Carolyn Merchant, “<a class="new-window" href="https://docs.google.com/open?id=0B7vb2Xa26caLT1FxYUZRd3gtS0U" target="_blank">The Fall from Eden</a>,” pp. 11–33 in idem, <i>Reinventing Eden: The Fate of Nature in Western Culture</i>, 2nd Ed. (New York/London: Routledge, 2013)</td>
 </tr>
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <!--Week 05-->
 
@@ -366,7 +366,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <td class="title">Darren Aronofsky, dir. <i>Noah,</i> “The Creation” (Paramount, 2014)<span class="noshow"><a href="https://drive.google.com/file/d/0B7vb2Xa26caLSFhwTVpOWUhxS0k/view?usp=sharing">https://drive.google.com/file/d/0B7vb2Xa26caLSFhwTVpOWUhxS0k/view?usp=sharing</a></span><iframe class="embed noprint" src="https://docs.google.com/file/d/0B7vb2Xa26caLSFhwTVpOWUhxS0k/preview" width="560" height="304" allowfullscreen="yes"></iframe></td>
 </tr>
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <!--Week 06-->
 
@@ -414,7 +414,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 
 <!--Week 07-->
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <tr>
 <td class="week"><b>07</b></td>
@@ -449,7 +449,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <tr>
 <td class="week"><b></b></td>
 <td class="date"><b>Feb. 25</b></td>
-<td class="title"><b>Exodus and Liberation</b><span class="hide noprint"><a class="new-window" href="" target="_blank">Slides</a></span><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLYldNaUpwNVdGbE0/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="title"><h3 style="margin-bottom:0em">Exodus and Liberation</b><span class="hide noprint"> style="margin-bottom:1em"><a class="new-window" href="" target="_blank">Slides</a></span><span class="hide noprint" style="margin-bottom:1em"><a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLYldNaUpwNVdGbE0/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -464,7 +464,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <td class="title">Robert Allen Warrior, “<a href="https://docs.google.com/open?id=0B7vb2Xa26caLYXBGdkxFSFhXWEE">A Native American Perspective: Canaanites, Cowboys, and Indians</a>,” pp. 235&#8211;241 in ed. R.S. Sugirtharaja, <i>Voices From the Margin: Interpreting the Bible in the Third World,</i> Third Edition (Maryknoll, NY: Orbis, 2006)</td>
 </tr>
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <!--Study Break-->
 
@@ -482,12 +482,12 @@ The official version of this syllabus will be hosted online. You will receive ad
 
 <!--Week 08-->
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <tr>
 <td class="week"><b>08</b></td>
 <td class="date"><b>Mar. 08</b></td>
-<td class="title"><b>The Ten Commandments, the Horned Moses, and the Foundations of Western Law</b><span class="hide noprint">Handout: <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLenNhSTBDazNRR3M/view?usp=sharing" target="_blank">Which Ten Commandments?</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLZ0Q2cGhfZFYxTlU/view?usp=sharing" target="_blank">Slides</a></span></td>
+<td class="title"><h3 style="margin-bottom:0em">The Ten Commandments, the Horned Moses, and the Foundations of Western Law</b><span class="hide noprint">Handout: <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLenNhSTBDazNRR3M/view?usp=sharing" target="_blank">Which Ten Commandments?</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLZ0Q2cGhfZFYxTlU/view?usp=sharing" target="_blank">Slides</a></span></td>
 </tr>
 
 <tr>
@@ -506,10 +506,10 @@ The official version of this syllabus will be hosted online. You will receive ad
 <tr>
 <td class="week"><b></b></td>
 <td class="date"><b>Mar. 10</b></td>
-<td class="title"><b>MIDTERM</b></td>
+<td class="title"><h3 style="margin-bottom:0em">MIDTERM</b></td>
 </tr>
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <!--Week 09-->
 
@@ -561,7 +561,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <td class="title">David W. Stowe, “<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLdnpMbGZxOTFnbkk/view?usp=sharing" target="_blank">History, Memory, and Forgetting in Psalm 137</a>,” pp. 137&#8211;157 in ed. Mark A. Chancey, Carol Meyers, and Eric M. Meyers, <i>The Bible in the Public Square: It’s Enduring Influence in American Life</i> (Atlanta: SBL, 2014)</td>
 </tr>
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <!--Week 10-->
 
@@ -589,7 +589,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <td class="title"><a href="http://bible.oremus.org/?ql=282029813">Mark 1:1&#8211;9:1</a>; <a href="http://bible.oremus.org/?ql=282029925"> 9:2&#8211;14:2</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=219827056">Matthew 13:1&#8211;52</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=219827388">Luke 13:22&#8211;16:31</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=219827621">John 8:12&#8211;59</a></td>
 </tr>
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <!--Week 11-->
 
@@ -653,7 +653,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <td class="title">Mel Gibson, Dir., “<a href="https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/view?usp=sharing">Golgotha</a>,” <i>The Passion of the Christ</i>&#160;&#160;(Icon, 2004).<iframe class="embed noprint" src="https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/preview" width="640" height="360"></iframe></td>
 </tr>
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <!--Week 12-->
 
@@ -738,7 +738,7 @@ Your browser does not support the audio element.
 <td class="title">Roman Polanski, Dir., <i>Rosemary’s Baby</i>, “<a class="new window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNmN5TkZzdkFpbWM/view?usp=sharing" target="_blank">Denoument</a>” (Paramount, 1968)<iframe class="embed noprint" src="https://drive.google.com/file/d/0B7vb2Xa26caLNmN5TkZzdkFpbWM/preview" width="640" height="340"></iframe></td>
 </tr>
 
-<tr><td colspan="3"><hr class="noprint" style="margin:1em 0 1em 0"></td></tr>
+<tr><td colspan="3"><hr class="noprint"></td></tr>
 
 <!--Week 13-->
 
