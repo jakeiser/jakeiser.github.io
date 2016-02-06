@@ -57,7 +57,7 @@ img {
   vertical-align: middle; }
 
 /**
- * Videos
+ * Videos (thanks to https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php)
  */
 .aspect-ratio-16-9 {
   position: relative;
