@@ -182,7 +182,7 @@ Susan Osborne, “[Feminism: A Short History](https://drive.google.com/file/d/0B
 
 Anne-Marie Korte, “[Paradise Lost, Growth Gained: Eve’s Story Revisited—Genesis 2–4 in a Feminist Theological Perspective](https://drive.google.com/file/d/0B7vb2Xa26caLeEozaVdncWo1T2M/view?usp=sharing){:class="new-window" target="_blank"},” pp. 140–156 in ed. Bob Becking and Susan Hennecke, *Out of Paradise: Eve and Adam and Their Interpreters* (Sheffield: Sheffield Phoenix Press, 2011)
 
-**Feb. 04: Recovering Eden: The Legacy of Paradise in Western Culture**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**Feb. 04: Recovering Eden: The Legacy of Paradise in Western Culture**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNlhuQmQxc0tUTTA/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=307879367">Genesis 2:4b–4:26</a>
 
