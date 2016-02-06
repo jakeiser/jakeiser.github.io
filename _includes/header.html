@@ -1,4 +1,4 @@
-<header class="site-header noprint">
+<header class="site-header">
 
   <div class="wrapper">
 
@@ -15,7 +15,7 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-         {% unless page.courses or page.exclude %}
+         {% unless page.course %}
            {% if page.permalink %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
            {% endif %}

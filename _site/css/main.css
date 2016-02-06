@@ -11,7 +11,8 @@
 /* Screen Only*/
 @media screen {
   .noprint {
-    display: block !important; }
+    display: block !important;
+    margin-bottom: 1em; }
 
   .hide {
     display: none !important; }
@@ -91,6 +92,12 @@ a {
   a:hover {
     color: #111;
     text-decoration: underline; }
+
+.new-window {
+  padding-right: 1.25em;
+  background-image: url("/assets/new_window_icon.gif");
+  background-repeat: no-repeat;
+  background-position: right; }
 
 /**
  * Blockquotes
