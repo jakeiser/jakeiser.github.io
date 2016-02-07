@@ -6,6 +6,8 @@ location: McGill University, Montréal
 permalink: /relg203/
 ---
 
+{:background-image:url(/assets/michelangelo-fall.jpg)}
+
 RELG 203, McGill University, Winter 2015  
 RPHYS 112, Tue, Thur 4:05–5:25 p.m.  
 
