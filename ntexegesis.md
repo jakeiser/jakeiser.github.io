@@ -59,7 +59,7 @@ Reliable websites on the New Testament and many related topics can be found at M
 
 2. Exegetical Reports (<b>70%</b>): Students will write twelve exegetical reports, no more than 600 words in length, excluding bibliography. Each student’s best ten submissions will count for the total mark (7% x 10 = 70%). An annotated guideline for these reports is available <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLM1ZWYl9OQ0xXZ28/edit?usp=sharing" target="_blank">here</a>.
 
- *Exegetical reports must be submitted on the day they are due. Papers submitted after the appropriate meeting will be reduced by one-tenth of the assigned mark, though I will grade any papers submitted by Tuesday, April 08.*
+  *Exegetical reports must be submitted on the day they are due. Papers submitted after the appropriate meeting will be reduced by one-tenth of the assigned mark, though I will grade any papers submitted by Tuesday, April 08.*
  
 3. Final Take-Home Examination (<b>25%</b>): A take-home examination will be given during the final examination period. The examination will require exegetical comments on two passages, one from the gospels and one from the Pauline letters. The examination passages will not have been discussed in class.
 
