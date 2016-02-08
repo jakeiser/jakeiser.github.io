@@ -14,7 +14,8 @@ Office and Hours: Birks 021; Tue and Thurs 1:30–2:30
 
 ### Course Description
 
-This course<!--excerpt.start-->offers a practical introduction to classical and contemporary methods of interpreting the New Testament. The course is divided into weekly modules, each of which focuses on a representative text from the Gospels, Acts, Epistles, or Revelation. These modules are futher subdivided into 50-minute workshops and two-hour discussion sections. The workshops involve practical exercises designed to acquaint students with key disciplines, tools, and methods for the study of the New Testament. Weekly exegetical reports provide a starting point for discussion of critical issues raised by the assigned text. With some exceptions, the texts follow the schedule of readings in the *Revised Common Lectionary.*<!--excerpt.end-->
+This course<!--excerpt.start-->offers a practical introduction to classical and contemporary methods of interpreting the New Testament. The course is divided into weekly modules, each of which focuses on a representative text from the Gospels, Acts, Epistles, or Revelation. These modules are futher subdivided into 50-minute workshops and two-hour discussion sections. The workshops involve practical exercises designed to acquaint students with key disciplines, tools, and methods for the study of the New Testament. Weekly exegetical reports provide a starting point for discussion of critical issues raised by the assigned text<!--excerpt.end-->
+. With some exceptions, the texts follow the schedule of readings in the *Revised Common Lectionary.*
 
 ### Required Texts
 
