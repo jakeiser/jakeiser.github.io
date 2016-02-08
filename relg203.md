@@ -128,9 +128,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 
 *Desperate Housewives* [Opening Credits](https://youtu.be/aR0jKlwE0zI) (yU + co, 2004). Learn more at [Artcyclopedia](http://www.artcyclopedia.com/feature-2005-05.html){:class="new-window" target="_blank"}.
 
-<div class="aspect-ratio-16-9 noprint">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/aR0jKlwE0zI" frameborder="0" allowfullscreen></iframe>
-</div>
 
 **Jan. 21: What is the Bible? Part 2**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLVmQ1OWVqeHlkUVk/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
@@ -150,9 +148,7 @@ Ernan McMullin, “[Darwin and the Other Christian Tradition](https://drive.goog
 
 Ken Ham of Answers in Genesis on [the purpose of his organization](https://drive.google.com/file/d/0B7vb2Xa26caLXzdDS1R5ZURYaDA/view?usp=sharing):
 
-<div class="aspect-ratio-4-3 noprint">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLXzdDS1R5ZURYaDA/preview" width="640" height="480"></iframe>
-</div>
 
 **Jan. 28: Arguing Over Origins, Part 2: Genesis and Ecology**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLZFJUYTNyV1psX2c/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
@@ -162,9 +158,7 @@ Peter Harrison, “[Subduing the Earth: Genesis 1, Early Modern Science, and the
 
 Clip: U.S. President Barack Obama’s [Second Inaugural Address](https://youtu.be/RvH01Z6ic0M?t=12m20s) (Washington D.C., January 21, 2013)
 
-<div class="aspect-ratio-16-9 noprint">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvH01Z6ic0M?start=740&amp;amp;end=794"></iframe>
-</div>
 
 <hr style="margin:2em 0 2em 0">
 
@@ -226,9 +220,7 @@ Jon D. Levenson, “[The Idea of Abrahamic Religions: A Qualified Dissent](/asse
 
 Watch Author Bruce Feiler discuss his motivation for writing *Abraham: A Journey to the Heart of Three Faiths,* from a [lecture](https://drive.google.com/file/d/0B7vb2Xa26caLZHhUVGR0NmRLVTg/view?usp=sharing) sponsored by the Herman P. and Sophia Taubman Endowed Symposia in Jewish Studies, University of California Santa Barbara, 31 April, 2004.
 
-<div class="aspect-ratio-4-3 noprint">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLZHhUVGR0NmRLVTg/preview" width="640" height="480"></iframe>
-</div>
 
 <hr style="margin:2em 0 2em 0">
 
@@ -282,9 +274,7 @@ HB/OT: <a href="http://bible.oremus.org/?ql=213512508">Deuteronomy 17:14–20</a
 
 Wyclef Jean, “[Jaspora](https://youtu.be/G9qusjgZ66U),” *Wyclef Jean Presents the Carnival Featuring the Refugee All-Stars* (Columbia, 1997). Lyrics and translation are available [here](http://archive-edu.com/page/766265/2012-11-27/http://ocw.nd.edu/romance-languages-and-literatures/creole-language-and-culture/eduCommons/romance-languages-and-literatures/creole-language-and-culture/references/lyrics-jaspora-by-wyclef-jean) (note: you can bypass the sign-up page by entering the following password: showarchive).
 
-<div class="aspect-ratio-16-9 noprint">
 <iframe width="420" height="315" src="//www.youtube.com/embed/G9qusjgZ66U?rel=0"></iframe>
-</div>
 
 <span class="hide">*Quote of the Day:*&#160;&#160;The death and dispossession of Naboth and his family [1 Kings 21] has been reenacted thousands of times since the creation of the State of Israel. When reduced to its essence, it embodies the tragedy of Palestine as well as the suppression of the rights of the individual. But it is more than the story of a tragedy, since at its heart stands a God who is a God of justice, the God who governs history, who has a long memory, and will not allow injustice to go unchecked forever (Naim Stifan Ateek, *Justice and Only Justice: A Palestinian Theology of Liberation* [Maryknoll, N.Y.: Orbis, 1989]).</span>
 
@@ -322,15 +312,11 @@ Sophie Arle, “[Milan Bans Da Vinci Parody](http://www.theguardian.com/world/20
 
 Martin Scorcese, Dir., [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing)
 
-<div class="aspect-ratio-other noprint" style="padding-bottom: 52.5%">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/preview" width="620" height="340"></iframe>
-</div>
 
 Ron Howard, Dir., [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing)
 
-<div class="aspect-ratio-other noprint" style="padding-bottom: 38%">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/preview" width="640" height="280"></iframe>
-</div>
 
 **Mar. 31: The Passion of the Christ in Music, Art, and Film**<span class="hide noprint">[Slides](){}</a></span>
 
@@ -340,15 +326,11 @@ HB/OT: <a href="http://bible.oremus.org/?ql=308774126">Isaiah 52:13–53:12;&#16
 
 Mel Gibson, Dir., “[Gethesemene](https://drive.google.com/file/d/0B7vb2Xa26caLZFlaemVDSXE4MkU/edit?usp=sharing),” *The Passion of the Christ* (Icon, 2004).
 
-<div class="aspect-ratio-other noprint" style="padding-bottom: 38%">
 <iframe src="https://docs.google.com/file/d/0B7vb2Xa26caLZFlaemVDSXE4MkU/preview" width="640" height="385"></iframe>
-</div>
 
 Mel Gibson, Dir., “[Golgotha](https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/view?usp=sharing),” *The Passion of the Christ* (Icon, 2004)
 
-<div class="aspect-ratio-16-9 noprint">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/preview" width="640" height="360"></iframe>
-</div>
 
 <hr style="margin:2em 0 2em 0">
 
@@ -370,11 +352,7 @@ Josh Ritter, “[Girl in the War](http://www.dougrice.net/mp3_JoshRitter_GirlInT
 Your browser does not support the audio element.
 </audio>
 
-Alexander Dominitz, Dir., [*95 Theses*](https://youtu.be/dt5AJr0wls0)
-
-<div class="aspect-ratio-16-9 noprint">
-<iframe class="noprint" width="420" height="315" src="//www.youtube.com/embed/dt5AJr0wls0" frameborder="0" allowfullscreen></iframe>
-</div>
+<span class="hide">Alexander Dominitz, Dir., [*95 Theses*](https://youtu.be/dt5AJr0wls0)<iframe class="noprint" width="420" height="315" src="//www.youtube.com/embed/dt5AJr0wls0" frameborder="0" allowfullscreen></iframe></span>
 
 **Apr. 07: Christ and the Antichrist(s)**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
 
