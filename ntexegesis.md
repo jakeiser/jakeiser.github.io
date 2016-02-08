@@ -2,7 +2,6 @@
 layout: page
 title: Exegesis of the New Testament
 course: true
-exclude: true
 location: McGill University, Montréal
 permalink: /new-testament-exegesis/
 ---
@@ -67,7 +66,7 @@ Reliable websites on the New Testament and many related topics can be found at M
 
 1. Attendance and Participation: 5%
 2. Exegetical Reports: 70%
-3. Final Take-Home Examination</span><span>25%
+3. Final Take-Home Examination: 25%
 
 ### Academic Integrity
 
