@@ -15,7 +15,7 @@ permalink: /curriculum-vitae/
 Course Lecturer, Faculty of Religious Studies, McGill University
   
 * [RELG 203: Bible and Western Culture](/relg203) (2006–2016)
-* [RELG 411/480: New Testament Exegesis](/ntexegesis) (2014)
+* [RELG 411/480: New Testament Exegesis](/new-testament-exegesis) (2014)
 * RELG 280: Elementary New Testament Greek (2011–2012)
 
 Adjunct Professor, Faculty of Religious Studies, St. Michael’s College, Vermont
