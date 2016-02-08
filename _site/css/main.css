@@ -57,7 +57,7 @@ img {
   vertical-align: middle; }
 
 /**
- * Videos
+ * Videos (https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php)
  */
 .videoWrapper-16-9 {
   position: relative;
@@ -91,7 +91,7 @@ img {
 
 .videoWrapper-other {
   position: relative;
-  /* insert padding-bottom percentage for other aspect ratios */
+  /* insert padding-bottom: --% on page css for other aspect ratios */
   padding-top: 25px;
   margin-bottom: 2em;
   height: 0; }
