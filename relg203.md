@@ -194,9 +194,9 @@ Carolyn Merchant, “[The Fall from Eden](https://docs.google.com/open?id=0B7vb2
 
 **Feb. 09: The Prehistory of Noah’s Flood**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
 
-HB/OT: <a href="http://bible.oremus.org/?ql=308772985">Genesis 5–11</a>
+HB/OT: [Genesis 5–11](http://bible.oremus.org/?ql=308772985)
 
-NT: <a href="http://bible.oremus.org/?ql=287518859">1 Peter 3:13–22</a>
+NT: [1 Peter 3:13–22](http://bible.oremus.org/?ql=287518859)
 
 Adam Ployd, “[We’re on a Boat!: The Church as Ark in Early Christianity](http://www.floodofnoah.com/#!post-early-christianity-church-as-ark/c1qn4){:class="new-window" target="_blank"}.”
 
@@ -214,13 +214,15 @@ J. David Pleins, “[Race, Sex, and the Curse: When Myths Go Wrong](https://driv
 
 HB/OT: <a href="http://bible.oremus.org/?ql=308397527">Genesis 12–17</a>
 
-NT: <a href="http://bible.oremus.org/?ql=308501867">Romans 9–11</a>;&nbsp;&nbsp;<a href="http://bible.oremus.org/?ql=308501689">Galatians 3–4</a>
+NT: [Romans 9–11](http://bible.oremus.org/?ql=308501867); [Galatians 3–4](http://bible.oremus.org/?ql=308501689)
 
 Brannon Wheeler, “[Abraham and Islam](http://www.bibleodyssey.org/en/people/related-articles/abraham-and-islam){:class="new-window" target="_blank"},” Bible Odyssey, n.p.
 
 Jon D. Levenson, “[The Idea of Abrahamic Religions: A Qualified Dissent](/assets/Levenson-The%20Idea%20of%20Abrahamic%20Religions.html){:class="new-window" target="_blank"},” *Jewish Review of Books* 1.1 (Spring 2010)
 
 **Feb. 18: Abrahamic Religions and the Binding/Sacrifice of Isaac**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</a></span>
+
+NT: [Genesis 22:1–19](http://bible.oremus.org/?ql=322037678)
 
 Watch Author Bruce Feiler discuss his motivation for writing *Abraham: A Journey to the Heart of Three Faiths,* from a [lecture](https://drive.google.com/file/d/0B7vb2Xa26caLZHhUVGR0NmRLVTg/view?usp=sharing) sponsored by the Herman P. and Sophia Taubman Endowed Symposia in Jewish Studies, University of California Santa Barbara, 31 April, 2004.
 
