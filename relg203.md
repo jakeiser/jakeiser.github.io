@@ -186,7 +186,7 @@ Anne-Marie Korte, “[Paradise Lost, Growth Gained: Eve’s Story Revisited—Ge
 
 HB/OT: <a href="http://bible.oremus.org/?ql=307879367">Genesis 2:4b–4:26</a>
 
-Carolyn Merchant, “[The Fall from Eden](https://docs.google.com/open?id=0B7vb2Xa26caLT1FxYUZRd3gtS0U){:class="new-window" target="_blank"},” pp. 11–33 in idem, *Reinventing Eden: The Fate of Nature in Western Culture*, 2nd Ed. (New York/London: Routledge, 2013)
+Carolyn Merchant, “[The Fall from Eden](https://drive.google.com/file/d/0B7vb2Xa26caLT1FxYUZRd3gtS0U/view?usp=sharing){:class="new-window" target="_blank"},” pp. 11–33 in idem, *Reinventing Eden: The Fate of Nature in Western Culture*, 2nd Ed. (New York/London: Routledge, 2013)
 
 <hr style="margin:2em 0 2em 0">
 
