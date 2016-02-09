@@ -59,7 +59,7 @@ Reliable websites on the New Testament and many related topics can be found at M
 
 2. Exegetical Reports (<b>70%</b>): Students will write twelve exegetical reports, no more than 600 words in length, excluding bibliography. Each student’s best ten submissions will count for the total mark (7% x 10 = 70%). An annotated guideline for these reports is available <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLM1ZWYl9OQ0xXZ28/edit?usp=sharing" target="_blank">here</a>.
   
-  *Exegetical reports must be submitted on the day they are due. Papers submitted after the appropriate meeting will be reduced by one-tenth of the assigned mark, though I will grade any papers submitted by Tuesday, April 08.*
+     *Exegetical reports must be submitted on the day they are due. Papers submitted after the appropriate meeting will be reduced by one-tenth of the assigned mark, though I will grade any papers submitted by Tuesday, April 08.*
  
 3. Final Take-Home Examination (<b>25%</b>): A take-home examination will be given during the final examination period. The examination will require exegetical comments on two passages, one from the gospels and one from the Pauline letters. The examination passages will not have been discussed in class.
 
@@ -81,151 +81,149 @@ In the event of extraordinary circumstances beyond the University’s control, t
 
 ### Course Schedule
 
-Jan 07: Course Introduction, Procedures, and Expectations
+**Jan 07: Course Introduction, Procedures, and Expectations**
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 01-->
 
 #### John 1:29&#8211;42 (Second Sunday after Epiphany)
 
-Jan 09
-Workshop
+**Jan 09: Workshop**
 
-Jan 14
-Discussion; Exegetical Reports Due
+**Jan 14: Discussion** &#124; Exegetical Reports Due
 
 Craig L. Blomberg with Jennifer Foutz Markey, “<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLTGxXXzZwMXRPdjA/edit?usp=sharing" target="_blank">Textual Criticism</a>;” “<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNzFSTUtrNGwxdVk/edit?usp=sharing" target="_blank">Translation and Translations</a>,” pp. 1&#8211;35 and 37&#8211;61 in idem, <i>A Handbook of New Testament Exegesis</i> (Grand Rapids, Mich.: BakerAcademic, 2010).
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 02-->
 
 #### 1 Cor 1:10&#8211;18 (Third Sunday after Epiphany)
 <span class="noprint" style="margin-bottom:1em"><i>NTTTC</i>, pp. <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLeHJialpDMkgzZUk/edit?usp=sharing" target="_blank">483&#8211;485</a>&nbsp;&#124;&nbsp;<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLTWdUWk9QRzd3bEU/edit?usp=sharing" target="_blank">Mounce Interlinear</a>
 
-Jan 16
-CLASS CANCELLED
+**Jan 16: CLASS CANCELLED**
 
-Jan 21
-Workshop (482 meets at 10:35&#8211;11:25 a.m., followed by 411 from 11:35 a.m.&#8211;12:25 p.m., as though it were a Thursday schedule)
+**Jan 21: Workshop** (482 meets at 10:35&#8211;11:25 a.m., followed by 411 from 11:35 a.m.&#8211;12:25 p.m., as though it were a Thursday schedule)
 
 John D. Grassmick, “<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLTXVQWHhZYmxjaWs/edit?usp=sharing" target="_blank">Epistolary Genre: Reading Ancient Letters,</a>” pp. 221&#8211;239 in Ed. Darrell L. Bock and Buist M. Fanning, <i>Interpreting the New Testament Text: Introduction to the Art and Science of Exegesis</i> (Wheaton, Crossway, 2006).
 
 Gordon D. Fee, “<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLX3RDRVYyMTBmbGpEM0xtMDJPMm5UZ050Q1NB/edit?usp=sharing" target="_blank">The Structural Analysis</a>” pp. 41&#8211;58 in idem, <i>New Testament Exegesis: A Handbook for Students and Pastors,</i> 3rd Ed. (Louisville, Ky.: Westminster John Knox, 2002).
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 03-->
 
 #### Luke 2:22&#8211;40 (Fourth Sunday after Epiphany; Presentation of the Lord)
 <span class="noprint" style="margin-bottom:1em"><i>NTTTC</i>, pp. <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLdnloREFxMnJzUUp6YkRkTUZvRnBWMFRGd2lv/edit?usp=sharing" target="_blank">171&#8211;174</a>
 
-Jan 23
-Exegetical Reports on 1 Cor 1:10&#8211;18 Due;<br />Workshop
+**Jan 23: Workshop**  &#124; Exegetical Reports on 1 Cor 1:10&#8211;18 due
 
-Jan 28
-Discussion; Exegetical Reports Due
+**Jan 28: Discussion** &#124; Exegetical Reports Due
 
 Raymond Brown, “<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLWGdUSVliXzNNX1E/edit?usp=sharing" target="_blank">Scholarship and the Infancy Narratives,</a>” pp. 25&#8211;41 in idem, <i>The Birth of the Messiah: A Commentary on the Infancy Narratives in the Gospels of Matthew and Luke,</i> Updated Ed. (Wheaton, Crossway, 2006).
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 04-->
 
 #### Matthew 5:13&#8211;20 (Fifth Sunday after Epiphany)
 <span class="noprint" style="margin-bottom:1em"><i>NTTTC</i>, p. <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLYm1FYXJHak1BZXd3RXFVMmlaSXdQQ3RsOGw0/edit?usp=sharing" target="_blank">10</a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLZzJSU1VWaEJXTGc/edit?usp=sharing" target="_blank">Throckmorton Synopsis</a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLWHpKcmo2blRFVms/edit?usp=sharing" target="_blank">Aland Synopsis (English)</a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLY1ZuTFd1VE5RQ0k/edit?usp=sharing" target="_blank">Aland Synopsis (Greek)</a></span>
 
-Jan 30
-Workshop
+**Jan 30: Workshop**
 
-Feb 04
-Discussion; Exegetical Reports Due
+**Feb 04: Discussion** &#124; Exegetical Reports Due
 
 James L. Bailey and Lyle D. Vander Brock, “<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLakpZb2VNVUUyMjQ/edit?usp=sharing" target="_blank">Aphorism</a>,” pp. 98&#8211;105 in idem, <i>Literary Forms in the New Testament: A Handbook (Louisville, Ky.: Westminster John Knox, 1992).</i>
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 05-->
 
 #### 1 Corinthians 3:1&#8211;9 (Sixth Sunday after Epiphany)
 <span class="noprint" style="margin-bottom:1em"><i>NTTTC</i>, pp. <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLdkx6Sl8tYVJ3bEVZbFJ5UWt4NkpKTU40d2xJ/edit?usp=sharing" target="_blank">488&#8211;490</a></span>
 
-Feb 06
-Workshop
+**Feb 06: Workshop**
 
-Feb 11
-Discussion; Exegetical Reports Due
+**Feb 11: Discussion** &#124; Exegetical Reports Due
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 06-->
 
 #### Mark 9:2&#8211;13 (Transfiguration Sunday, March 02)
 <span class="noprint" style="margin-bottom:1em"><i>NTTTC</i>, pp. <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLeVVNOGZFcjc4TVlLS0xWRGxmMTFyV3MzRjdF/edit?usp=sharing" target="_blank">129&#8211;128</a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLbWQwNHg1NFpPeUE/edit?usp=sharing" target="_blank">Throckmorton Synopsis</a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLb2YxVVRoM0t5czA/edit?usp=sharing" target="_blank">Aland Synopsis (English)</a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;<a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLa3NzdWNCbGozejQ/edit?usp=sharing" target="_blank">Aland Synopsis (Greek)</a></span></span>
 
-Feb 13
-Workshop
+**Feb 13: Workshop**
 
-Feb 18
-Discussion; Exegetical Reports Due
+**Feb 18: Discussion** &#124; Exegetical Reports Due
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 07-->
 
 #### Romans 5:12&#8211;19 (First Sunday in Lent, March 09)
 <span class="noprint" style="margin-bottom:1em"><i>NTTTC</i>, p. <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLbXlzdDVxWnVmQzJOSkplNGRVenhIMVFYR1Bz/edit?usp=sharing" target="_blank">444</a></span>
 
-Feb 20
-Workshop
+**Feb 20: Workshop**
 
-Feb 25
-Discussion: Exegetical Reports Due
+**Feb 25: Discussion** &#124; Exegetical Reports Due
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 08-->
 
 #### Hebrews 10:4&#8211;10 (Annunciation of the Lord, March 25)
 <span class="noprint" style="margin-bottom:1em"><i>NTTTC</i>, p. <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLdmY0ZV8wMzlHbTBvSXl4Q25ZQjkwZGhVYWJJ/edit?usp=sharing" target="_blank">709</a></span>
 
-Feb 27
-Workshop
+**Feb 27: Workshop**
 
-Mar 04
-NO CLASS (Reading Period)
+Mar 04: NO CLASS (Reading Period)
 
-Mar 06
-NO CLASS (Reading Period)
+Mar 06: NO CLASS (Reading Period)
 
-Mar 11
-Discussion; Exegetical Reports Due
+**Mar 11: Discussion** &#124; Exegetical Reports Due
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 09-->
 
 #### Ephesians 5:8&#8211;14 (Fourth Sunday in Lent, March 30)
 <span class="noprint" style="margin-bottom:1em"><i>NTTTC</i>, pp. <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLRW85dGt0M19Ma01hbUFhNnBBWXhPUFZtYkpJ/edit?usp=sharing" target="_blank">594&#8211;595</a></span>
 
-Mar 13
-Workshop
+**Mar 13: Workshop**
 
-Mar 18
-Discussion; Exegetical Reports Due
+**Mar 18: Discussion** &#124; Exegetical Reports Due
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 10-->
 
 #### Philippians 2:5–11 (Liturgy of the Passion, April 13)
 <span class="noprint" style="margin-bottom:1em"><i>NTTTC</i>, p. <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLNk1SMS1wM2dra243d25NTFo2YXJ6amM3cUJj/edit?usp=sharing" target="_blank">608</a></span>
 
-Mar 20
-Workshop
+**Mar 20: Workshop**
 
-Mar 25
-Discussion; Exegetical Reports Due
+**Mar 25: Discussion** &#124; Exegetical Reports Due
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 11-->
 
 #### 1 Peter 4:1&#8211;8 (Holy Saturday, April 19)
 <span class="noprint" style="margin-bottom:1em"><i>NTTTC</i>, pp. <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLZ3Y0SVI4YV9ZdEU2cnd3WWdVbmEzU0NsMTd3/edit?usp=sharing" target="_blank">749&#8211;749</a></span>
 
-Mar 27
-Workshop
+**Mar 27: Workshop**
 
-Apr 01
-Discussion; Exegetical Reports Due
+**Apr 01: Discussion** &#124; Exegetical Reports Due
+
+<hr style="margin:2em 0 2em 0">
 
 <!--Module 12-->
 
 #### Acts 10:34–43 (Resurrection of the Lord, April 20)
 <span class="noprint" style="margin-bottom:1em"><i>NTTTC</i>, pp. <a class="new-window" href="https://drive.google.com/file/d/0B7vb2Xa26caLUVU0X25yVmJFTXZpQl9TLUc2QTFVS204aWlV/edit?usp=sharing" target="_blank">372&#8211;373</a></span>
 
-Apr 03
-Workshop
+**Apr 03: Workshop**
 
-Apr 08
-Discussion; Exegetical Reports Due
+**Apr 08: Discussion** &#124; Exegetical Reports Due
