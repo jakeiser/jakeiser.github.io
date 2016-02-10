@@ -192,7 +192,7 @@ Carolyn Merchant, “[The Fall from Eden](https://drive.google.com/file/d/0B7vb2
 
 #### Week 05
 
-**Feb. 09: The Prehistory of Noah’s Flood**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**Feb. 09: The Prehistory of Noah’s Flood**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLS1d5Y0txLTYzMFk/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: [Genesis 5–11](http://bible.oremus.org/?ql=308772985)
 
