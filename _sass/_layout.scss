@@ -3,19 +3,22 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    height: 240px;
+    width: 100%;
+    background-color: #fff;
+    z-index: 1;
 
     // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
 }
 
 .site-title {
-    font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
+    font-size: 1em;
+    line-height: 1em;
+    margin: 20px auto 10px auto;
+    // float: left;
+    display: block;
+    text-align: center;
 
     &,
     &:visited {
@@ -24,35 +27,65 @@
 }
 
 .site-nav {
-    float: right;
-    line-height: 56px;
-
+	width: 100%;
+	text-align: center;
+	position: fixed;
+	top: 200px;
+	box-shadow: inset 0 -7px 10px -6px #999;
+	z-index:5;
+	
     .menu-icon {
         display: none;
     }
 
-    .page-link {
-        color: $text-color;
+    .nav-tab-inactive {
+        display: inline-block;
+        width: 110px;
+        height: 2.25em;
         line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
+        border-radius: 10px 10px 0 0;
+        box-shadow: inset 3px 2px 7px 2px #999;
+        background-color: $grey-color-light;
+        position: relative;
+        top: .5em;
+        z-index: 3;
+        text-shadow: 1px 1px $grey-color-light;
+    
+   		&:hover {
+   		background-color: #fff;
+    	//border-bottom: 1.5px solid #b3b3b3;
+    	}
     }
+    
+    .nav-tab-active {
+    	display: inline-block;
+        min-width: 115px;
+        min-height: 2.75em;
+        line-height: $base-line-height;
+        // border-bottom: 1px solid #fff;
+        border-radius: 10px 10px 0 0;
+        box-shadow: inset 3px 3px 2px 0px #999;
+        width: 100px;
+        background-color: #fff;
+        position: relative;
+        top: .2px;
+        z-index: 5;
+        text-shadow: 1px 1px $grey-color-light;
+	}
 
     @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
+        position: fixed;
+        top: 200px;
+        /* right: 30px;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
+        border-radius: 5px; */
+        box-shadow: none;
+        text-align: center; 
 
         .menu-icon {
-            display: block;
-            float: right;
+            display: inline;
+            // float: right;
             width: 36px;
             height: 26px;
             line-height: 0;
@@ -67,7 +100,7 @@
                     fill: $grey-color-dark;
                 }
             }
-        }
+        } 
 
         .trigger {
             clear: both;
@@ -79,13 +112,37 @@
             padding-bottom: 5px;
         }
 
-        .page-link {
-            display: block;
-            padding: 5px 10px;
+        .nav-tab-active {
+     		display: block;
+	        min-width: 100%;
+	        min-height: 2.5em;
+	        color: $text-color;
+	        line-height: $base-line-height;
+	        border: 1px solid $grey-color-dark;
+	        border-bottom: 1px solid #fff;
+	        border-radius: 0 0 0 0;
+	        box-shadow: none;
+	        width: 100px;
+	        background-color: #fff;
+	        z-index: 3;
+        }
+        
+        .nav-tab-inactive {
+         	display: block;
+	        width: 100%;
+	        height: 2.5em;
+	        color: $text-color;
+	        line-height: $base-line-height;
+	        border: 1px solid $grey-color-dark;
+	        border-radius: 0 0 0 0;
+	        box-shadow: none;
+	        background-color: $grey-color-light;
+	        position: relative;
+	        top: 0;
+	        z-index: 3;
         }
     }
 }
-
 
 
 /**
@@ -94,6 +151,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    margin: 0 auto 0 auto
 }
 
 .footer-heading {
@@ -186,6 +244,7 @@
 .post-link {
     display: block;
     font-size: 24px;
+    color: $text-color;
 }
 
 /**

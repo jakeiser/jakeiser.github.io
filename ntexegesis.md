@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Exegesis of the New Testament
-course: true
 location: McGill University, Montréal
-permalink: /new-testament-exegesis/
+course: true
+permalink: courses/new-testament-exegesis/
 ---
 
 RELG 411/482, McGill University, Winter 2014  

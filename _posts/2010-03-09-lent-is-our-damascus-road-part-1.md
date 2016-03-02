@@ -12,7 +12,7 @@ tags:
 modified_time: '2010-03-22T11:03:47.394-04:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-652621308578647393
 blogger_orig_url: http://sacredveils.blogspot.com/2010/03/lent-is-our-damascus-road-part-1.html
-permalink: lent-is-our-damascus-road-part-1
+permalink: blog/lent-is-our-damascus-road-part-1
 comments: true
 disqus_identifier: d2ce0829-c48c-4e96-b46b-dca177ea3688
 ---

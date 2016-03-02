@@ -10,7 +10,7 @@ tags:
 modified_time: '2010-07-19T21:31:46.965-04:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-6844645148532552488
 blogger_orig_url: http://sacredveils.blogspot.com/2010/01/on-deliverance-of-god-reflection-2.html
-permalink: the-deliverance-of-god-reflection-2
+permalink: blog/the-deliverance-of-god-reflection-2
 comments: true
 disqus_identifier: 455520b3-c5a5-478b-bbe1-4591e9efa19d
 ---

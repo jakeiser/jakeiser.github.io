@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive
+exclude: true
 permalink: /archive/
 ---
 

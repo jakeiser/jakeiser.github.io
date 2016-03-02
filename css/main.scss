@@ -27,7 +27,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fff; // Original background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #c96; // Original brand-color: #2a7ae2;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -58,5 +58,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "flexslider-nav"
 ;

@@ -1,0 +1,11 @@
+ {% for node in pages_list %}
+  {% if group == null or group == node.group %}
+   {% if page.url contains node.url %}
+    <li class="nav-tab-active"><a style="display: block; padding: .5em 1em .75em 1em; color: #000" href="{{node.url}}">{{node.title}}</a>
+     {% else %}
+     <li class="nav-tab-inactive"><a style="display: block; padding: .5em 1em .25em 1em; color: #000" href="{{node.url}}">{{node.title}}</a>
+    {% endif %}
+   {% endif %}
+  {% endfor %}
+ {% assign pages_list = nil %}
+{% assign group = nil %}

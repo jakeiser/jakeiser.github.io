@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Bible and Western Culture
-course: true
 location: McGill University, Montréal
-permalink: /relg203/
+course: true
+permalink: courses/relg203/
 ---
 
 RELG 203, McGill University, Winter 2015  
@@ -127,7 +127,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 *Desperate Housewives* [Opening Credits](https://youtu.be/aR0jKlwE0zI) (yU + co, 2004). Learn more at [Artcyclopedia](http://www.artcyclopedia.com/feature-2005-05.html){:class="new-window" target="_blank"}.
 
 <div class="videoWrapper-16-9">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/aR0jKlwE0zI" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/aR0jKlwE0zI?&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe>
 </div>
 
 **Jan. 21: What is the Bible? Part 2**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLVmQ1OWVqeHlkUVk/view?usp=sharing){:class="new-window" target="_blank"}</span>

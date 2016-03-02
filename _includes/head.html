@@ -8,4 +8,34 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    
+    
+    {% if page.carousel %}
+    <link rel="stylesheet" href="{{ "/css/flexslider.css" | prepend: site.baseurl }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="{{ "/js/jquery.flexslider.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/jquery.flexslider.manualDirectionControls.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" charset="utf-8">
+    // Can also be used with $(document).ready()
+	$(window).load(function() {
+	  $('.flexslider').flexslider({
+  		slideshow: false,
+	    animation: "fade",
+	    directionNav: false,
+	    
+		// Slide counter
+	    start:function(flexslider){
+            $(".slide-current-slide").text(flexslider.currentSlide+1);
+            $(".slide-total-slides").text("of"+flexslider.count)
+        },
+        before:function(flexslider){
+            $(".slide-current-slide").text(flexslider.animatingTo+1)
+        }
+        
+        // Manual controls
+	  }).flexsliderManualDirectionControls();
+	});
+	</script>
+	{% endif %}
+	
 </head>

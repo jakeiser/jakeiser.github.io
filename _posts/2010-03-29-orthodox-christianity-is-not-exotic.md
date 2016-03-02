@@ -8,7 +8,7 @@ tags:
 modified_time: '2010-07-19T20:46:30.204-04:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-8097049620067193953
 blogger_orig_url: http://sacredveils.blogspot.com/2010/03/orthodox-christianity-is-not-exotic.html
-permalink: orthodox-christianity-is-not-exotic
+permalink: blog/orthodox-christianity-is-not-exotic
 comments: true
 disqus_identifier: 6233d7bb-6ce1-49a6-ac4a-bc8394f002e3
 ---

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Curriculum Vitae
-permalink: /curriculum-vitae/
+title: CV
+group: "navigation"
+permalink: /cv/
 ---
 
 ### Education

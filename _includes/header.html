@@ -1,11 +1,16 @@
-<header class="site-header">
+<header class="site-header noprint">
 
-  <div class="wrapper">
+<div class="site-title">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+<a style="color: #000" href="{{ site.baseurl }}/"><img style="margin-bottom: 20px" src="/assets/images/j_logo.png">
 
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
+<h1 style="font-variant: small-caps; letter-spacing: .75em">jeffkeiser</h1><h3></a>scholar <span style="font-size: small">&#149;</span> writer <span style="font-size: small">&#149;</span> designer</h3>
+    </div>
+    
+</header>
+
+<nav class="site-nav noprint">
+    <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
           <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
           <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
@@ -13,17 +18,12 @@
         </svg>
       </a>
 
-      <div class="trigger">
-        {% for page in site.pages %}
-         {% unless page.course or page.exclude %}
-           {% if page.permalink %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-           {% endif %}
-          {% endunless %}
-        {% endfor %}
-      </div>
-    </nav>
-
-  </div>
-
-</header>
+  <div class="trigger">
+    <ul style="list-style: none; margin: 0 0 0 -20px; padding: 0">
+     {% assign pages_list = site.pages %}
+     {% assign group = 'navigation' %}
+     {% include pages_list %}
+    </ul>
+   </div>
+      
+</nav>

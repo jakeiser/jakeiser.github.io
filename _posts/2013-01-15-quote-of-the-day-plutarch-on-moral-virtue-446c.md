@@ -13,7 +13,7 @@ tags:
 modified_time: '2013-01-15T15:54:17.357-05:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-8975743725115171820
 blogger_orig_url: http://sacredveils.blogspot.com/2013/01/quote-of-day.html
-permalink: quote-of-the-day-plutarch-on-moral-virtue-446c
+permalink: blog/quote-of-the-day-plutarch-on-moral-virtue-446c
 comments: true
 disqus_identifier: 91fa1d93-eb97-489f-9dc0-e72c299a3b5c
 ---

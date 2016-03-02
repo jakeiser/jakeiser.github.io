@@ -8,7 +8,7 @@ tags:
 modified_time: '2010-07-19T21:25:24.273-04:00'
 blogger_id: tag:blogger.com,1999:blog-2851801011145291403.post-2461466850134002069
 blogger_orig_url: http://sacredveils.blogspot.com/2010/02/gift-that-keeps-on-giving-anselm-on.html
-permalink: anselm-on-the-atonement
+permalink: blog/anselm-on-the-atonement
 comments: true
 disqus_identifier: f1d1f325-f2a0-4a7b-a7ba-03d63e3ba4bb
 ---
