@@ -20,7 +20,7 @@ carousel:
 - image: /assets/images/lacl-cover.jpg
 - image: /assets/images/lacl-website.png
   link: http://lateantiquecrossroads.mcgill.ca
-- image: /assets/images/scottsdale_baseball_cards_logo.png
+- image: /assets/images/collectors-universe-scottsdale_baseball_cards_logo.png
 - image: /assets/images/biola-aa-poster-1.jpg
 - image: /assets/images/rusty_coleman_business_card.jpg
 ---
