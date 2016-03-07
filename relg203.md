@@ -116,7 +116,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 
 **Jan. 12: Introduction, Procedures, and Expectations**
 
-**Jan. 14: What is Western Culture?**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNmN3WGI5aHB/OTBRHc/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Jan. 14: What is Western Culture?**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNmN3WGI5aHBBRHc/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 <hr style="margin:2em 0 2em 0">
 
