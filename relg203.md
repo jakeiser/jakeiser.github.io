@@ -200,7 +200,7 @@ NT: [1 Peter 3:13–22](http://bible.oremus.org/?ql=287518859)
 
 Adam Ployd, “[We’re on a Boat!: The Church as Ark in Early Christianity](http://www.floodofnoah.com/#!post-early-christianity-church-as-ark/c1qn4){:class="new-window" target="_blank"}.”
 
-**Feb. 11: The Aftermath of Noah’s Flood**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</a></span>
+**Feb. 11: The Aftermath of Noah’s Flood**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLOVJjckJYRUprdnM/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 J. David Pleins, “[Race, Sex, and the Curse: When Myths Go Wrong](https://drive.google.com/file/d/0B7vb2Xa26caLTHVTWVYtVDNGYkU/view?usp=sharing){:class="new-window" target="_blank"},” pp. 129–144 in idem., *When the Great Abyss Opened: Classic and Contemporary Readings of Noah’s Flood* (Oxford: Oxford University Press, 2003)
 
@@ -208,7 +208,7 @@ J. David Pleins, “[Race, Sex, and the Curse: When Myths Go Wrong](https://driv
 
 #### Week 06
 
-**Feb. 16: Will the Real Abraham Please Stand Up?**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</a></span><span style="margin-bottom:1em">
+**Feb. 16: Will the Real Abraham Please Stand Up?**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLcXFCNU14MDNlNVE/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 *Thinking Piece:*&nbsp;&nbsp;Abraham is often called the father of three faiths: Judaism, Christianity, and Islam. What purpose does this characterization serve? Do you think it is an accurate characterization? Defend your answer with reference to the assigned materials for today.
 
@@ -220,7 +220,7 @@ Brannon Wheeler, “[Abraham and Islam](http://www.bibleodyssey.org/en/people/re
 
 Jon D. Levenson, “[The Idea of Abrahamic Religions: A Qualified Dissent](/assets/Levenson-The%20Idea%20of%20Abrahamic%20Religions.html){:class="new-window" target="_blank"},” *Jewish Review of Books* 1.1 (Spring 2010)
 
-**Feb. 18: Abrahamic Religions and the Binding/Sacrifice of Isaac**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</a></span>
+**Feb. 18: Abrahamic Religions and the Binding/Sacrifice of Isaac**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLZ0Q2cGhfZFYxTlU/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 NT: [Genesis 22:1–19](http://bible.oremus.org/?ql=322037678)
 
@@ -234,7 +234,7 @@ Watch Author Bruce Feiler discuss his motivation for writing *Abraham: A Journey
 
 #### Week 07
 
-**Feb. 23: Sodom and Gomorrah**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**Feb. 23: Sodom and Gomorrah**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLcW5xZ05McFhjaXM/view?usp=sharing){:class="new-window" target="_blank"}<span class="noprint">
 
 *Thinking Piece:*&nbsp;&nbsp;The sin of Sodom is popularly presented as [homosexuality](http://www.str.org/articles/what-was-the-sin-of-sodom-and-gomorrah){:class="new-window" target="_blank"} or as [radical inhospitality](http://www.huffingtonpost.com/rev-patrick-s-cheng-phd/what-was-the-real-sin-of_b_543996.html){:class="new-window" target="_blank"}. What are the flaws of each viewpoint?
 
@@ -244,7 +244,7 @@ NT: <a href="http://bible.oremus.org/?ql=308774490">Luke 10:1–12;&#160;&#160;2
 
 Richard Elliot Friedman and Shawna Dolansky, “[Homosexuality](https://docs.google.com/open?id=0B7vb2Xa26caLWGd1d0dlQ09zT1E){:class="new-window" target="_blank"},” pp. 1–8 in idem, *The Bible Now* (New York: Oxford University Press, 2011)
 
-**Feb. 25: Exodus and Liberation**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**Feb. 25: Exodus and Liberation**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLakVJUG16TGlyNnc/view?usp=sharing){:class="new-window" target="_blank"}<span class="noprint">
 
 HB/OT: <a href="http://bible.oremus.org/?ql=312597583">Exodus 1–15;&#160;&#160;19:1–6;&#160;&#160;23:20–24:18;&#160;&#160;Numbers 13:1–14:38;&#160;&#160;Deuteronomy 34;&#160;&#160;Joshua 1:1–16; 11:16–23</a>
 
