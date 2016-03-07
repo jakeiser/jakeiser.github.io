@@ -168,7 +168,7 @@ Clip: U.S. President Barack Obama’s [Second Inaugural Address](https://youtu.b
 
 #### Week 04
 
-**Feb. 02: The Fall of Adam and the Rise of Eve: Genesis 3 in Feminist and Postfeminist Perspectives**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</a></span>
+**Feb. 02: The Fall of Adam and the Rise of Eve: Genesis 3 in Feminist and Postfeminist Perspectives**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLWFJlcXJlWEJ4U0k/view?usp=sharing){:class="new-window" target="_blank"}</a></span>
 
 *Thinking Piece:* Consider the following print advertisement for GHD hair styling products. Would you characterize this image as a feminist appropriation of Genesis 3? Why or why not?
 
