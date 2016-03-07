@@ -133,6 +133,13 @@ li > ol {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300; }
 
+.responsive-title {
+  font-variant: small-caps;
+  letter-spacing: .75em; }
+  @media screen and (max-width: 600px) {
+    .responsive-title {
+      letter-spacing: .5em; } }
+
 /**
  * Links
  */
@@ -235,7 +242,7 @@ pre {
       padding-left: 15px; } }
   @media screen {
     .wrapper {
-      margin-top: 230px; } }
+      margin-top: 240px; } }
   @media print {
     .wrapper {
       margin-top: 0; } }
@@ -267,7 +274,7 @@ pre {
   height: 240px;
   width: 100%;
   background-color: #fff;
-  z-index: 1;
+  z-index: 3;
   position: fixed; }
   @media screen and (max-width: 600px) {
     .site-header {
@@ -646,7 +653,7 @@ pre {
   content: '';
   display: inline-block;
   margin-top: 1em;
-  margin-left: .4em;
+  margin-left: 1.25em;
   width: .75em;
   height: .75em;
   border-top: 0.25em solid #333;
@@ -675,7 +682,7 @@ pre {
   content: '';
   display: inline-block;
   margin-top: 1em;
-  margin-left: -.3em;
+  margin-left: .875em;
   width: .75em;
   height: .75em;
   border-top: 0.25em solid #333;

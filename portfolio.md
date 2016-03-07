@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: page
 title: Portfolio
 group: "navigation"
 permalink: /portfolio/
@@ -24,4 +24,6 @@ carousel:
 - image: /assets/images/biola-aa-poster-1.jpg
 - image: /assets/images/rusty_coleman_business_card.jpg
 ---
+
+{% include carousel.html %}
 

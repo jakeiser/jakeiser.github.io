@@ -137,6 +137,15 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
+    
+.responsive-title {
+    font-variant: small-caps; 
+    letter-spacing: .75em;
+    
+    @include media-query($on-palm) {
+    letter-spacing: .5em;
+    }
+}
 
 
 
@@ -275,7 +284,7 @@ pre {
     }
     
     @media screen {
-    	margin-top: 230px;
+    	margin-top: 240px;
     }
     
     @media print {
