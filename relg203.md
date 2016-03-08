@@ -262,7 +262,7 @@ Robert Allen Warrior, “[A Native American Perspective: Canaanites, Cowboys, an
 
 #### Week 08
 
-**Mar. 08: The Ten Commandments, the Horned Moses, and the Foundations of Western Law**<span class="hide noprint">&nbsp;&nbsp;&#124;&nbsp;&nbsp;Handout: [Which Ten Commandments?](https://drive.google.com/file/d/0B7vb2Xa26caLenNhSTBDazNRR3M/view?usp=sharing){:class="new-window" target="_blank"}&nbsp;&nbsp;&#124;&nbsp;&nbsp;[Slides](){:class="new-window" target="_blank"}</a></span>
+**Mar. 08: The Ten Commandments, the Foundations of Western Law, and the Horned Moses**<span class="noprint">Handout: [Which Ten Commandments?](https://drive.google.com/file/d/0B7vb2Xa26caLenNhSTBDazNRR3M/view?usp=sharing){:class="new-window" target="_blank"}&nbsp;&nbsp;&#124;&nbsp;&nbsp;[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLSFBybmFiTVlQTkk/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=308793346">Exodus 19–21; 23:20–24:18; 32–34</a>
 
