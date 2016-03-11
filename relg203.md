@@ -290,7 +290,7 @@ Wyclef Jean, “[Jaspora](https://youtu.be/G9qusjgZ66U),” *Wyclef Jean Present
 
 **Mar. 17: By the Rivers of Babylon: The Babylonian Exile in Text and Tradition**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
 
-HB/OT: <a href="http://bible.oremus.org/?ql=308640972">2 Kings 24:18-25:21</a> &#124; <a href="http://bible.oremus.org/?ql=308649461">Isaiah 52:13–53:12</a> &#124; <a href="http://bible.oremus.org/?ql=308641066">Jeremiah 7:1–8:3;&#160;&#160;29–31</a> &#124; <a href="http://bible.oremus.org/?ql=308641385">Ezekiel 1–4;&#160;&#160;8–10;&#160;&#160;37;&#160;&#160;43:1–5;&#160;&#160;47:1–12</a> &#124; <a href="http://bible.oremus.org/?ql=308640768">Psalm 137</a>
+HB/OT: [2 Kings 24:18-25:21](http://bible.oremus.org/?ql=308640972) &#124; [Isaiah 52:13–53:12](http://bible.oremus.org/?ql=308649461) &#124; [Jeremiah 7:1–8:3;&#160;&#160;29–31](http://bible.oremus.org/?ql=308641066) &#124; [Ezekiel 1–4;&#160;&#160;8–10;&#160;&#160;37;&#160;&#160;43:1–5;&#160;&#160;47:1–12](http://bible.oremus.org/?ql=308641385) &#124; [Psalms 136–137](http://bible.oremus.org/?ql=324628448)
 
 David W. Stowe, “[History, Memory, and Forgetting in Psalm 137](https://drive.google.com/file/d/0B7vb2Xa26caLdnpMbGZxOTFnbkk/view?usp=sharing){:class="new-window" target="_blank"},” pp. 137–157 in ed. Mark A. Chancey, Carol Meyers, and Eric M. Meyers, *The Bible in the Public Square: It’s Enduring Influence in American Life* (Atlanta: SBL, 2014)
 
@@ -300,15 +300,19 @@ David W. Stowe, “[History, Memory, and Forgetting in Psalm 137](https://drive.
 
 **Mar. 22: The Beginning of the Gospels**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
 
-<span class="hide">*Thinking Piece:*&nbsp;&nbsp;When did Jesus become the Son of God, according the four canonical gospels?</span>
-
-NT: <a href="http://bible.oremus.org/?ql=308649113">Mark 1:1–12</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308649131">Matthew 1:1–4:11</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308649184">Luke 1:1–4:12</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308649209">John 1:1–34</a>
+NT: [Mark 1:1–12](http://bible.oremus.org/?ql=308649113); [Matthew 1:1–4:11](http://bible.oremus.org/?ql=308649131); [Luke 1:1–4:12](http://bible.oremus.org/?ql=308649184); [John 1:1–34](http://bible.oremus.org/?ql=308649209)
 
 **Mar. 24: Jesus in the Gospels**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
 
-<span class="hide">*Thinking Piece #09:*&nbsp;&nbsp;Write a job description for the Messiah.</span>
+*Thinking Piece:*&nbsp;&nbsp;This thinking piece has three parts:
 
-NT: <a href="http://bible.oremus.org/?ql=282029813">Mark 1:1–9:1</a>; <a href="http://bible.oremus.org/?ql=282029925"> 9:2–14:2</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=219827056">Matthew 13:1–52</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=219827388">Luke 13:22–16:31</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=219827621">John 8:12–59</a>
+1. Read the first-century C.E. Jewish Historian, Josephus, [on the four sects of Judaism](https://drive.google.com/file/d/0B7vb2Xa26caLSGk5VGI3U1JaMVE/view?usp=sharing){:class="new-window" target="_blank"}.
+
+2. Imagine that each sect is looking to fill the position of messiah. Write four job descriptions, one for each sect, describing the position.
+
+3. Does Jesus fit any of these descriptions? Why or why not?
+
+NT: [Mark 1:1–9:1](http://bible.oremus.org/?ql=282029813); [9:2–14:2](http://bible.oremus.org/?ql=282029925);&#160;&#160;[Matthew 13:1–52](http://bible.oremus.org/?ql=219827056);&#160;&#160;[Luke 13:22–16:31](http://bible.oremus.org/?ql=219827388);&#160;&#160;[John 8:12–59](http://bible.oremus.org/?ql=219827621)
 
 <hr style="margin:2em 0 2em 0">
 
@@ -316,9 +320,7 @@ NT: <a href="http://bible.oremus.org/?ql=282029813">Mark 1:1–9:1</a>; <a href=
 
 **Mar. 29: The Last Supper from Da Vinci to Da Sopranos**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</a></span>
 
-<span class="hide">*Thinking Piece*&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing) (1988) and Ron Howard’s [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing) (2006), then read the recent *Atlantic Monthly* article on “[The Curious Case of Jesus’s Wife](http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/){:class="new-window" target="_blank"}.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?</span>
-
-Sophie Arle, “[Milan Bans Da Vinci Parody](http://www.theguardian.com/world/2005/feb/04/media.arts){:class="new-window" target="_blank"},” *The Guardian,* Friday, February 25, 2005
+*Thinking Piece:*&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing) (1988) and Ron Howard’s [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing) (2006), then read the recent *Atlantic Monthly* article on “[The Curious Case of Jesus’s Wife](http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/){:class="new-window" target="_blank"}.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?
 
 Martin Scorcese, Dir., [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing)
 
@@ -331,6 +333,8 @@ Ron Howard, Dir., [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa
 <div class="videoWrapper-other noprint" style="padding-bottom: 38%">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/preview" width="640" height="280"></iframe>
 </div>
+
+Sophie Arle, “[Milan Bans Da Vinci Parody](http://www.theguardian.com/world/2005/feb/04/media.arts){:class="new-window" target="_blank"},” *The Guardian,* Friday, February 25, 2005
 
 **Mar. 31: The Passion of the Christ in Music, Art, and Film**<span class="hide noprint">[Slides](){}</a></span>
 
@@ -356,7 +360,7 @@ HB/OT: <a href="http://bible.oremus.org/?ql=308774126">Isaiah 52:13–53:12;&#16
 
 **Apr. 05: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="hide noprint">[[Slides]](https://drive.google.com/open?id=0B7vb2Xa26caLbjhsQlhPdTBSbnM){:class="new-window" target="_blank"}</span>
 
-<span class="hide">*Thinking Piece:*&nbsp;&nbsp;What is justification? If good works do not justify a person before God, according to Martin Luther, then what is the point of doing good works?</span>
+<span class="hide">*Thinking Piece:*&nbsp;&nbsp;What are ‘works of the law’ according to the Apostle Paul and according to Martin Luther?</span>
 
 NT: <a href="http://bible.oremus.org/?ql=213698441">Galatians</a>
 
