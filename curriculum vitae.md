@@ -39,7 +39,7 @@ Hearing God’s Silence: Ignatius of Antiokheia and the Music of the Spheres. Pa
 
 The Circumcision of Jesus (Luke 2:21) and the Formation of Luke’s Infancy Narrative. Pages 39–52 in Scriptura: Nouvelle Series 9.2 (2007): Récits de l'enfance et filiation  de Jesus.
 
-[Crucifying Adam: The Mysticism and Mystagogy of Paul the Apostle]({{ site.url }}/assets/pdfs/keiser-crucifying-adam.pdf). Pages 189–210 in ed. Jeffrey Keiser and Michelle Rebidoux, ARC, The Journal of the Faculty of Religious Studies, McGill University 35 (2007): Essays on Mysticism and Phenomenology.
+[Crucifying Adam: The Mysticism and Mystagogy of Paul the Apostle]({{ site.url }}/assets/pdfs//keiser-crucifying-adam.pdf). Pages 189–210 in ed. Jeffrey Keiser and Michelle Rebidoux, ARC, The Journal of the Faculty of Religious Studies, McGill University 35 (2007): Essays on Mysticism and Phenomenology.
 
 #### Edited Volumes
 
