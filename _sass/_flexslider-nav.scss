@@ -1,8 +1,9 @@
-.nav-button {
- @include media-query($on-palm) {
- visibility: hidden;
+.nav-button,
+.flex-control-nav {
+ 	@include media-query($on-palm) {
+ 	visibility: hidden;
+ 	}
  }
-}
 
 .previous {
   position: absolute;

@@ -272,6 +272,7 @@ pre {
     max-width:         calc(800px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
+    margin-top: 240px;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;
@@ -283,8 +284,8 @@ pre {
         padding-left: $spacing-unit / 2;
     }
     
-    @media screen {
-    	margin-top: 240px;
+   @media screen and(max-width: 480px) {
+		margin-top: 140px;
     }
     
     @media print {

@@ -232,6 +232,7 @@ pre {
   max-width: calc(800px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
+  margin-top: 240px;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
@@ -240,9 +241,9 @@ pre {
       max-width: calc(800px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
-  @media screen {
+  @media screen and (max-width: 480px) {
     .wrapper {
-      margin-top: 240px; } }
+      margin-top: 140px; } }
   @media print {
     .wrapper {
       margin-top: 0; } }
@@ -279,7 +280,8 @@ pre {
   @media screen and (max-width: 600px) {
     .site-header {
       border-bottom: 1px solid #e8e8e8;
-      box-shadow: 1px 3px 8px #999; } }
+      box-shadow: 1px 3px 8px #999;
+      height: 120px; } }
 
 .site-title {
   font-size: 1em;
@@ -287,8 +289,12 @@ pre {
   margin: 20px auto 10px auto;
   display: block;
   text-align: center; }
-  .site-title, .site-title:visited {
+  .site-title:visited {
     color: #424242; }
+
+@media screen and (max-width: 600px) {
+  .site-title img {
+    display: none; } }
 
 .site-nav {
   width: 100%;
@@ -329,7 +335,7 @@ pre {
   @media screen and (max-width: 600px) {
     .site-nav {
       position: fixed;
-      top: 200px;
+      top: 90px;
       /* right: 30px;
       background-color: $background-color;
       border: 1px solid $grey-color-light;
@@ -355,21 +361,20 @@ pre {
         display: block;
         padding-bottom: 5px; }
       .site-nav .nav-tab-active {
-        display: block;
-        min-width: 100%;
+        display: inline-block;
+        min-width: 60%;
         min-height: 2.5em;
         color: #111;
         line-height: 1.5;
         border: 1px solid #424242;
-        border-bottom: 1px solid #fff;
         border-radius: 0 0 0 0;
         box-shadow: none;
         width: 100px;
         background-color: #fff;
         z-index: 3; }
       .site-nav .nav-tab-inactive {
-        display: block;
-        width: 100%;
+        display: inline-block;
+        width: 60%;
         height: 2.5em;
         color: #111;
         line-height: 1.5;
@@ -633,7 +638,8 @@ pre {
     color: #099; }
 
 @media screen and (max-width: 600px) {
-  .nav-button {
+  .nav-button,
+  .flex-control-nav {
     visibility: hidden; } }
 
 .previous {
