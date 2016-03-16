@@ -12,10 +12,6 @@ permalink: /courses/
   {% endif %}
 
  {% if page.course and page.content contains '<!--excerpt.start-->' and page.content contains '<!--excerpt.end-->' %}
-  {{ ((page.content | split: '<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | prepend: '.&nbsp;.&nbsp;.&nbsp;' }}
- {% endif %}
-            
- {% if page.course and page.content contains '<!--excerpt.end-->' %}
-  .&nbsp;.&nbsp;.&nbsp;<a href="{{ page.url | prepend: site.baseurl }}">Read the syllabus</a>
+  {{ ((page.content | split: '<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | prepend: '.&nbsp;.&nbsp;.&nbsp;' }}&nbsp;.&nbsp;.&nbsp;.&nbsp;<a href="{{ page.url | prepend: site.baseurl }}">Read the syllabus</a>
  {% endif %}
 {% endfor %}
