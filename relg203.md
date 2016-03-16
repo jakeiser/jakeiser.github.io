@@ -274,7 +274,7 @@ NT: <a href="http://bible.oremus.org/?ql=213443104">2 Corinthians 3:7–18</a>
 
 #### Week 09
 
-**Mar. 15: Bon King, Bad King**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</a></span>
+**Mar. 15: Bon King, Bad King**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLQWFrLTNGTzBmekU/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=213512508">Deuteronomy 17:14–20</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308586716">1 Samuel 8</a>;&#160;&#160;selected passages about the following rulers of Israel and Judah: <a href="http://bible.oremus.org/?ql=308636109">David</a> &#124; <a href="http://bible.oremus.org/?ql=308590940">Solomon</a> &#124; <a href="http://bible.oremus.org/?ql=308638944">Ahab and Jezebel</a> &#124; <a href="http://bible.oremus.org/?ql=213510542">Josiah</a>
 
@@ -285,8 +285,6 @@ Wyclef Jean, “[Jaspora](https://youtu.be/G9qusjgZ66U),” *Wyclef Jean Present
 <div class="videoWrapper-16-9">
 <iframe width="420" height="315" src="//www.youtube.com/embed/G9qusjgZ66U?rel=0"></iframe>
 </div>
-
-<span class="hide">*Quote of the Day:*&#160;&#160;The death and dispossession of Naboth and his family [1 Kings 21] has been reenacted thousands of times since the creation of the State of Israel. When reduced to its essence, it embodies the tragedy of Palestine as well as the suppression of the rights of the individual. But it is more than the story of a tragedy, since at its heart stands a God who is a God of justice, the God who governs history, who has a long memory, and will not allow injustice to go unchecked forever (Naim Stifan Ateek, *Justice and Only Justice: A Palestinian Theology of Liberation* [Maryknoll, N.Y.: Orbis, 1989]).</span>
 
 **Mar. 17: By the Rivers of Babylon: The Babylonian Exile in Text and Tradition**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
 
