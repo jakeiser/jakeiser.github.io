@@ -6,8 +6,13 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     
     <meta name="description" content="{{ site.description }}">
+    
     {% if page.title %}{{ Christianity Past and Present }}
     <meta property="og:image" content="{{ "/assets/images/domatilla-sarcophagus-detail.png" | prepend: site.baseurl / }}">
+    {% endif %}
+    
+    {% if page.title %}{{ Bible and Western Culture }}
+    <meta property="og:image" content="{{ "/assets/images/apple-bite.png" | prepend: site.baseurl / }}">
     {% endif %}
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
