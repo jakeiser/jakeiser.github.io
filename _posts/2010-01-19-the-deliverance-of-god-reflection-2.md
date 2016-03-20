@@ -15,8 +15,10 @@ comments: true
 disqus_identifier: 455520b3-c5a5-478b-bbe1-4591e9efa19d
 ---
 
-Previous Posts in this Series:  
-[The Deliverance of God, Reflection 1](/the-deliverance-of-god-reflection-1)
+Other posts in this series:  
+[The Deliverance of God, Reflection 1](/blog/the-deliverance-of-god-reflection-1)  
+[The Deliverance of God, Reflection 3: Theory v. Exegesis](/blog/the-deliverance-of-god-reflection-3)  
+[The Deliverance of God, Reflection 4: The Economy of Salvation](/blog/the-deliverance-of-god-reflection-4)
 
 Campbell gets to “The Heart of the Matter” after a preface describing the origin and structure of his project and a brief introduction discussing three interpretive conundrums, for which I defer to [Sean the Baptist’s summary](http://seanthebaptist.typepad.com/sean_the_baptist/2009/09/the-deliverance-of-god-introduction.html). Campbell does not “proceed directly to exegesis,” however, which as he puts it “would be to advance blindly into thoroughly prepared positions—a suicidal interpretive project” (p.8). Having locked horns with a few ardent ‘Justification theorists’ in the past I can appreciate Campbell’s caution. Instead he argues that the complex culprit that has plagued Pauline scholarship for over a century is “an amalgam of a particular *reading* of various Pauline texts&nbsp;.&nbsp;.&nbsp;. and a *theory* of salvation” (p.12). For the remainder of the chapter he concentrates on developing a rigorous account of that theory. That account sets up the following chapters, which concern:
 
@@ -28,6 +30,8 @@ Of particular interest at the systematic frame is Campbell’s [salutary critiqu
 
 <!--excerpt.start-->A comparison of Pat Robertson’s remarks on the horrific tragedy unfolding in Haiti and Campbell’s comments on the implications of Justification theory for the fate of those who have willfully refused the gospel shows how Campbell’s account of justification theory can help explain certain socio-political and ecclesial realities.<!--excerpt.end--> First, Robertson’s remarks:
 
+<div class="videoWrapper-16-9">
 <iframe style="margin-bottom:1em" width="420" height="315" src="https://www.youtube.com/embed/f5TE99sAbwM" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Now Campbell: Those who have refused the gospel’s offer of redirected punishment have betrayed a high degree of irrationality and/or willful disobedience. Any misfortune they might experience prior to the day of judgment is therefore appropriately construed as a proleptic experience of the punishment that awaits them, *although it may also double as a pedagogical prompt.* And perhaps these two dynamics may be fused when non-Christians experience awful punishments at the hands of given government (*although the forces of nature, including disasters, can also function at this point*). Essentially, non-Christians are a category that is fundamentally appointed for violent punishment (p. 88, my emphases).

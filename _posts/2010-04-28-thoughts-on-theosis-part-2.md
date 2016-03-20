@@ -19,8 +19,8 @@ disqus_identifer: e22ecbae-4d7f-4740-b92e-3c8d0db9499e
 ---
 
 Other posts in this series:  
-[Part 1: Vocabulary](/thoughts-on-theosis-part-1)  
-[Part 3: Theosis and Orthodox Doctrine](/thoughts-on-theosis-part-3)
+[Part 1: Vocabulary](/blog/thoughts-on-theosis-part-1)  
+[Part 3: Theosis and Orthodox Doctrine](/blog/thoughts-on-theosis-part-3)
 
 Contemporary Orthodox theologians sometimes pay more attention to the doctrinal foundations of theosis than to its biblical roots. This is less a symptom of neglect than a consequence of the fact that the Fathers *did not* neglect the Bible in their doctrinal formulations. Neither feeling the need nor the desire to reinvent the wheel, contemporary theologians usually head straight for what may well be the most memorable and oft-repeated of Patristic sayings: “God became man so that man might become god.” Athanasius of Alexandria is the favorite authority for this saying (*On the Incarnation* 54.3), but one also finds nods to Irenaeus of Lyons and Clement of Alexandria.
 

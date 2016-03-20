@@ -23,8 +23,8 @@ disqus_identifier: cbec9bec-ac59-4eb2-b1f0-226dead072cb
 ---
 
 Other posts in this series:  
-[Lent Is Our Damascus Road, Part 1: Blindness](/lent-is-our-damascus-road-part-1)  
-[Lent Is Our Damascus Road, Part 3: Torn from His Mother’s Womb](/lent-is-our-damascus-road-part-3)
+[Lent Is Our Damascus Road, Part 1: Blindness](/blog/lent-is-our-damascus-road-part-1)  
+[Lent Is Our Damascus Road, Part 3: Torn from His Mother’s Womb](/blog/lent-is-our-damascus-road-part-3)
 
 <!--excerpt.start-->The conventional understanding of conversion owes much to the Acts of the Apostles, but the historical reliability of Acts is not always reliable as an historical account of Saint Paul’s career. Our most accurate information comes instead from the seven or so letters that are generally acknowledged to have originated with Paul himself rather than his later disciples or a Pauline school. In these letters Paul never mentions the Damascus road nor does he refer to his experience as a conversion. Consequently it has become fashionable to say that Paul was *called* rather than *converted.*<!--excerpt.end--> Mark Goodacre’s podcast on the subject of [Paul&#39;s Conversion on the Damascus Road](http://podacre.blogspot.com/2009/10/nt-pod-17-pauls-conversion-on-damascus.html) nicely summarizes the historical-critical reasons for this development, but we may still ask whether the distinction really supports the weight of the claims made in its favor.
 

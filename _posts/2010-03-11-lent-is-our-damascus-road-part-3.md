@@ -21,8 +21,8 @@ disqus_identifier: b5f9ea79-552c-4298-ad2a-20ac26fe1132
 ---
 
 Other posts in this series:  
-[Lent Is Our Damascus Road, Part 1: Blindness](/lent-is-our-damascus-road-part-1)  
-[Lent Is Our Damascus Road, Part 2: Two Perspectives](/lent-is-our-damascus-road-part-2)
+[Lent Is Our Damascus Road, Part 1: Blindness](/blog/lent-is-our-damascus-road-part-1)  
+[Lent Is Our Damascus Road, Part 2: Two Perspectives](/blog/lent-is-our-damascus-road-part-2)
 
 By his own admission, Paul’s *modus operandi* was to forget the past and press on to what lies ahead (Phil 3:13–14). On the rare occasions when he does look back one point is crystal clear. In the words of a justly famous essay by Krister Stendahl:[^1]
 

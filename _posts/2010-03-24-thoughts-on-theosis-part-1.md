@@ -16,8 +16,8 @@ disqus_identifier: da899d9b-c62b-4694-9730-a56b3ff9d71f
 ---
 
 Other posts in this series:  
-[Part 2: What the Bible Says About Theosis](/thoughts-on-theosis-part-2)  
-[Part 3: Theosis and Orthodox Doctrine](/thoughts-on-theosis-part-3)
+[Part 2: What the Bible Says About Theosis](/blog/thoughts-on-theosis-part-2)  
+[Part 3: Theosis and Orthodox Doctrine](/blog/thoughts-on-theosis-part-3)
 
 In view of the recent surge of Protestant interest in the Orthodox understanding of theosis, especially among Evangelicals, I thought I would pull together a few remarks on the subject, with the caveat that the views and opinions expressed in what follows distill my own scarcely comprehensive reading and imperfect (in)experience.
 

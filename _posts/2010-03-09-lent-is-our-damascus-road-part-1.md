@@ -18,8 +18,8 @@ disqus_identifier: d2ce0829-c48c-4e96-b46b-dca177ea3688
 ---
 
 Other posts in this series:  
-[Lent Is Our Damascus Road, Part 2: Two Perspectives](/lent-is-our-damascus-road-part-2)  
-[Lent Is Our Damascus Road, Part 3: Torn from His Mother’s Womb](/lent-is-our-damascus-road-part-3)
+[Lent Is Our Damascus Road, Part 2: Two Perspectives](/blog/lent-is-our-damascus-road-part-2)  
+[Lent Is Our Damascus Road, Part 3: Torn from His Mother’s Womb](/blog/lent-is-our-damascus-road-part-3)
 
 The Acts of the Apostles tells the story of Saint Paul’s transformative encounter with the risen Christ no fewer than three times. It is a story so well known and so deeply embedded in our cultural consciousness that we scarcely think twice when someone refers to a Damascus road experience, yet it is a story that is worth repeating, if for no other reason than that Lent is our Damascus road.
 

@@ -23,8 +23,8 @@ disqus_identifier: 4537808176
 ---
 
 Other posts in this series:  
-[Part 1: Vocabulary](/thoughts-on-theosis-part-1)  
-[Part 2: What the Bible Says About Theosis](/thoughts-on-theosis-part-2)
+[Part 1: Vocabulary](/blog/thoughts-on-theosis-part-1)  
+[Part 2: What the Bible Says About Theosis](/blog/thoughts-on-theosis-part-2)
 
 Theosis is less a doctrine than a practical outworking of the doctrine of the Incarnation.[^1] In that sense it is a response to the question posed most famously by Anselm of Canterbury, but already a millenium old before he formulated it: *Cur deus homo?* Why the God-Man? Anselm proposed that human beings had violated God’s honor and consequently incurred a debt that no one could possibly repay. By taking on human flesh and voluntarily suffering a penalty he did not deserve, Jesus not only satisfied that debt but stored up a treasury of merit that far exceeded any future debt: [the gift that keeps on giving](/anselm-on-the-atonement).
 

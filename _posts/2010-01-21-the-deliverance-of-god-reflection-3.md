@@ -15,9 +15,10 @@ comments: true
 disqus_identifier: 6d2175c0-131e-49b1-964f-b66aaf561a23
 ---
 
-Previous Posts in this Series:  
-[The Deliverance of God, Reflection 1](/the-deliverance-of-god-reflection-1)  
-[The Deliverance of God, Reflection 2: Douglas Campbell v. Pat Robertson](/the-deliverance-of-god-reflection-2)
+Other posts in this series:  
+[The Deliverance of God, Reflection 1](/blog/the-deliverance-of-god-reflection-1)  
+[The Deliverance of God, Reflection 2: Douglas Campbell v. Pat Robertson](/blog/the-deliverance-of-god-reflection-2)  
+[The Deliverance of God, Reflection 4: The Economy of Salvation](/blog/the-deliverance-of-god-reflection-4)
 
 I concluded my last reflection by suggesting that Campbell’s theoretical account of Justification occasionally accurately describes certain socio-political and ecclesial realities, although I am aware of at least two flaws in my argumentation. First, my ‘evidence’ is anecdotal and, second, neither Pat Robertson nor any other single individual are necessarily representative of all who adhere to the doctrine of Justification by faith. <!--excerpt.start-->Campell argues that Justification theory leads predictably to ethically reprehensible conclusions. Pat Robertson’s suggestion that Haiti has recently suffered a devastating earthquake because her founders allegedly made a pact with the Devil is a case in point. The theory of Justification, as Campbell construes it, provides an implicit rationale for such claims.
 

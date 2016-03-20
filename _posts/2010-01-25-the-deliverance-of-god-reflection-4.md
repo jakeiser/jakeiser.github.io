@@ -15,10 +15,10 @@ comments: true
 disqus_identifier: 4806f69e-423f-4f03-9143-43bcab94d789
 ---
 
-Previous Posts in this Series:  
-[The Deliverance of God, Reflection 1](/the-deliverance-of-god-reflection-1)  
-[The Deliverance of God, Reflection 2: Douglas Campbell v. Pat Robertson](/the-deliverance-of-god-reflection-2)  
-[The Deliverance of God, Reflection 3: Theory v. Exegesis](/the-deliverance-of-god-reflection-3)
+Other Posts in this Series:  
+[The Deliverance of God, Reflection 1](/blog/the-deliverance-of-god-reflection-1)  
+[The Deliverance of God, Reflection 2: Douglas Campbell v. Pat Robertson](/blog/the-deliverance-of-god-reflection-2)  
+[The Deliverance of God, Reflection 3: Theory v. Exegesis](/blog/the-deliverance-of-god-reflection-3)
 
 <!--excerpt.start-->I recently had the opportunity to revisit my Evangelical roots by attending a Christmas Eve service at a Nazarene church. Two illustrations from the pastor’s sermon stood out. The first involved a [short film](http://www.youtube.com/watch?v=nG5BI82aS8c) that tells the story of Louisa Stead, who found herself and her four-year old daughter impoverished when her husband was pulled under the sea trying to save a drowning boy. According to the film Louisa penned the well-known hymn “’Tis so Sweet to Trust in Jesus” one night after receiving an anonymous gift of food.<!--excerpt.end-->
 

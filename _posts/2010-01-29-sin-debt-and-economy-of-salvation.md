@@ -17,11 +17,11 @@ comments: true
 disqus_identifier: 98bc7801-c645-4634-8626-0dba58c5dbcf
 ---
 
-Previous Posts in this Series:  
-[The Deliverance of God, Reflection 1](/the-deliverance-of-god-reflection-1)  
-[The Deliverance of God, Reflection 2: Douglas Campbell v. Pat Robertson](/the-deliverance-of-god-reflection-2)  
-[The Deliverance of God, Reflection 3: Theory v. Exegesis](/the-deliverance-of-god-reflection-3)  
-[The Deliverance of God, Reflection 4: The Economy of Salvation](/the-deliverance-of-god-reflection-4)
+Other posts in this series:  
+[The Deliverance of God, Reflection 1](/blog/the-deliverance-of-god-reflection-1)  
+[The Deliverance of God, Reflection 2: Douglas Campbell v. Pat Robertson](/blog/the-deliverance-of-god-reflection-2)  
+[The Deliverance of God, Reflection 3: Theory v. Exegesis](/blog/the-deliverance-of-god-reflection-3)  
+[The Deliverance of God, Reflection 4: The Economy of Salvation](/blog/the-deliverance-of-god-reflection-4)
 
 Throughout this series I have focused primarily on what I perceive to be a strength of Campbell’s account of Justification theory in *[The Deliverance of God](http://www.amazon.com/Deliverance-God-Apocalyptic-Rereading-Justification/dp/0802831265?ie=UTF8&tag=sacrveil-20&link_code=btl&camp=213689&creative=392969),* namely its capacity to expose the theological underpinnings of certain observable (though anecdotal) phenomena within contemporary Evangelical churches. In my last post, in particular, I focused on Campbell’s objection to the implications of a particular reading of Anselm’s theory of atonement that seems to warrant the proposition that all human activity is essentially economic. There I suggested that the economy of salvation envisioned by Justification theory tends, in practice, to encourage the maintenance of class distinctions in the earthly economy. I should reiterate at this point that, in my opinion, this is a predictable and theologically explicable outcome of Justification theory as Campbell construes it, even though I do not think it is *necessary* for the theory to work.
 
