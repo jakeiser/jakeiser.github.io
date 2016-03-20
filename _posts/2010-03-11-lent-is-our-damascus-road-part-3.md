@@ -20,10 +20,6 @@ comments: true
 disqus_identifier: b5f9ea79-552c-4298-ad2a-20ac26fe1132
 ---
 
-Other posts in this series:  
-[Lent Is Our Damascus Road, Part 1: Blindness](/blog/lent-is-our-damascus-road-part-1)  
-[Lent Is Our Damascus Road, Part 2: Two Perspectives](/blog/lent-is-our-damascus-road-part-2)
-
 By his own admission, Paul’s *modus operandi* was to forget the past and press on to what lies ahead (Phil 3:13–14). On the rare occasions when he does look back one point is crystal clear. In the words of a justly famous essay by Krister Stendahl:[^1]
 
 >The Sin with capital S in Paul’s past was that he had persecuted the Church of God. This climax of his dedicated obedience to his Jewish faith [Gal 1:13, Phil 3:6] was the shameful deed which made him the least worthy of apostleship [1 Cor 15:9]. This motif, which is elaborated dramatically by the author of the Acts of the Apostles [<cite style="font-style: normal" title="Acts 9" class="bibleref">Acts 9</cite>; <cite style="font-style: normal" title="Acts 22" class="bibleref">22</cite>; <cite style="font-style: normal" title="Acts 26" class="bibleref">26</cite>], is well grounded in Paul's own epistles. Similarly, when I Timothy states on Paul's account that “Christ Jesus came into the world to save sinners, of whom I am number one” [1 Tim 1:15], this is not an expression of contrition in the present tense, but refers to how Paul in his ignorance had been a blaspheming and violent persecutor, before God in his mercy and grace had revealed to him his true Messiah and made Paul an Apostle and a prototype of sinners’ salvation [1 Tim  1:12-16] (p. 89)
@@ -49,5 +45,9 @@ Lent is our Damascus road, but in order to hear the voice of the Spirit speaking
 <!--excerpt.start-->Lent challenges us to look *inward* in an age when we are more inclined to extend ourselves *outward* in ever-expanding social networks. In an age of information without understanding, of breadth without depth, Lent is our time to contemplate what is the breadth and length and height and depth of the love of God, that we may be filled up to all the fullness of God (Eph 3:18–19). Lent is our time for moral, intellectual, and spiritual conversion; only then will we realize our calling.<!--excerpt.end-->
 
 >As for your birth, on the day you were born your navel cord was not cut, nor were you washed with water to cleanse you, nor rubbed with salt, nor wrapped in cloths. No eye pitied you, to do any of these things for you out of compassion for you; but you were thrown out in the open field, for you were abhorred on the day you were born. I passed by you, and saw you flailing about in your blood. As you lay in your blood, I said to you, ‘Live!’ (Ezekiel 16:4&8211;6)
+
+Other posts in this series:  
+[Lent Is Our Damascus Road, Part 1: Blindness](/blog/lent-is-our-damascus-road-part-1)  
+[Lent Is Our Damascus Road, Part 2: Two Perspectives](/blog/lent-is-our-damascus-road-part-2)
 
 [^1]: Krister Stendahl, “[The Apostle Paul and the Introspective Conscience of the West](http://www.dburnett.com/wp-content/uploads/2011/07/The-Apostle-Paul-and-the-Introspective-Conscience-of-the-West.pdf),” *Harvard Theological Review* 56.3 (1963): pp. 199–215.

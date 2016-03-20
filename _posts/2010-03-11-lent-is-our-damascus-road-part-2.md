@@ -22,7 +22,7 @@ comments: true
 disqus_identifier: cbec9bec-ac59-4eb2-b1f0-226dead072cb
 ---
 
-Other posts in this series:  
+Previous post in this series:  
 [Lent Is Our Damascus Road, Part 1: Blindness](/blog/lent-is-our-damascus-road-part-1)  
 [Lent Is Our Damascus Road, Part 3: Torn from His Mother’s Womb](/blog/lent-is-our-damascus-road-part-3)
 
@@ -40,3 +40,9 @@ Lent is our Damascus road, but in order to hear the voice of the Spirit speaking
 
 *We adore Thee, O Christ, and we bless Thee.  
 Because by Thy Holy Cross Thou hast redeemed the world.*
+
+Next post in this series:  
+[Lent Is Our Damascus Road, Part 3: Torn from His Mother’s Womb](/blog/lent-is-our-damascus-road-part-3)
+ 
+Other posts in this series:  
+[Lent Is Our Damascus Road, Part 1: Blindness](/blog/lent-is-our-damascus-road-part-1) 

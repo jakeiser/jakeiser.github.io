@@ -17,10 +17,6 @@ comments: true
 disqus_identifier: d2ce0829-c48c-4e96-b46b-dca177ea3688
 ---
 
-Other posts in this series:  
-[Lent Is Our Damascus Road, Part 2: Two Perspectives](/blog/lent-is-our-damascus-road-part-2)  
-[Lent Is Our Damascus Road, Part 3: Torn from His Mother’s Womb](/blog/lent-is-our-damascus-road-part-3)
-
 The Acts of the Apostles tells the story of Saint Paul’s transformative encounter with the risen Christ no fewer than three times. It is a story so well known and so deeply embedded in our cultural consciousness that we scarcely think twice when someone refers to a Damascus road experience, yet it is a story that is worth repeating, if for no other reason than that Lent is our Damascus road.
 
 Still breathing murderous threats against the disciples of the Lord, Paul (called Saul) obtains a letter from the High Priest in Jerusalem addressed to the synagogues in Damascus, presumably a warrant to arrest the disciples of Jesus there. But as Saul approaches the city around midday he is overwhelmed by a blinding light accompanied by a questioning voice: “Saul, Saul, why do you persecute me?” “Who are you, Lord?” asks Saul. “I am Jesus, whom you are persecuting.” The men who are with Saul either hear the voice but see no one or see the light but hear nothing; [Luke wavers on this point](http://maer.vidanovaphilly.org/2009/12/19/acts-9-7-and-22-9-did-they-hear-the-voice-or-not/). The voice directs the now blind Saul to go on into Damascus, where, after three days, his sight is restored by the Holy Spirit through the ministrations of a man named Ananias.
@@ -34,3 +30,9 @@ Lent is our Damascus road, but in order to hear the voice of the Spirit speaking
 Even Saul is not the special case we often think him to be. We are all, in our own way, blind to the light of the knowledge of the glory of God in the face of Christ. The light shines in the darkness and we do not comprehend it. We cannot comprehend it. Pride, anger, greed, and lust are scales on our eyes; they darken our vision and dim our minds, and until they fall away we shall neither see the light of the Resurrection nor truly understand the words “Christ is risen!” Therefore let us hasten to Damascus. Let us pass by the dark alleys and dead ends of sin to await our healing on the street called Straight. Let us say with Saint Paul, “I have been crucified with Christ” and “the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself up for me.”
 
 *“Before Thy Cross we bow down and worship, sovereign Lord, and Thy Holy Resurrection we glorify.”*
+
+Next post in this series:  
+[Lent Is Our Damascus Road, Part 2: Two Perspectives](/blog/lent-is-our-damascus-road-part-2)
+
+Other posts in this series:
+[Lent Is Our Damascus Road, Part 3: Torn from His Mother’s Womb](/blog/lent-is-our-damascus-road-part-3)
