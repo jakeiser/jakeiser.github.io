@@ -37,3 +37,11 @@ Campbell enlists Anselm of Canterbury to answer this question on the premise tha
 That last sentence not only fairly accurately describes an important aspect of capitalist economies, it also fairly accurately describes what I call *Field of Dreams* churches. The ecclesiology of such churches can be summarized by an oft-misquoted line from Kevin Costner’s hit film: “If you build it, they will come.” The church building in which I heard the above illustrations had recently been built on a new property, though I hesitate to place it in the same class as [Lakewood Church](http://en.wikipedia.org/wiki/Lakewood_Church) in Houston, Texas. In fact nearly every Evangelical church I have visited in the past ten years has either been preparing for “the next phase” of expansion, constructing a new edifice, or enjoying shiny new facilities. This may say more about my own social circles than the condition of Evangelical churches in general, but in my experience saving more souls often seems to involve buying larger property and building a bigger church.
 
 Can one love God *and* Mammon too? Could it be that a marriage of Justification theory and capitalist ideology is among the reasons for the continued success of Evangelical Protestantism, especially in the United States? Does such success prove the truth of the gospel, or is the gospel of growth actually a cancer in the body of Christ?
+
+Next post in this series:  
+[Sin, Debt, and the Economy of Salvation](/blog/sin-debt-and-the-economy-of-salvation)
+
+Other posts in this series:  
+[The Deliverance of God, Reflection 1](/blog/the-deliverance-of-god-reflection-1)  
+[The Deliverance of God, Reflection 2: Douglas Campbell v. Pat Robertson](/blog/the-deliverance-of-god-reflection-2)  
+[The Deliverance of God, Reflection 3: Theory v. Exegesis](/blog/the-deliverance-of-god-reflection-3)

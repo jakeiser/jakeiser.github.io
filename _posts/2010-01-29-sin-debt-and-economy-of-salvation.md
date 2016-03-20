@@ -17,12 +17,6 @@ comments: true
 disqus_identifier: 98bc7801-c645-4634-8626-0dba58c5dbcf
 ---
 
-Other posts in this series:  
-[The Deliverance of God, Reflection 1](/blog/the-deliverance-of-god-reflection-1)  
-[The Deliverance of God, Reflection 2: Douglas Campbell v. Pat Robertson](/blog/the-deliverance-of-god-reflection-2)  
-[The Deliverance of God, Reflection 3: Theory v. Exegesis](/blog/the-deliverance-of-god-reflection-3)  
-[The Deliverance of God, Reflection 4: The Economy of Salvation](/blog/the-deliverance-of-god-reflection-4)
-
 Throughout this series I have focused primarily on what I perceive to be a strength of Campbell’s account of Justification theory in *[The Deliverance of God](http://www.amazon.com/Deliverance-God-Apocalyptic-Rereading-Justification/dp/0802831265?ie=UTF8&tag=sacrveil-20&link_code=btl&camp=213689&creative=392969),* namely its capacity to expose the theological underpinnings of certain observable (though anecdotal) phenomena within contemporary Evangelical churches. In my last post, in particular, I focused on Campbell’s objection to the implications of a particular reading of Anselm’s theory of atonement that seems to warrant the proposition that all human activity is essentially economic. There I suggested that the economy of salvation envisioned by Justification theory tends, in practice, to encourage the maintenance of class distinctions in the earthly economy. I should reiterate at this point that, in my opinion, this is a predictable and theologically explicable outcome of Justification theory as Campbell construes it, even though I do not think it is *necessary* for the theory to work.
 
 In fact, the particular reading of Anselm to which Campbell objects turns out to be a common misconstrual of Anselm. Thus Campbell writes, “we will set aside as *irrelevant* to our present concerns the question whether the following is a fair reading of Anselm’s treatise; it is the cogency of this reading as an argumentative rejoinder in relation to these particular issues that matters for our present purposes” (p. 50, my emphasis). Campbell adds in a related note that “it is Anselm’s ‘misunderstood’ reading that is most useful here” (p.944 n.25). This brings me to one of my major reservations concerning Campbell’s argument. <!--excerpt.start-->Although Campbell writes for an academic audience, the theory that he attacks is a *popular* construct.
@@ -42,3 +36,10 @@ On this reading of Anselm, Christ does not suffer *redirected punishment* in the
 Campbell’s cynicism concerning Anselm’s deployment of the metaphor of debt and repayment loses some of its force if Anderson’s arguments concerning its biblical and traditional roots are granted. There are, of course, legitimate reasons to suspect that this metaphor is not foundational to *Paul’s* concept of sin, but Anderson’s brief remarks on the Pauline corpus are still worth noting. He reads the Pauline idea of God cancelling the debt of transgressions and erasing the bond of indebtedness (Colossians 2:13–15) in light of Paul’s discussion of the origin of sin in Romans 5:12–14. In short, he finds the metaphor of debt and repayment operative at the very outset of what Campbell maintains is Paul’s *alternative* to Justification theory: Romans 5–8. Thus Anderson writes:
 
 >If we stay within the bounds of the Pauline corpus and read Colossians in light of Romans, we can answer that question [how did humankind fall into such debt?]: Adam and Eve were the ones who signed a bond that enslaved humankind (Anderson: p.118).
+
+Previous posts in this series:  
+[The Deliverance of God, Reflection 1](/blog/the-deliverance-of-god-reflection-1)  
+[The Deliverance of God, Reflection 2: Douglas Campbell v. Pat Robertson](/blog/the-deliverance-of-god-reflection-2)  
+[The Deliverance of God, Reflection 3: Theory v. Exegesis](/blog/the-deliverance-of-god-reflection-3)  
+[The Deliverance of God, Reflection 4: The Economy of Salvation](/blog/the-deliverance-of-god-reflection-4)  
+[Sin, Debt, and the Economy of Salvation](/blog/sin-debt-and-the-economy-of-salvation)
