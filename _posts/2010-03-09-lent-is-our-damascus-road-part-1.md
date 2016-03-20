@@ -34,5 +34,5 @@ Even Saul is not the special case we often think him to be. We are all, in our o
 Next post in this series:  
 [Lent Is Our Damascus Road, Part 2: Two Perspectives](/blog/lent-is-our-damascus-road-part-2)
 
-Other posts in this series:
+Other posts in this series:  
 [Lent Is Our Damascus Road, Part 3: Torn from His Mother’s Womb](/blog/lent-is-our-damascus-road-part-3)
