@@ -268,7 +268,7 @@ HB/OT: <a href="http://bible.oremus.org/?ql=308793346">Exodus 19–21; 23:20–2
 
 NT: <a href="http://bible.oremus.org/?ql=213443104">2 Corinthians 3:7–18</a>
 
-<div class="videoWrapper-16-9"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ah-WdAwVg9c?start=1" frameborder="0" allowfullscreen></iframe>
+<div class="videoWrapper-16-9"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ah-WdAwVg9c?start=2" frameborder="0" allowfullscreen></iframe>
 </div>
 
 **Mar. 10: MIDTERM**
