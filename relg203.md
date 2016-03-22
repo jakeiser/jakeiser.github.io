@@ -285,19 +285,19 @@ HB/OT: <a href="http://bible.oremus.org/?ql=213512508">Deuteronomy 17:14–20</a
 
 HB/OT: <a href="http://bible.oremus.org/?ql=213512508">Deuteronomy 17:14–20</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308586716">1 Samuel 8</a>;&#160;&#160;selected passages about the following rulers of Israel and Judah:
 
-1. [Solomon](http://bible.oremus.org/?ql=308590940)
+* [Solomon](http://bible.oremus.org/?ql=308590940)
 
 <div class="videoWrapper-16-9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wsbgwNe4Rv4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-2. [Josiah](http://bible.oremus.org/?ql=213510542)
+* [Josiah](http://bible.oremus.org/?ql=213510542)
 
 <div class="videoWrapper-16-9">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/z3Nz98Cn7nM?start=30&end=148" frameborder="0" allowfullscreen></iframe>
 </div>
 
-3. [Ahab and Jezebel](http://bible.oremus.org/?ql=308638944)
+* [Ahab and Jezebel](http://bible.oremus.org/?ql=308638944)
 
 “[Jezebel Stereotype](http://www.ferris.edu/jimcrow/jezebel.htm){:class="new-window" target="_blank"},” Jim Crow Museum of Racist Memorabilia, Ferris State University
 
