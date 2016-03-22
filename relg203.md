@@ -296,7 +296,7 @@ HB/OT: [2 Kings 24:18-25:21](http://bible.oremus.org/?ql=308640972) &#124; [Isai
 David W. Stowe, “[History, Memory, and Forgetting in Psalm 137](https://drive.google.com/file/d/0B7vb2Xa26caLdnpMbGZxOTFnbkk/view?usp=sharing){:class="new-window" target="_blank"},” pp. 137–157 in ed. Mark A. Chancey, Carol Meyers, and Eric M. Meyers, *The Bible in the Public Square: It’s Enduring Influence in American Life* (Atlanta: SBL, 2014)
 
 <div class="videoWrapper-16-9">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/z3Nz98Cn7nM?start=30" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/z3Nz98Cn7nM?start=30&end=148" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <hr style="margin:2em 0 2em 0">
