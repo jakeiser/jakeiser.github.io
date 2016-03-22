@@ -279,7 +279,25 @@ NT: <a href="http://bible.oremus.org/?ql=213443104">2 Corinthians 3:7–18</a>
 
 **Mar. 15: Bon King, Bad King**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLQWFrLTNGTzBmekU/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
-HB/OT: <a href="http://bible.oremus.org/?ql=213512508">Deuteronomy 17:14–20</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308586716">1 Samuel 8</a>;&#160;&#160;selected passages about the following rulers of Israel and Judah: <a href="http://bible.oremus.org/?ql=308636109">David</a> &#124; <a href="http://bible.oremus.org/?ql=308590940">Solomon</a> &#124; <a href="http://bible.oremus.org/?ql=308638944">Ahab and Jezebel</a> &#124; <a href="http://bible.oremus.org/?ql=213510542">Josiah</a>
+HB/OT: <a href="http://bible.oremus.org/?ql=213512508">Deuteronomy 17:14–20</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308586716">1 Samuel 8</a>;&#160;&#160;selected passages about [King David](http://bible.oremus.org/?ql=308636109)
+
+**Mar. 17: Bon King, Bad King (continued)**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLeGhpVkE3eEVaRXc/view?usp=sharing){:class="new-window" target="_blank"}</span>
+
+HB/OT: <a href="http://bible.oremus.org/?ql=213512508">Deuteronomy 17:14–20</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308586716">1 Samuel 8</a>;&#160;&#160;selected passages about the following rulers of Israel and Judah:
+
+1. [Solomon](http://bible.oremus.org/?ql=308590940)
+
+<div class="videoWrapper-16-9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wsbgwNe4Rv4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+2. [Josiah](http://bible.oremus.org/?ql=213510542)
+
+<div class="videoWrapper-16-9">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/z3Nz98Cn7nM?start=30&end=148" frameborder="0" allowfullscreen></iframe>
+</div>
+
+3. [Ahab and Jezebel](http://bible.oremus.org/?ql=308638944)
 
 “[Jezebel Stereotype](http://www.ferris.edu/jimcrow/jezebel.htm){:class="new-window" target="_blank"},” Jim Crow Museum of Racist Memorabilia, Ferris State University
 
@@ -289,25 +307,15 @@ Wyclef Jean, “[Jaspora](https://youtu.be/G9qusjgZ66U),” *Wyclef Jean Present
 <iframe width="420" height="315" src="//www.youtube.com/embed/G9qusjgZ66U?rel=0"></iframe>
 </div>
 
-**Mar. 17: By the Rivers of Babylon: The Babylonian Exile in Text and Tradition**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLeGhpVkE3eEVaRXc/view?usp=sharing){:class="new-window" target="_blank"}</span>
-
-HB/OT: [2 Kings 24:18-25:21](http://bible.oremus.org/?ql=308640972) &#124; [Isaiah 52:13–53:12](http://bible.oremus.org/?ql=308649461) &#124; [Jeremiah 7:1–8:3;&#160;&#160;29–31](http://bible.oremus.org/?ql=308641066) &#124; [Ezekiel 1–4;&#160;&#160;8–10;&#160;&#160;37;&#160;&#160;43:1–5;&#160;&#160;47:1–12](http://bible.oremus.org/?ql=308641385) &#124; [Psalms 136–137](http://bible.oremus.org/?ql=324628448)
-
-David W. Stowe, “[History, Memory, and Forgetting in Psalm 137](https://drive.google.com/file/d/0B7vb2Xa26caLdnpMbGZxOTFnbkk/view?usp=sharing){:class="new-window" target="_blank"},” pp. 137–157 in ed. Mark A. Chancey, Carol Meyers, and Eric M. Meyers, *The Bible in the Public Square: It’s Enduring Influence in American Life* (Atlanta: SBL, 2014)
-
-<div class="videoWrapper-16-9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wsbgwNe4Rv4" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="videoWrapper-16-9">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/z3Nz98Cn7nM?start=30&end=148" frameborder="0" allowfullscreen></iframe>
-</div>
-
 <hr style="margin:2em 0 2em 0">
 
 #### Week 10
 
-**Mar. 22: The Beginning of the Gospels**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**Mar. 22: **The Second Temple and the Beginning of the Gospel**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+
+HB/OT: [2 Kings 24:18-25:21](http://bible.oremus.org/?ql=308640972) &#124; [Isaiah 52:13–53:12](http://bible.oremus.org/?ql=308649461) &#124; [Jeremiah 7:1–8:3;&#160;&#160;29–31](http://bible.oremus.org/?ql=308641066) &#124; [Ezekiel 1–4;&#160;&#160;8–10;&#160;&#160;37;&#160;&#160;43:1–5;&#160;&#160;47:1–12](http://bible.oremus.org/?ql=308641385) &#124; [Psalms 136–137](http://bible.oremus.org/?ql=324628448)
+
+David W. Stowe, “[History, Memory, and Forgetting in Psalm 137](https://drive.google.com/file/d/0B7vb2Xa26caLdnpMbGZxOTFnbkk/view?usp=sharing){:class="new-window" target="_blank"},” pp. 137–157 in ed. Mark A. Chancey, Carol Meyers, and Eric M. Meyers, *The Bible in the Public Square: It’s Enduring Influence in American Life* (Atlanta: SBL, 2014)
 
 NT: [Mark 1:1–12](http://bible.oremus.org/?ql=308649113); [Matthew 1:1–4:11](http://bible.oremus.org/?ql=308649131); [Luke 1:1–4:12](http://bible.oremus.org/?ql=308649184); [John 1:1–34](http://bible.oremus.org/?ql=308649209)
 
