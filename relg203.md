@@ -286,7 +286,7 @@ Wyclef Jean, “[Jaspora](https://youtu.be/G9qusjgZ66U),” *Wyclef Jean Present
 <iframe width="420" height="315" src="//www.youtube.com/embed/G9qusjgZ66U?rel=0"></iframe>
 </div>
 
-**Mar. 17: By the Rivers of Babylon: The Babylonian Exile in Text and Tradition**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**Mar. 17: By the Rivers of Babylon: The Babylonian Exile in Text and Tradition**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLeGhpVkE3eEVaRXc/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: [2 Kings 24:18-25:21](http://bible.oremus.org/?ql=308640972) &#124; [Isaiah 52:13–53:12](http://bible.oremus.org/?ql=308649461) &#124; [Jeremiah 7:1–8:3;&#160;&#160;29–31](http://bible.oremus.org/?ql=308641066) &#124; [Ezekiel 1–4;&#160;&#160;8–10;&#160;&#160;37;&#160;&#160;43:1–5;&#160;&#160;47:1–12](http://bible.oremus.org/?ql=308641385) &#124; [Psalms 136–137](http://bible.oremus.org/?ql=324628448)
 
