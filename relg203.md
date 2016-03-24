@@ -331,6 +331,14 @@ HB/OT:
 
 4.&nbsp;[Ezekiel 1–4;&#160;&#160;8–10;&#160;&#160;37;&#160;&#160;43:1–5;&#160;&#160;47:1–12](http://bible.oremus.org/?ql=308641385)
 
+<div class="videoWrapper-16-9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ya1Q4NKgyY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="videoWrapper-16-9">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/mVoPG9HtYF8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 5.&nbsp;[Psalms 136–137](http://bible.oremus.org/?ql=324628448)
 
 David W. Stowe, “[History, Memory, and Forgetting in Psalm 137](https://drive.google.com/file/d/0B7vb2Xa26caLdnpMbGZxOTFnbkk/view?usp=sharing){:class="new-window" target="_blank"},” pp. 137–157 in ed. Mark A. Chancey, Carol Meyers, and Eric M. Meyers, *The Bible in the Public Square: It’s Enduring Influence in American Life* (Atlanta: SBL, 2014)
