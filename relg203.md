@@ -319,6 +319,10 @@ HB/OT:
 
 2.&nbsp;[Isaiah 52:13–53:12](http://bible.oremus.org/?ql=308649461)
 
+<div class="videoWrapper-16-9">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/15XN14InK8c" frameborder="0" allowfullscreen></iframe>
+</div>
+
 3.&nbsp;[Jeremiah 7:1–8:3;&#160;&#160;29–31](http://bible.oremus.org/?ql=308641066)
 
 <div class="videoWrapper-16-9">
