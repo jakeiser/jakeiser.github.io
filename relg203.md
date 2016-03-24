@@ -311,15 +311,39 @@ Wyclef Jean, “[Jaspora](https://youtu.be/G9qusjgZ66U),” *Wyclef Jean Present
 
 #### Week 10
 
-**Mar. 22: From the Babylonian Exile to the Beginning of the Gospel**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**Mar. 22: By the Waters of Babylon: The Babylonian Exile in History and Culture**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLeURrZFhDOFFuRjg/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
-HB/OT: [2 Kings 24:18-25:21](http://bible.oremus.org/?ql=308640972) &#124; [Isaiah 52:13–53:12](http://bible.oremus.org/?ql=308649461) &#124; [Jeremiah 7:1–8:3;&#160;&#160;29–31](http://bible.oremus.org/?ql=308641066) &#124; [Ezekiel 1–4;&#160;&#160;8–10;&#160;&#160;37;&#160;&#160;43:1–5;&#160;&#160;47:1–12](http://bible.oremus.org/?ql=308641385) &#124; [Psalms 136–137](http://bible.oremus.org/?ql=324628448)
+HB/OT: 
+
+1.&nbsp;[2 Kings 24:18-25:21](http://bible.oremus.org/?ql=308640972)
+
+2.&nbsp;[Isaiah 52:13–53:12](http://bible.oremus.org/?ql=308649461)
+
+3.&nbsp;[Jeremiah 7:1–8:3;&#160;&#160;29–31](http://bible.oremus.org/?ql=308641066)
+
+<div class="videoWrapper-16-9">
+<iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLWE1PbjE5bVQzajg/preview" width="640" height="480"></iframe>
+</div>
+
+4.&nbsp;[Ezekiel 1–4;&#160;&#160;8–10;&#160;&#160;37;&#160;&#160;43:1–5;&#160;&#160;47:1–12](http://bible.oremus.org/?ql=308641385)
+
+5.&nbsp;[Psalms 136–137](http://bible.oremus.org/?ql=324628448)
 
 David W. Stowe, “[History, Memory, and Forgetting in Psalm 137](https://drive.google.com/file/d/0B7vb2Xa26caLdnpMbGZxOTFnbkk/view?usp=sharing){:class="new-window" target="_blank"},” pp. 137–157 in ed. Mark A. Chancey, Carol Meyers, and Eric M. Meyers, *The Bible in the Public Square: It’s Enduring Influence in American Life* (Atlanta: SBL, 2014)
 
-NT: [Mark 1:1–12](http://bible.oremus.org/?ql=308649113); [Matthew 1:1–4:11](http://bible.oremus.org/?ql=308649131); [Luke 1:1–4:12](http://bible.oremus.org/?ql=308649184); [John 1:1–34](http://bible.oremus.org/?ql=308649209)
+<div class="videoWrapper-16-9">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/uTnspbSjKVc" frameborder="0" allowfullscreen></iframe>
+</div>
 
-**Mar. 24: Jesus in the Gospels**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**Mar. 24:**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLbjhsQlhPdTBSbnM/view?usp=sharing){:class="new-window" target="_blank"}</span>
+
+**Part I: The Second Temple Period**
+
+<div class="videoWrapper-16-9">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/GYr4Fz14C6w" frameborder="0" allowfullscreen></iframe>
+</div>
+
+**Part 2: Jesus and Jewish Messianic Expectations**
 
 *Thinking Piece:*&nbsp;&nbsp;This thinking piece has three parts:
 
@@ -329,7 +353,9 @@ NT: [Mark 1:1–12](http://bible.oremus.org/?ql=308649113); [Matthew 1:1–4:11]
 
 3. Does Jesus fit any of these descriptions? Why or why not?
 
-NT: [Mark 1:1–9:1](http://bible.oremus.org/?ql=282029813); [9:2–14:2](http://bible.oremus.org/?ql=282029925);&#160;&#160;[Matthew 13:1–52](http://bible.oremus.org/?ql=219827056);&#160;&#160;[Luke 13:22–16:31](http://bible.oremus.org/?ql=219827388);&#160;&#160;[John 8:12–59](http://bible.oremus.org/?ql=219827621)
+NT: [Mark 1:1–12](http://bible.oremus.org/?ql=308649113); [Matthew 1:1–4:11](http://bible.oremus.org/?ql=308649131); [Luke 1:1–4:12](http://bible.oremus.org/?ql=308649184); [John 1:1–34](http://bible.oremus.org/?ql=308649209)
+
+NT: [Mark 1:13–14:2](http://bible.oremus.org/?ql=282029813); [Matthew 13:1–52](http://bible.oremus.org/?ql=219827056);&#160;&#160;[Luke 13:22–16:31](http://bible.oremus.org/?ql=219827388);&#160;&#160;[John 8:12–59](http://bible.oremus.org/?ql=219827621)
 
 <hr style="margin:2em 0 2em 0">
 
