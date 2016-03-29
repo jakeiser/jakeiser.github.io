@@ -415,11 +415,9 @@ HB/OT: <a href="http://bible.oremus.org/?ql=308774126">Isaiah 52:13–53:12;&#16
 
 **Apr. 05: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="hide noprint">[[Slides]](https://drive.google.com/open?id=0B7vb2Xa26caLbjhsQlhPdTBSbnM){:class="new-window" target="_blank"}</span>
 
-<span class="hide">*Thinking Piece:*&nbsp;&nbsp;What are ‘works of the law’ according to the Apostle Paul and according to Martin Luther?</span>
+*Thinking Piece:*&nbsp;&nbsp;What is ‘justification by faith’ according to the Martin Luther? What kinds of things does he include under the category of ‘works of the law’? Are these the same kinds of things that the Apostle Paul would likely include under this category? What is the point of doing good works, according to Martin Luther?
 
-NT: <a href="http://bible.oremus.org/?ql=213698441">Galatians</a>
-
-Augustine, [*Confessions*](http://www.fordham.edu/halsall/source/aug-conv.asp){:class="new-window" target="_blank"} (selections)
+NT: Read the Apostle Paul’s letters to the [Philiippians 2–3]() and to the [Galatians](http://bible.oremus.org/?ql=213698441)</a>
 
 Martin Luther, [*Concerning Christian Liberty*](https://drive.google.com/file/d/0B7vb2Xa26caLQlVFNVlXZmQ3cTA/view?usp=sharing){:class="new-window" target="_blank"} (selections)
 
@@ -453,6 +451,8 @@ Adso of Montier-en-Der, “[Letter on the Origin and Time of the Antichrist](htt
 #### Week 13
 
 **Apr. 12: Apocalypse, Then and Now: The End Times in Fact, Fiction, and Film**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+
+*Thinking Piece:*&nbsp;&nbsp;Is the book of Revelation (**NOT** Revelations) about the past, the present, or the future? Defend your answer with discussion of appropriate citations/quotations from the text. 
 
 HB/OT: <a href="http://bible.oremus.org/?ql=213681608">Ezekiel 38–39</a>
 
