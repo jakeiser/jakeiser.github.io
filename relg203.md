@@ -417,7 +417,7 @@ HB/OT: <a href="http://bible.oremus.org/?ql=308774126">Isaiah 52:13–53:12;&#16
 
 *Thinking Piece:*&nbsp;&nbsp;What is ‘justification by faith’ according to the Martin Luther? What kinds of things does he include under the category of ‘works of the law’? Are these the same kinds of things that the Apostle Paul would likely include under this category? What is the point of doing good works, according to Martin Luther?
 
-NT: Read the Apostle Paul’s letters to the [Philiippians 2–3](http://bible.oremus.org/?ql=326267389) and to the [Galatians](http://bible.oremus.org/?ql=213698441)</a>
+NT: Read the Apostle Paul’s letters to the [Philiippians 2–3](http://bible.oremus.org/?ql=326267389) and to the [Galatians](http://bible.oremus.org/?ql=213698441)
 
 Martin Luther, [*Concerning Christian Liberty*](https://drive.google.com/file/d/0B7vb2Xa26caLQlVFNVlXZmQ3cTA/view?usp=sharing){:class="new-window" target="_blank"} (selections)
 
