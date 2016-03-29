@@ -76,7 +76,7 @@ Attendance is mandatory. Your comprehension and critical engagement with the ass
 
    *You are responsible to attend class on the day of the exam. In case of an emergency, appropriate documentation explaining your absence must be submitted to the instructor. If the absence is officially excused, an alternative test will be administered at a mutually-agreeable time. Otherwise the absence will be regarded as unexcused and the mark entered as a zero.*
 
-3. *<span style="text-decoration: underline">Final Exam:</span>*&#160;&#160;A centrally scheduled final exam will be administered during the final exam period. Consult the [exams page](http://www.mcgill.ca/students/exams/) regularly for the precise date, time, and location of the exam. The final will be cumulative, but weighted toward the second half of the course.
+3. *<span style="text-decoration: underline">Final Exam:</span>*&#160;&#160;A centrally scheduled final exam will be administered on **Tuesday, April 19 at 2:00 p.m.** Consult the [exams page](http://www.mcgill.ca/students/exams/) regularly for the updates concerning the location of the exam. The final will be cumulative, but weighted toward the second half of the course.
 
    *You are responsible to arrive on time at the correct location on the day of the exam. University regulations prevent instructors from making alternative arrangements for centrally-administered final examinations.*
 
