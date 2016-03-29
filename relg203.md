@@ -452,7 +452,7 @@ Adso of Montier-en-Der, “[Letter on the Origin and Time of the Antichrist](htt
 
 **Apr. 12: Apocalypse, Then and Now: The End Times in Fact, Fiction, and Film**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
 
-*Thinking Piece:*&nbsp;&nbsp;Is the book of Revelation (**NOT** Revelations) about the past, the present, or the future? Defend your answer with discussion of appropriate citations/quotations from the text. 
+*Thinking Piece:*&nbsp;&nbsp;Is the book of Revelation about the past, the present, or the future? Defend your answer with discussion of appropriate citations/quotations from the text. 
 
 HB/OT: <a href="http://bible.oremus.org/?ql=213681608">Ezekiel 38–39</a>
 
