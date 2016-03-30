@@ -6,7 +6,7 @@ course: true
 permalink: courses/relg203/
 ---
 
-<img class="noprint" style="float: left; margin-right: 30px; height: 110px" src="/assets/images/apple-bite.png" />RELG 203, McGill University, Winter 2015  
+<img class="noprint" style="float: left; margin-right: 30px; height: 110px" src="/assets/images/apple-bite-small.png" />RELG 203, McGill University, Winter 2015  
 RPHYS 112, Tue, Thur 4:05–5:25 p.m.  
 
 **Professor Jeffrey A. Keiser**&nbsp;&nbsp;&#124;&nbsp;&nbsp;[jkeiser.2+relg203@gmail.com](mailto:jkeiser.2+relg203@gmail.com?subject=RELG203)  
