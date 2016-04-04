@@ -405,8 +405,7 @@ HB/OT: [Isaiah 52:13–53:12;&#160;&#160;Zechariah 12–13](http://bible.oremus.
 <iframe src="https://docs.google.com/file/d/0B7vb2Xa26caLZFlaemVDSXE4MkU/preview" width="640" height="385"></iframe>
 </div>
 
-<span class="noshow">
-Mel Gibson, Dir., “[Golgotha](https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/view?usp=sharing),” *The Passion of the Christ* (Icon, 2004)</span>
+Mel Gibson, Dir., “[Golgotha](https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/view?usp=sharing),” *The Passion of the Christ* (Icon, 2004)
 
 <div class="videoWrapper-16-9 noprint">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/preview" width="640" height="360"></iframe>
