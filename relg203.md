@@ -395,7 +395,7 @@ Sophie Arle, “[Milan Bans Da Vinci Parody](http://www.theguardian.com/world/20
 
 HB/OT: <a href="http://bible.oremus.org/?ql=308774126">Isaiah 52:13–53:12;&#160;&#160;Zechariah 12–13</a>
 
-<span class="hide">NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Societies, 1993), [pp. 288–324](https://docs.google.com/open?id=0B7vb2Xa26caLRnAxbm83eUlFWkU){:class="new-window" target="_blank"}</span>
+
 
 <span class="hide">Mel Gibson, Dir., “[Gethesemene](https://drive.google.com/file/d/0B7vb2Xa26caLZFlaemVDSXE4MkU/edit?usp=sharing),” *The Passion of the Christ* (Icon, 2004).</span>
 
@@ -414,6 +414,8 @@ HB/OT: <a href="http://bible.oremus.org/?ql=308774126">Isaiah 52:13–53:12;&#16
 #### Week 12
 
 **Apr. 05: The Passion of the Christ (continued)**
+
+NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Societies, 1993), [pp. 288–324](https://docs.google.com/open?id=0B7vb2Xa26caLRnAxbm83eUlFWkU){:class="new-window" target="_blank"}
 
 **Apr. 07: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="hide noprint">[[Slides]](https://drive.google.com/open?id=0B7vb2Xa26caLbjhsQlhPdTBSbnM){:class="new-window" target="_blank"}</span>
 
