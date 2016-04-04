@@ -413,7 +413,9 @@ HB/OT: <a href="http://bible.oremus.org/?ql=308774126">Isaiah 52:13–53:12;&#16
 
 #### Week 12
 
-**Apr. 05: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="hide noprint">[[Slides]](https://drive.google.com/open?id=0B7vb2Xa26caLbjhsQlhPdTBSbnM){:class="new-window" target="_blank"}</span>
+**Apr. 05: The Passion of the Christ (continued)**
+
+**Apr. 07: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="hide noprint">[[Slides]](https://drive.google.com/open?id=0B7vb2Xa26caLbjhsQlhPdTBSbnM){:class="new-window" target="_blank"}</span>
 
 *Thinking Piece:*&nbsp;&nbsp;What is ‘justification by faith’ according to the Martin Luther? What kinds of things does he include under the category of ‘works of the law’? Are these the same kinds of things that the Apostle Paul would likely include under this category? What is the point of doing good works, according to Martin Luther?
 
@@ -432,7 +434,11 @@ Your browser does not support the audio element.
 <div class="videoWrapper-16-9 hide">
 <iframe class="noprint" width="420" height="315" src="//www.youtube.com/embed/dt5AJr0wls0" frameborder="0" allowfullscreen></iframe></div>
 
-**Apr. 07: Christ and the Antichrist(s)**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+<hr style="margin:2em 0 2em 0">
+
+#### Week 13
+
+**Apr. 12: Christ and the Antichrist(s)**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=308650480">Genesis 3:13–15</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=213676496">Job 40–41</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308650758">Isaiah 26:20–27:1;&#160;&#160;51:9–11</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308650683">Daniel 9:1–3; 20–27</a>
 
@@ -446,11 +452,7 @@ Adso of Montier-en-Der, “[Letter on the Origin and Time of the Antichrist](htt
 
 <span class="hide">Roman Polanski, Dir., *Rosemary’s Baby*, “[Denoument](https://drive.google.com/file/d/0B7vb2Xa26caLNmN5TkZzdkFpbWM/view?usp=sharing)” (Paramount, 1968)<iframe class="noprint" src="https://drive.google.com/file/d/0B7vb2Xa26caLNmN5TkZzdkFpbWM/preview" width="640" height="340"></iframe></span>
 
-<hr style="margin:2em 0 2em 0">
-
-#### Week 13
-
-**Apr. 12: Apocalypse, Then and Now: The End Times in Fact, Fiction, and Film**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**Apr. 14: Apocalypse, Then and Now: The End Times in Fact, Fiction, and Film**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
 
 *Thinking Piece:*&nbsp;&nbsp;Is the book of Revelation about the past, the present, or the future? Defend your answer with discussion of appropriate citations/quotations from the text. 
 
@@ -469,5 +471,3 @@ Visit [The Rapture Index](http://www.raptureready.com/rap2.html){:class="new-win
 <span class="hide">“[In Case of Rapture](http://www.youtube.com/embed/1LXuNpF6NVg),” *Six Feet Under* 4.2 (HB/OTO, June 20, 2004)<iframe class="noprint" width="420" height="345" src="http://www.youtube.com/embed/1LXuNpF6NVg"></iframe></span>
 
 <span class="hide">[Monster Energy Drink Antichrist](https://youtu.be/QCrPuaLLpKE)<iframe class="noprint" width="420" height="315" src="//www.youtube.com/embed/QCrPuaLLpKE" frameborder="0" allowfullscreen></iframe></span>
-
-**Apr. 14: Summary and Conclusion**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
