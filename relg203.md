@@ -343,7 +343,9 @@ HB/OT:
 
 David W. Stowe, “[History, Memory, and Forgetting in Psalm 137](https://drive.google.com/file/d/0B7vb2Xa26caLdnpMbGZxOTFnbkk/view?usp=sharing){:class="new-window" target="_blank"},” pp. 137–157 in ed. Mark A. Chancey, Carol Meyers, and Eric M. Meyers, *The Bible in the Public Square: It’s Enduring Influence in American Life* (Atlanta: SBL, 2014)
 
-<div class="videoWrapper-16-9">
+Don MacLean, “[Waters of Babylon](https://youtu.be/uTnspbSjKVc),” *American Pie* (United Artists Records, 1971)
+
+<div class="videoWrapper-16-9 noprint">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/uTnspbSjKVc" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -351,7 +353,9 @@ David W. Stowe, “[History, Memory, and Forgetting in Psalm 137](https://drive.
 
 **Part I: The Second Temple Period**
 
-<div class="videoWrapper-16-9">
+Matisyahu, “[Jerusalem](https://youtu.be/GYr4Fz14C6w),” *Youth* (JDub/Epic, 2005)
+
+<div class="videoWrapper-16-9 noprint">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/GYr4Fz14C6w" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -393,9 +397,7 @@ Sophie Arle, “[Milan Bans Da Vinci Parody](http://www.theguardian.com/world/20
 
 **Mar. 31: The Passion of the Christ in Music, Art, and Film**<span class="hide noprint">[Slides](){}</a></span>
 
-HB/OT: <a href="http://bible.oremus.org/?ql=308774126">Isaiah 52:13–53:12;&#160;&#160;Zechariah 12–13</a>
-
-
+HB/OT: [Isaiah 52:13–53:12;&#160;&#160;Zechariah 12–13](http://bible.oremus.org/?ql=308774126)
 
 <span class="hide">Mel Gibson, Dir., “[Gethesemene](https://drive.google.com/file/d/0B7vb2Xa26caLZFlaemVDSXE4MkU/edit?usp=sharing),” *The Passion of the Christ* (Icon, 2004).</span>
 
@@ -403,9 +405,10 @@ HB/OT: <a href="http://bible.oremus.org/?ql=308774126">Isaiah 52:13–53:12;&#16
 <iframe src="https://docs.google.com/file/d/0B7vb2Xa26caLZFlaemVDSXE4MkU/preview" width="640" height="385"></iframe>
 </div>
 
-<span class="hide">Mel Gibson, Dir., “[Golgotha](https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/view?usp=sharing),” *The Passion of the Christ* (Icon, 2004)</span>
+<span class="noshow">
+Mel Gibson, Dir., “[Golgotha](https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/view?usp=sharing),” *The Passion of the Christ* (Icon, 2004)</span>
 
-<div class="videoWrapper-16-9 hide">
+<div class="videoWrapper-16-9 noprint">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLYWpxcGN2MVN5MzQ/preview" width="640" height="360"></iframe>
 </div>
 
