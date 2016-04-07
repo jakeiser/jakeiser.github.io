@@ -126,7 +126,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 
 *Desperate Housewives* [Opening Credits](https://youtu.be/aR0jKlwE0zI) (yU + co, 2004). Learn more at [Artcyclopedia](http://www.artcyclopedia.com/feature-2005-05.html){:class="new-window" target="_blank"}.
 
-<div class="videoWrapper-16-9">
+<div class="videoWrapper-16-9 noprint">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/aR0jKlwE0zI?&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -148,7 +148,7 @@ Ernan McMullin, “[Darwin and the Other Christian Tradition](https://drive.goog
 
 Ken Ham of Answers in Genesis on [the purpose of his organization](https://drive.google.com/file/d/0B7vb2Xa26caLXzdDS1R5ZURYaDA/view?usp=sharing):
 
-<div class="videoWrapper-4-3">
+<div class="videoWrapper-4-3 noprint">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLXzdDS1R5ZURYaDA/preview" width="640" height="480"></iframe>
 </div>
 
@@ -160,7 +160,7 @@ Peter Harrison, “[Subduing the Earth: Genesis 1, Early Modern Science, and the
 
 Clip: U.S. President Barack Obama’s [Second Inaugural Address](https://youtu.be/RvH01Z6ic0M?t=12m20s) (Washington D.C., January 21, 2013)
 
-<div class="videoWrapper-16-9">
+<div class="videoWrapper-16-9 noprint">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvH01Z6ic0M?start=740&amp;amp;end=794"></iframe>
 </div>
 
@@ -226,7 +226,7 @@ NT: [Genesis 22:1–19](http://bible.oremus.org/?ql=322037678)
 
 Watch Author Bruce Feiler discuss his motivation for writing *Abraham: A Journey to the Heart of Three Faiths,* from a [lecture](https://drive.google.com/file/d/0B7vb2Xa26caLZHhUVGR0NmRLVTg/view?usp=sharing) sponsored by the Herman P. and Sophia Taubman Endowed Symposia in Jewish Studies, University of California Santa Barbara, 31 April, 2004.
 
-<div class="videoWrapper-4-3">
+<div class="videoWrapper-4-3 noprint">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLZHhUVGR0NmRLVTg/preview" width="640" height="480"></iframe>
 </div>
 
@@ -268,7 +268,10 @@ HB/OT: <a href="http://bible.oremus.org/?ql=308793346">Exodus 19–21; 23:20–2
 
 NT: <a href="http://bible.oremus.org/?ql=213443104">2 Corinthians 3:7–18</a>
 
-<div class="videoWrapper-16-9"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ah-WdAwVg9c?start=3" frameborder="0" allowfullscreen></iframe>
+Mel Brooks, Dir., “[The Old Testament](https://youtu.be/Ah-WdAwVg9c),” *History of the World Part 1* (Brooksfilms, 1981)
+
+<div class="videoWrapper-16-9 noprint">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ah-WdAwVg9c?start=3" frameborder="0" allowfullscreen></iframe>
 </div>
 
 **Mar. 10: MIDTERM**
@@ -287,13 +290,17 @@ HB/OT: <a href="http://bible.oremus.org/?ql=213512508">Deuteronomy 17:14–20</a
 
 1.&nbsp;[Solomon](http://bible.oremus.org/?ql=308590940)
 
-<div class="videoWrapper-16-9">
+*Seinfeld,* “[The Seven](https://youtu.be/wsbgwNe4Rv4),” S07E13 (NBC, February 1, 1996)
+
+<div class="videoWrapper-16-9 noprint">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wsbgwNe4Rv4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 2.&nbsp;[Josiah](http://bible.oremus.org/?ql=213510542)
 
-<div class="videoWrapper-16-9">
+*Lost,* “[What Kate Did](https://youtu.be/z3Nz98Cn7nM),” S02E09 (ABC, November 30, 2005)
+
+<div class="videoWrapper-16-9 noprint">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/z3Nz98Cn7nM?start=30&end=148" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -303,7 +310,7 @@ HB/OT: <a href="http://bible.oremus.org/?ql=213512508">Deuteronomy 17:14–20</a
 
 Wyclef Jean, “[Jaspora](https://youtu.be/G9qusjgZ66U),” *Wyclef Jean Presents the Carnival Featuring the Refugee All-Stars* (Columbia, 1997). Lyrics and translation are available [here](http://archive-edu.com/page/766265/2012-11-27/http://ocw.nd.edu/romance-languages-and-literatures/creole-language-and-culture/eduCommons/romance-languages-and-literatures/creole-language-and-culture/references/lyrics-jaspora-by-wyclef-jean) (note: you can bypass the sign-up page by entering the following password: showarchive).
 
-<div class="videoWrapper-16-9">
+<div class="videoWrapper-16-9 noprint">
 <iframe width="420" height="315" src="//www.youtube.com/embed/G9qusjgZ66U?rel=0"></iframe>
 </div>
 
@@ -319,24 +326,32 @@ HB/OT:
 
 2.&nbsp;[Isaiah 52:13–53:12](http://bible.oremus.org/?ql=308649461)
 
-<div class="videoWrapper-16-9">
+George Frideric Handel, “[And with his stripes we are healed](https://youtu.be/15XN14InK8c),” *Messiah* (Tafelmusik, 2012)
+
+<div class="videoWrapper-16-9 noprint">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/15XN14InK8c" frameborder="0" allowfullscreen></iframe>
 </div>
 
 3.&nbsp;[Jeremiah 7:1–8:3;&#160;&#160;29–31](http://bible.oremus.org/?ql=308641066)
 
-<div class="videoWrapper-16-9">
+Rev. Jeremiah Wright, [excerpt](https://drive.google.com/file/d/0B7vb2Xa26caLWE1PbjE5bVQzajg/view?usp=sharing) from “Confusing God and Government,” sermon delivered at Trinity United Church of Christ, Chicago on April 3, 2003
+
+<div class="videoWrapper-16-9 noprint">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLWE1PbjE5bVQzajg/preview" width="640" height="480"></iframe>
 </div>
 
 4.&nbsp;[Ezekiel 1–4;&#160;&#160;8–10;&#160;&#160;37;&#160;&#160;43:1–5;&#160;&#160;47:1–12](http://bible.oremus.org/?ql=308641385)
 
-<div class="videoWrapper-16-9">
+Delta Rhythm Boys, “[Ezekiel saw de wheel](https://youtu.be/0ya1Q4NKgyY)”
+
+<div class="videoWrapper-16-9 noprint">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ya1Q4NKgyY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="videoWrapper-16-9">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/mVoPG9HtYF8" frameborder="0" allowfullscreen></iframe>
+Delta Rhythm Boys, “[Dry Bones](https://youtu.be/kccUKbetrWA),” (Decca, 1939)
+
+<div class="videoWrapper-16-9 noprint">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/kccUKbetrWA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 5.&nbsp;[Psalms 136–137](http://bible.oremus.org/?ql=324628448)
@@ -377,7 +392,9 @@ NT: [Mark 1:13–14:2](http://bible.oremus.org/?ql=282029813); [Matthew 13:1–5
 
 #### Week 11
 
-**Mar. 29: The Last Supper from Da Vinci to Da Sopranos**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</a></span>
+**Mar. 29: The Last Supper**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</a></span>
+
+NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Societies, 1993), [pp. 277–284](https://drive.google.com/file/d/0B7vb2Xa26caLMzdZX2NZd3dlcW8/view?usp=sharing){:class="new-window" target="_blank"}
 
 *Thinking Piece:*&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing) (1988) and Ron Howard’s [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing) (2006), then read the recent *Atlantic Monthly* article on “[The Curious Case of Jesus’s Wife](http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/){:class="new-window" target="_blank"}.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?
 
@@ -393,9 +410,11 @@ Ron Howard, Dir., [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/preview" width="640" height="280"></iframe>
 </div>
 
-Sophie Arle, “[Milan Bans Da Vinci Parody](http://www.theguardian.com/world/2005/feb/04/media.arts){:class="new-window" target="_blank"},” *The Guardian,* Friday, February 25, 2005
+<img class="noprint" src="/assets/images/da-vinci-last-supper.jpg" />
 
-**Mar. 31: The Passion of the Christ in Music, Art, and Film**<span class="hide noprint">[Slides](){}</a></span>
+**Mar. 31: The Last Supper (continued) and The Passion of the Christ**<span class="noprint">[Slides 1](https://drive.google.com/file/d/0B7vb2Xa26caLSkM5OVhPNkxndGs/view?usp=sharing){:class="new-window"} [Slides 2](https://drive.google.com/file/d/0B7vb2Xa26caLNDRLUWtjVmYyYjg/view?usp=sharing){:class="new-window"}</span>
+
+Sophie Arle, “[Milan Bans Da Vinci Parody](http://www.theguardian.com/world/2005/feb/04/media.arts){:class="new-window" target="_blank"},” *The Guardian,* Friday, February 25, 2005
 
 HB/OT: [Isaiah 52:13–53:12;&#160;&#160;Zechariah 12–13](http://bible.oremus.org/?ql=308774126)
 
