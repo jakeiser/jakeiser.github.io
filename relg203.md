@@ -412,7 +412,7 @@ Ron Howard, Dir., [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa
 
 <img class="noprint" src="/assets/images/da-vinci-last-supper.jpg" />
 
-**Mar. 31: The Last Supper (continued) and The Passion of the Christ**<span class="noprint">[Slides 1](https://drive.google.com/file/d/0B7vb2Xa26caLSkM5OVhPNkxndGs/view?usp=sharing){:class="new-window"} [Slides 2](https://drive.google.com/file/d/0B7vb2Xa26caLNDRLUWtjVmYyYjg/view?usp=sharing){:class="new-window"}</span>
+**Mar. 31: The Last Supper (continued) and The Passion of the Christ**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLSkM5OVhPNkxndGs/view?usp=sharing){:class="new-window"}</span>
 
 Sophie Arle, “[Milan Bans Da Vinci Parody](http://www.theguardian.com/world/2005/feb/04/media.arts){:class="new-window" target="_blank"},” *The Guardian,* Friday, February 25, 2005
 
@@ -435,6 +435,7 @@ Mel Gibson, Dir., “[Golgotha](https://drive.google.com/file/d/0B7vb2Xa26caLYWp
 #### Week 12
 
 **Apr. 05: The Passion of the Christ (continued)**
+<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNDRLUWtjVmYyYjg/view?usp=sharing){:class="new-window"}</span>
 
 NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Societies, 1993), [pp. 288–324](https://docs.google.com/open?id=0B7vb2Xa26caLRnAxbm83eUlFWkU){:class="new-window" target="_blank"}
 
