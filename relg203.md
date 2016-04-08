@@ -412,7 +412,7 @@ Ron Howard, Dir., [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa
 
 <img class="noprint" src="/assets/images/da-vinci-last-supper.jpg" />
 
-**Mar. 31: The Last Supper (continued) and The Passion of the Christ**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLSkM5OVhPNkxndGs/view?usp=sharing){:class="new-window"}</span>
+**Mar. 31: The Last Supper (continued) and The Passion of the Christ**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLSkM5OVhPNkxndGs/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 Sophie Arle, “[Milan Bans Da Vinci Parody](http://www.theguardian.com/world/2005/feb/04/media.arts){:class="new-window" target="_blank"},” *The Guardian,* Friday, February 25, 2005
 
@@ -435,13 +435,13 @@ Mel Gibson, Dir., “[Golgotha](https://drive.google.com/file/d/0B7vb2Xa26caLYWp
 #### Week 12
 
 **Apr. 05: The Passion of the Christ (continued)**
-<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNDRLUWtjVmYyYjg/view?usp=sharing){:class="new-window"}</span>
+<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNDRLUWtjVmYyYjg/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Societies, 1993), [pp. 288–324](https://docs.google.com/open?id=0B7vb2Xa26caLRnAxbm83eUlFWkU){:class="new-window" target="_blank"}
 
 This reading places the four gospels’ accounts of the arrest and crucifixion of Jesus in parallel in order to facilitate easy comparison. I recommend that you follow Mark all the way through but glance across from time to time to see how the other gospels handle the story.
 
-**Apr. 07: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="hide noprint">[[Slides]](https://drive.google.com/open?id=0B7vb2Xa26caLbjhsQlhPdTBSbnM){:class="new-window" target="_blank"}</span>
+**Apr. 07: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="noprint">[[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLMzJRbThXY1pQTlk/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 *Thinking Piece:*&nbsp;&nbsp;What is ‘justification by faith’ according to the Martin Luther? What kinds of things does he include under the category of ‘works of the law’? Are these the same kinds of things that the Apostle Paul would likely include under this category? What is the point of doing good works, according to Martin Luther?
 
@@ -449,22 +449,22 @@ NT: Read the Apostle Paul’s letters to the [Philiippians 2–3](http://bible.o
 
 Martin Luther, [*Concerning Christian Liberty*](https://drive.google.com/file/d/0B7vb2Xa26caLQlVFNVlXZmQ3cTA/view?usp=sharing){:class="new-window" target="_blank"} (selections)
 
-Josh Ritter, “[Girl in the War](http://www.dougrice.net/mp3_JoshRitter_GirlInTheWar.mp3),” *Animal Years* (V2, 2006)
+Alexander Dominitz, Dir., [*95 Theses*](https://youtu.be/dt5AJr0wls0)
 
-<audio controls class="noprint" style="margin-bottom: 2em"><source src="http://www.dougrice.net/mp3_JoshRitter_GirlInTheWar.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
-<span class="hide">Alexander Dominitz, Dir., [*95 Theses*](https://youtu.be/dt5AJr0wls0)</span>
-
-<div class="videoWrapper-16-9 hide">
+<div class="videoWrapper-16-9 noprint">
 <iframe class="noprint" width="420" height="315" src="//www.youtube.com/embed/dt5AJr0wls0" frameborder="0" allowfullscreen></iframe></div>
 
 <hr style="margin:2em 0 2em 0">
 
 #### Week 13
 
-**Apr. 12: Christ and the Antichrist(s)**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**Apr. 12: Law and Gospel (continued); Christ and the Antichrist(s)**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+
+Josh Ritter, “[Girl in the War](http://www.dougrice.net/mp3_JoshRitter_GirlInTheWar.mp3),” *Animal Years* (V2, 2006)
+
+<audio controls class="noprint" style="margin-bottom: 2em"><source src="http://www.dougrice.net/mp3_JoshRitter_GirlInTheWar.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=308650480">Genesis 3:13–15</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=213676496">Job 40–41</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308650758">Isaiah 26:20–27:1;&#160;&#160;51:9–11</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308650683">Daniel 9:1–3; 20–27</a>
 
