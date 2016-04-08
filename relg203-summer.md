@@ -44,16 +44,16 @@ Attendance is mandatory. Your comprehension and critical engagement with the ass
    
    Unless otherwise instructed, you must upload each thinking piece to MyCourses prior to the beginning of class on the day it is due. Each piece will be given a score of 0–5 points. Late assignments will be reduced by one point for each day they are late. You may consult the grading rubric for these assignments by clicking on the “Rubrics” link on MyCourses.
    
-2. *<span style="text-decoration: underline">Midterm:</span>*&#160;&#160;A midterm exam will be administered in class on **May 21**.
+2. *<span style="text-decoration: underline">Midterm:</span>*&#160;&#160;A midterm exam will be administered in class on **May 18**.
 
-3. *<span style="text-decoration: underline">Final Exam:</span>*&#160;&#160;A final exam will be administered in class on **June 04.**
+3. *<span style="text-decoration: underline">Final Exam:</span>*&#160;&#160;A final exam will be administered in class on **June 02.**
 
    *You are responsible to arrive in class promptly on the day of the exam. In case of an emergency, appropriate documentation explaining your absence must be submitted to the instructor. If the absence is officially excused, an alternative exam will be administered at a mutually-agreeable time. Otherwise the absence will be regarded as unexcused and the mark entered as a zero.*
 
 ### Summary of Course Requirements
 
-1. Thinking Pieces (5 x 10%): 50%
-2. Midterm Exam: 20%
+1. Reading Reflections (4 x 10%): 40%
+2. Midterm Exam: 30%
 3. Final Exam: 30%
 
 ### Academic Integrity
