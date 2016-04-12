@@ -441,7 +441,7 @@ NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Soci
 
 This reading places the four gospels’ accounts of the arrest and crucifixion of Jesus in parallel in order to facilitate easy comparison. I recommend that you follow Mark all the way through but glance across from time to time to see how the other gospels handle the story.
 
-**Apr. 07: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="noprint">[[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLMzJRbThXY1pQTlk/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Apr. 07: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLMzJRbThXY1pQTlk/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 *Thinking Piece:*&nbsp;&nbsp;What is ‘justification by faith’ according to the Martin Luther? What kinds of things does he include under the category of ‘works of the law’? Are these the same kinds of things that the Apostle Paul would likely include under this category? What is the point of doing good works, according to Martin Luther?
 
