@@ -441,7 +441,7 @@ NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Soci
 
 This reading places the four gospels’ accounts of the arrest and crucifixion of Jesus in parallel in order to facilitate easy comparison. I recommend that you follow Mark all the way through but glance across from time to time to see how the other gospels handle the story.
 
-**Apr. 07: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLMzJRbThXY1pQTlk/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Apr. 07: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLN3VfcHRaYVFHR1k/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 *Thinking Piece:*&nbsp;&nbsp;What is ‘justification by faith’ according to the Martin Luther? What kinds of things does he include under the category of ‘works of the law’? Are these the same kinds of things that the Apostle Paul would likely include under this category? What is the point of doing good works, according to Martin Luther?
 
@@ -458,7 +458,7 @@ Alexander Dominitz, Dir., [*95 Theses*](https://youtu.be/dt5AJr0wls0)
 
 #### Week 13
 
-**Apr. 12: Law and Gospel (continued); Christ and the Antichrist(s)**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**Apr. 12: Law and Gospel (continued); Christ and the Antichrist(s)**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLVTJNVjBsWlhoa0U/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 Josh Ritter, “[Girl in the War](http://www.dougrice.net/mp3_JoshRitter_GirlInTheWar.mp3),” *Animal Years* (V2, 2006)
 
@@ -470,15 +470,19 @@ HB/OT: <a href="http://bible.oremus.org/?ql=308650480">Genesis 3:13–15</a>;&#1
 
 NT: <a href="http://bible.oremus.org/?ql=213677043">2 Thessalonians 2:1–12</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=213677153">1 John 2:18–22</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=213677302">Revelation 12–13</a>
 
-Adso of Montier-en-Der, “[Letter on the Origin and Time of the Antichrist](http://www.pbs.org/wgbh/pages/frontline/shows/apocalypse/primary/adsoletter.html){:class="new-window" target="_blank"}”
+Adso of Montier-en-Der, “[Letter on the Origin and Time of the Antichrist](https://drive.google.com/file/d/0B7vb2Xa26caLVTJNVjBsWlhoa0U/view?usp=sharing){:class="new-window" target="_blank"}”
 
 <span class="hide">*Southpark* 08.14 “[Woodland Critter Christmas](https://drive.google.com/file/d/0B7vb2Xa26caLbnJlNlRia0pBdm8/view?usp=sharing)” (Dec. 15, 2004)<iframe class="noprint" src="https://drive.google.com/file/d/0B7vb2Xa26caLbnJlNlRia0pBdm8/preview" width="420" height="315"></iframe></span>
 
 <span class="hide">*Devil’s Advocate*, dir. Taylor Hackford	(Warner Bros., 1997)</span>
 
-<span class="hide">Roman Polanski, Dir., *Rosemary’s Baby*, “[Denoument](https://drive.google.com/file/d/0B7vb2Xa26caLNmN5TkZzdkFpbWM/view?usp=sharing)” (Paramount, 1968)<iframe class="noprint" src="https://drive.google.com/file/d/0B7vb2Xa26caLNmN5TkZzdkFpbWM/preview" width="640" height="340"></iframe></span>
+Roman Polanski, Dir., *Rosemary’s Baby*, “[Denoument](https://drive.google.com/file/d/0B7vb2Xa26caLNmN5TkZzdkFpbWM/view?usp=sharing)” (Paramount, 1968)
 
-**Apr. 14: Apocalypse, Then and Now: The End Times in Fact, Fiction, and Film**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+<div class="videoWrapper-16-9 noprint">
+<iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLNmN5TkZzdkFpbWM/preview" width="640" height="340"></iframe>
+</div>
+
+**Apr. 14: Apocalypse, Then and Now: The End Times in Fact, Fiction, and Film**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLOUk1WVFsbUo2aXc/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 *Thinking Piece:*&nbsp;&nbsp;Is the book of Revelation about the past, the present, or the future? Defend your answer with discussion of appropriate citations/quotations from the text. 
 
