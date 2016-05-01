@@ -172,7 +172,7 @@ Clip: U.S. President Barack Obama’s [Second Inaugural Address](https://youtu.b
 
 <span class="hide">*Thinking Piece:* Consider the following print advertisement for GHD hair styling products. Would you characterize this image as a feminist appropriation of Genesis 3? Why or why not?</span>
 
-<img class="hide"> style="margin-bottom: 1em" src="http://i.huffpost.com/gen/368113/KATY-PERRY-GHD-ADS.jpg">
+<img class="hide" style="margin-bottom: 1em" src="http://i.huffpost.com/gen/368113/KATY-PERRY-GHD-ADS.jpg">
 
 HB/OT: <a href="http://bible.oremus.org/?ql=307879367">Genesis 2:4b–4:26</a>
 
