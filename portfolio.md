@@ -1,5 +1,6 @@
 ---
 layout: page
+header: true
 title: Portfolio
 group: "navigation"
 permalink: /portfolio/

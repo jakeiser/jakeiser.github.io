@@ -1,5 +1,6 @@
 ---
 layout: page
+header: true
 title: Bible and Western Culture
 location: McGill University, Montréal
 course: true

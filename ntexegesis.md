@@ -1,5 +1,6 @@
 ---
 layout: page
+header: true
 title: Exegesis of the New Testament
 location: McGill University, Montréal
 course: true

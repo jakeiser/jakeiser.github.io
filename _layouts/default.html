@@ -5,10 +5,16 @@
 
   <body>
 
-    {% include header.html %}
+    {% if page.header %}
+  	  {% include header.html %}
+    {% endif %}
 
      <div class="page-content">
+     {% if page.header %}
       <div class="wrapper">
+       {% else %}
+       	<div class="wrapper" style="margin-top: 0">
+     {% endif %}
        {{ content }}
       </div>
      </div>

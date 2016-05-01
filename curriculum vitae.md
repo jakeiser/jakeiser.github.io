@@ -1,5 +1,6 @@
 ---
 layout: page
+header: true
 title: CV
 group: "navigation"
 permalink: /cv/

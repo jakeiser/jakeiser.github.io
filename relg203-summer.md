@@ -1,8 +1,9 @@
 ---
 layout: page
+header: false
 title: Bible and Western Culture
 location: McGill University, Montréal
-course: false
+course: true
 permalink: courses/relg203-summer/
 ---
 
@@ -18,7 +19,7 @@ Office and Hours: TBD
 
 ### Course Description
 
-Bart D. Ehrman recently called the Bible “the most frequently purchased, commonly read, passionately believed, and widely misunderstood book in the history of Western civilization.” This course is designed to address the situation of most students knowing more about the Bible than they might think, but also being more confused about that inherited cultural knowledge than they might think. To this end, “Western culture” will be defined and outlined historically for the purposes of the class, as a family of cultures shaped by ideas of the sacred and the secular that were developed in conversation with Greco-Roman and biblical traditions. The class will then will review key examples of biblical tradition, and critical discussions of their place in Western culture. **_Students will show they can notice biblical traditions at work in Western culture, and think about them critically—both on the spot in real time_** (in the class discussions and the Midterm exam) **_and in depth on their own time_** (in the Responses, Reflections, and Final Paper). Section 1 (May 4–May 14) introduces the materials and problems involved in a Religious Studies approach to “the West” and to biblical traditions. Reflective engagement with the readings and ideas is expected. Section 2 (May 19–June 3) is more “hands-on” and thematic. Students are expected to come prepared for active discussions of key texts and interpretations.
+Bart D. Ehrman recently called the Bible “the most frequently purchased, commonly read, passionately believed, and widely misunderstood book in the history of Western civilization.” <!--excerpt.start-->This course is designed to address the situation of most students knowing more about the Bible than they might think, but also being more confused about that inherited cultural knowledge than they might think. To this end, “Western culture” will be defined and outlined historically for the purposes of the class, as a family of cultures shaped by ideas of the sacred and the secular that were developed in conversation with Greco-Roman and biblical traditions. The class will then will review key examples of biblical tradition, and critical discussions of their place in Western culture<!--excerpt.end-->. **_Students will show they can notice biblical traditions at work in Western culture, and think about them critically—both on the spot in real time_** (in the class discussions and the Midterm exam) **_and in depth on their own time_** (in the Reflections). Section 1 (May 4–May 14) introduces the materials and problems involved in a Religious Studies approach to “the West” and to biblical traditions. Reflective engagement with the readings and ideas is expected. Section 2 (May 19–June 3) is more “hands-on” and thematic. Students are expected to come prepared for active discussions of key texts and interpretations.
 
 ### Required Texts 
 
