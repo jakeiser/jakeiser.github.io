@@ -116,13 +116,13 @@ The official version of this syllabus will be hosted online. You will receive ad
 
 **Jan. 12: Introduction, Procedures, and Expectations**
 
-**Jan. 14: What is Western Culture?**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNmN3WGI5aHBBRHc/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Jan. 14: What is Western Culture?**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNmN3WGI5aHBBRHc/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 <hr style="margin:2em 0 2em 0">
 
 #### Week 02
 
-**Jan. 19: What is the Bible? Part 1**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLQUJBOW5GY1ZoUms/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Jan. 19: What is the Bible? Part 1**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLQUJBOW5GY1ZoUms/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 *Desperate Housewives* [Opening Credits](https://youtu.be/aR0jKlwE0zI) (yU + co, 2004). Learn more at [Artcyclopedia](http://www.artcyclopedia.com/feature-2005-05.html){:class="new-window" target="_blank"}.
 
@@ -130,7 +130,7 @@ The official version of this syllabus will be hosted online. You will receive ad
 <iframe width="420" height="315" src="https://www.youtube.com/embed/aR0jKlwE0zI?&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe>
 </div>
 
-**Jan. 21: What is the Bible? Part 2**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLVmQ1OWVqeHlkUVk/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Jan. 21: What is the Bible? Part 2**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLVmQ1OWVqeHlkUVk/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 Northrop Frye, “<a class="new-window" href="https://docs.google.com/open?id=0B7vb2WeekXa26caLNVdHekZ1cFhURUU" target="_blank">The Shape of the Bible</a>,” pp. 21–29 in Northrop Frye and Jay Macpherson, *Biblical and Classical Myths: The Mythological Framework of Western Culture* (Toronto: University of Toronto Press, 2004)
 
@@ -140,7 +140,7 @@ Russell T. McCutcheon, “<a class="new-window" href="https://drive.google.com/f
 
 #### Week 03
 
-**Jan. 26: Arguing Over Origins, Part 1: Genesis and Evolution**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNEVTVnJRSUtOdjA/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Jan. 26: Arguing Over Origins, Part 1: Genesis and Evolution**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNEVTVnJRSUtOdjA/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=319214943">Genesis 1:1–2:4a</a>
 
@@ -152,7 +152,7 @@ Ken Ham of Answers in Genesis on [the purpose of his organization](https://drive
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLXzdDS1R5ZURYaDA/preview" width="640" height="480"></iframe>
 </div>
 
-**Jan. 28: Arguing Over Origins, Part 2: Genesis and Ecology**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLZFJUYTNyV1psX2c/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Jan. 28: Arguing Over Origins, Part 2: Genesis and Ecology**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLZFJUYTNyV1psX2c/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=319214943">Genesis 1:1–2:4a</a>
 
@@ -168,11 +168,11 @@ Clip: U.S. President Barack Obama’s [Second Inaugural Address](https://youtu.b
 
 #### Week 04
 
-**Feb. 02: The Fall of Adam and the Rise of Eve: Genesis 3 in Feminist and Postfeminist Perspectives**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLWFJlcXJlWEJ4U0k/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Feb. 02: The Fall of Adam and the Rise of Eve: Genesis 3 in Feminist and Postfeminist Perspectives**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLWFJlcXJlWEJ4U0k/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
-*Thinking Piece:* Consider the following print advertisement for GHD hair styling products. Would you characterize this image as a feminist appropriation of Genesis 3? Why or why not?
+<span class="hide">*Thinking Piece:* Consider the following print advertisement for GHD hair styling products. Would you characterize this image as a feminist appropriation of Genesis 3? Why or why not?</span>
 
-<img style="margin-bottom: 1em" src="http://i.huffpost.com/gen/368113/KATY-PERRY-GHD-ADS.jpg">
+<img class="hide"> style="margin-bottom: 1em" src="http://i.huffpost.com/gen/368113/KATY-PERRY-GHD-ADS.jpg">
 
 HB/OT: <a href="http://bible.oremus.org/?ql=307879367">Genesis 2:4b–4:26</a>
 
@@ -182,7 +182,7 @@ Susan Osborne, “[Feminism: A Short History](https://drive.google.com/file/d/0B
 
 Anne-Marie Korte, “[Paradise Lost, Growth Gained: Eve’s Story Revisited—Genesis 2–4 in a Feminist Theological Perspective](https://drive.google.com/file/d/0B7vb2Xa26caLeEozaVdncWo1T2M/view?usp=sharing){:class="new-window" target="_blank"},” pp. 140–156 in ed. Bob Becking and Susan Hennecke, *Out of Paradise: Eve and Adam and Their Interpreters* (Sheffield: Sheffield Phoenix Press, 2011)
 
-**Feb. 04: Recovering Eden: The Legacy of Paradise in Western Culture**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNlhuQmQxc0tUTTA/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Feb. 04: Recovering Eden: The Legacy of Paradise in Western Culture**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNlhuQmQxc0tUTTA/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=307879367">Genesis 2:4b–4:26</a>
 
@@ -192,7 +192,7 @@ Carolyn Merchant, “[The Fall from Eden](https://drive.google.com/file/d/0B7vb2
 
 #### Week 05
 
-**Feb. 09: The Prehistory of Noah’s Flood**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLS1d5Y0txLTYzMFk/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Feb. 09: The Prehistory of Noah’s Flood**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLS1d5Y0txLTYzMFk/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: [Genesis 5–11](http://bible.oremus.org/?ql=308772985)
 
@@ -200,7 +200,7 @@ NT: [1 Peter 3:13–22](http://bible.oremus.org/?ql=287518859)
 
 Adam Ployd, “[We’re on a Boat!: The Church as Ark in Early Christianity](http://www.floodofnoah.com/#!post-early-christianity-church-as-ark/c1qn4){:class="new-window" target="_blank"}.”
 
-**Feb. 11: The Aftermath of Noah’s Flood**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLOVJjckJYRUprdnM/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Feb. 11: The Aftermath of Noah’s Flood**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLOVJjckJYRUprdnM/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 J. David Pleins, “[Race, Sex, and the Curse: When Myths Go Wrong](https://drive.google.com/file/d/0B7vb2Xa26caLTHVTWVYtVDNGYkU/view?usp=sharing){:class="new-window" target="_blank"},” pp. 129–144 in idem., *When the Great Abyss Opened: Classic and Contemporary Readings of Noah’s Flood* (Oxford: Oxford University Press, 2003)
 
@@ -208,9 +208,9 @@ J. David Pleins, “[Race, Sex, and the Curse: When Myths Go Wrong](https://driv
 
 #### Week 06
 
-**Feb. 16: Will the Real Abraham Please Stand Up?**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLcXFCNU14MDNlNVE/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Feb. 16: Will the Real Abraham Please Stand Up?**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLcXFCNU14MDNlNVE/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
-*Thinking Piece:*&nbsp;&nbsp;Abraham is often called the father of three faiths: Judaism, Christianity, and Islam. What purpose does this characterization serve? Do you think it is an accurate characterization? Defend your answer with reference to the assigned materials for today.
+<span class="hide">*Thinking Piece:*&nbsp;&nbsp;Abraham is often called the father of three faiths: Judaism, Christianity, and Islam. What purpose does this characterization serve? Do you think it is an accurate characterization? Defend your answer with reference to the assigned materials for today.</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=308397527">Genesis 12–17</a>
 
@@ -220,7 +220,7 @@ Brannon Wheeler, “[Abraham and Islam](http://www.bibleodyssey.org/en/people/re
 
 Jon D. Levenson, “[The Idea of Abrahamic Religions: A Qualified Dissent](/assets/Levenson-The%20Idea%20of%20Abrahamic%20Religions.html){:class="new-window" target="_blank"},” *Jewish Review of Books* 1.1 (Spring 2010)
 
-**Feb. 18: Abrahamic Religions and the Binding/Sacrifice of Isaac**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLZ0Q2cGhfZFYxTlU/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Feb. 18: Abrahamic Religions and the Binding/Sacrifice of Isaac**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLZ0Q2cGhfZFYxTlU/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 NT: [Genesis 22:1–19](http://bible.oremus.org/?ql=322037678)
 
@@ -234,9 +234,9 @@ Watch Author Bruce Feiler discuss his motivation for writing *Abraham: A Journey
 
 #### Week 07
 
-**Feb. 23: Sodom and Gomorrah**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLcW5xZ05McFhjaXM/view?usp=sharing){:class="new-window" target="_blank"}<span class="noprint">
+**Feb. 23: Sodom and Gomorrah**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLcW5xZ05McFhjaXM/view?usp=sharing){:class="new-window" target="_blank"}<span class="noprint">
 
-*Thinking Piece:*&nbsp;&nbsp;The sin of Sodom is popularly presented as [homosexuality](http://www.str.org/articles/what-was-the-sin-of-sodom-and-gomorrah){:class="new-window" target="_blank"} or as [radical inhospitality](http://www.huffingtonpost.com/rev-patrick-s-cheng-phd/what-was-the-real-sin-of_b_543996.html){:class="new-window" target="_blank"}. What are the flaws of each viewpoint?
+<span class="hide">*Thinking Piece:*&nbsp;&nbsp;The sin of Sodom is popularly presented as [homosexuality](http://www.str.org/articles/what-was-the-sin-of-sodom-and-gomorrah){:class="new-window" target="_blank"} or as [radical inhospitality](http://www.huffingtonpost.com/rev-patrick-s-cheng-phd/what-was-the-real-sin-of_b_543996.html){:class="new-window" target="_blank"}. What are the flaws of each viewpoint?</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=308774383">Genesis 18–19;&#160;&#160;Judges 19;&#160;&#160;Isaiah 1;&#160;&#160;Jeremiah 23;&#160;&#160;Ezekiel 16</a>
 
@@ -244,7 +244,7 @@ NT: <a href="http://bible.oremus.org/?ql=308774490">Luke 10:1–12;&#160;&#160;2
 
 Richard Elliot Friedman and Shawna Dolansky, “[Homosexuality](https://docs.google.com/open?id=0B7vb2Xa26caLWGd1d0dlQ09zT1E){:class="new-window" target="_blank"},” pp. 1–8 in idem, *The Bible Now* (New York: Oxford University Press, 2011)
 
-**Feb. 25: Exodus and Liberation**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLakVJUG16TGlyNnc/view?usp=sharing){:class="new-window" target="_blank"}<span class="noprint">
+**Feb. 25: Exodus and Liberation**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLakVJUG16TGlyNnc/view?usp=sharing){:class="new-window" target="_blank"}<span class="noprint">
 
 HB/OT: <a href="http://bible.oremus.org/?ql=312597583">Exodus 1–15;&#160;&#160;19:1–6;&#160;&#160;23:20–24:18;&#160;&#160;Numbers 13:1–14:38;&#160;&#160;Deuteronomy 34;&#160;&#160;Joshua 1:1–16; 11:16–23</a>
 
@@ -280,11 +280,11 @@ Mel Brooks, Dir., “[The Old Testament](https://youtu.be/Ah-WdAwVg9c),” *Hist
 
 #### Week 09
 
-**Mar. 15: Bon King, Bad King**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLQWFrLTNGTzBmekU/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Mar. 15: Bon King, Bad King**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLQWFrLTNGTzBmekU/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=213512508">Deuteronomy 17:14–20</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308586716">1 Samuel 8</a>;&#160;&#160;selected passages about [King David](http://bible.oremus.org/?ql=308636109)
 
-**Mar. 17: Bon King, Bad King (continued)**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLeGhpVkE3eEVaRXc/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Mar. 17: Bon King, Bad King (continued)**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLeGhpVkE3eEVaRXc/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=213512508">Deuteronomy 17:14–20</a>;&#160;&#160;<a href="http://bible.oremus.org/?ql=308586716">1 Samuel 8</a>;&#160;&#160;selected passages about the following rulers of Israel and Judah:
 
@@ -318,7 +318,7 @@ Wyclef Jean, “[Jaspora](https://youtu.be/G9qusjgZ66U),” *Wyclef Jean Present
 
 #### Week 10
 
-**Mar. 22: By the Waters of Babylon: The Babylonian Exile in History and Culture**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLeURrZFhDOFFuRjg/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Mar. 22: By the Waters of Babylon: The Babylonian Exile in History and Culture**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLeURrZFhDOFFuRjg/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: 
 
@@ -364,7 +364,7 @@ Don MacLean, “[Waters of Babylon](https://youtu.be/uTnspbSjKVc),” *American 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/uTnspbSjKVc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-**Mar. 24:**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLbjhsQlhPdTBSbnM/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Mar. 24:**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLbjhsQlhPdTBSbnM/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 **Part I: The Second Temple Period**
 
@@ -376,13 +376,13 @@ Matisyahu, “[Jerusalem](https://youtu.be/GYr4Fz14C6w),” *Youth* (JDub/Epic, 
 
 **Part 2: Jesus and Jewish Messianic Expectations**
 
-*Thinking Piece:*&nbsp;&nbsp;This thinking piece has three parts:
+<div class="hide">*Thinking Piece:*&nbsp;&nbsp;This thinking piece has three parts:
 
 1. Read the first-century C.E. Jewish Historian, Josephus, [on the four sects of Judaism](https://drive.google.com/file/d/0B7vb2Xa26caLSGk5VGI3U1JaMVE/view?usp=sharing){:class="new-window" target="_blank"}.
 
 2. Imagine that each sect is looking to fill the position of messiah. Write four job descriptions, one for each sect, describing the position.
 
-3. Does Jesus fit any of these descriptions? Why or why not?
+3. Does Jesus fit any of these descriptions? Why or why not?</div>
 
 NT: [Mark 1:1–12](http://bible.oremus.org/?ql=308649113); [Matthew 1:1–4:11](http://bible.oremus.org/?ql=308649131); [Luke 1:1–4:12](http://bible.oremus.org/?ql=308649184); [John 1:1–34](http://bible.oremus.org/?ql=308649209)
 
@@ -396,7 +396,7 @@ NT: [Mark 1:13–14:2](http://bible.oremus.org/?ql=282029813); [Matthew 13:1–5
 
 NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Societies, 1993), [pp. 277–284](https://drive.google.com/file/d/0B7vb2Xa26caLMzdZX2NZd3dlcW8/view?usp=sharing){:class="new-window" target="_blank"}
 
-*Thinking Piece:*&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing) (1988) and Ron Howard’s [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing) (2006), then read the recent *Atlantic Monthly* article on “[The Curious Case of Jesus’s Wife](http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/){:class="new-window" target="_blank"}.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?
+<span class="hide">*Thinking Piece:*&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing) (1988) and Ron Howard’s [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing) (2006), then read the recent *Atlantic Monthly* article on “[The Curious Case of Jesus’s Wife](http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/){:class="new-window" target="_blank"}.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?</span>
 
 Martin Scorcese, Dir., [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing)
 
@@ -412,7 +412,7 @@ Ron Howard, Dir., [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa
 
 <img class="noprint" src="/assets/images/da-vinci-last-supper.jpg" />
 
-**Mar. 31: The Last Supper (continued) and The Passion of the Christ**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLSkM5OVhPNkxndGs/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Mar. 31: The Last Supper (continued) and The Passion of the Christ**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLSkM5OVhPNkxndGs/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 Sophie Arle, “[Milan Bans Da Vinci Parody](http://www.theguardian.com/world/2005/feb/04/media.arts){:class="new-window" target="_blank"},” *The Guardian,* Friday, February 25, 2005
 
@@ -435,15 +435,15 @@ Mel Gibson, Dir., “[Golgotha](https://drive.google.com/file/d/0B7vb2Xa26caLYWp
 #### Week 12
 
 **Apr. 05: The Passion of the Christ (continued)**
-<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNDRLUWtjVmYyYjg/view?usp=sharing){:class="new-window" target="_blank"}</span>
+<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLNDRLUWtjVmYyYjg/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Societies, 1993), [pp. 288–324](https://docs.google.com/open?id=0B7vb2Xa26caLRnAxbm83eUlFWkU){:class="new-window" target="_blank"}
 
 This reading places the four gospels’ accounts of the arrest and crucifixion of Jesus in parallel in order to facilitate easy comparison. I recommend that you follow Mark all the way through but glance across from time to time to see how the other gospels handle the story.
 
-**Apr. 07: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLN3VfcHRaYVFHR1k/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Apr. 07: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLN3VfcHRaYVFHR1k/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
-*Thinking Piece:*&nbsp;&nbsp;What is ‘justification by faith’ according to the Martin Luther? What kinds of things does he include under the category of ‘works of the law’? Are these the same kinds of things that the Apostle Paul would likely include under this category? What is the point of doing good works, according to Martin Luther?
+<span class="hide">*Thinking Piece:*&nbsp;&nbsp;What is ‘justification by faith’ according to the Martin Luther? What kinds of things does he include under the category of ‘works of the law’? Are these the same kinds of things that the Apostle Paul would likely include under this category? What is the point of doing good works, according to Martin Luther?</span>
 
 NT: Read the Apostle Paul’s letters to the [Philiippians 2–3](http://bible.oremus.org/?ql=326267389) and to the [Galatians](http://bible.oremus.org/?ql=213698441)
 
@@ -458,7 +458,7 @@ Alexander Dominitz, Dir., [*95 Theses*](https://youtu.be/dt5AJr0wls0)
 
 #### Week 13
 
-**Apr. 12: Law and Gospel (continued); Christ and the Antichrist(s)**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLVTJNVjBsWlhoa0U/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Apr. 12: Law and Gospel (continued); Christ and the Antichrist(s)**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLVTJNVjBsWlhoa0U/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 Josh Ritter, “[Girl in the War](http://www.dougrice.net/mp3_JoshRitter_GirlInTheWar.mp3),” *Animal Years* (V2, 2006)
 
@@ -482,9 +482,9 @@ Roman Polanski, Dir., *Rosemary’s Baby*, “[Denoument](https://drive.google.c
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLNmN5TkZzdkFpbWM/preview" width="640" height="340"></iframe>
 </div>
 
-**Apr. 14: Apocalypse, Then and Now: The End Times in Fact, Fiction, and Film**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLOUk1WVFsbUo2aXc/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**Apr. 14: Apocalypse, Then and Now: The End Times in Fact, Fiction, and Film**<span class="hide">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLOUk1WVFsbUo2aXc/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
-*Thinking Piece:*&nbsp;&nbsp;Is the book of Revelation about the past, the present, or the future? Defend your answer with discussion of appropriate citations/quotations from the text. 
+<span class="hide">*Thinking Piece:*&nbsp;&nbsp;Is the book of Revelation about the past, the present, or the future? Defend your answer with discussion of appropriate citations/quotations from the text.</span>
 
 HB/OT: <a href="http://bible.oremus.org/?ql=213681608">Ezekiel 38–39</a>
 
