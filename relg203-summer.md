@@ -192,9 +192,9 @@ Anne-Marie Korte, “[Paradise Lost, Growth Gained: Eve’s Story Revisited—Ge
 
 *Thinking Piece #03:*&nbsp;&nbsp;Abraham is often called the father of three faiths: Judaism, Christianity, and Islam. What purpose does this characterization serve? Do you think it is an accurate characterization? Defend your answer with reference to the assigned materials for today.
 
-HB/OT: [Genesis 12–17](http://bible.oremus.org/?ql=308397527); [Genesis 22:1–19](http://bible.oremus.org/?ql=322037678)
+HB/OT: Genesis 12–17<!--(http://bible.oremus.org/?ql=308397527)-->; Genesis 22:1–19<!--(http://bible.oremus.org/?ql=322037678)-->
 
-NT: [Romans 9–11](http://bible.oremus.org/?ql=308501867); [Galatians 3–4](http://bible.oremus.org/?ql=308501689)
+NT: Romans 9–11<!--(http://bible.oremus.org/?ql=308501867)-->; Galatians 3–4<!--(http://bible.oremus.org/?ql=308501689)-->
 
 Brannon Wheeler, “[Abraham and Islam](http://www.bibleodyssey.org/en/people/related-articles/abraham-and-islam){:class="new-window" target="_blank"},” Bible Odyssey, n.p.
 
