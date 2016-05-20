@@ -288,7 +288,7 @@ NT: Philiippians 2–3<!--(http://bible.oremus.org/?ql=326267389)-->; Galatians<
 
 **Jun 01: The End Times in Fact and Fiction**
 
-NT: [Revelation](http://bible.oremus.org/?ql=213722896)
+NT: Revelation<!--(http://bible.oremus.org/?ql=213722896)-->
 
 <span class="hide">Adso of Montier-en-Der, “[Letter on the Origin and Time of the Antichrist](http://www.pbs.org/wgbh/pages/frontline/shows/apocalypse/primary/adsoletter.html){:class="new-window" target="_blank"}”</span>
 
