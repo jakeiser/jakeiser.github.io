@@ -223,7 +223,7 @@ Robert Allen Warrior, “[A Native American Perspective: Canaanites, Cowboys, an
 
 **May 26: ‘Render unto Caesar’: Jews, Jesus, and Politics**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
 
-[Deuteronomy 17:14–20](http://bible.oremus.org/?ql=213512508) and selected passages about the following rulers of Israel and Judah:
+Deuteronomy 17:14–20<!--(http://bible.oremus.org/?ql=213512508)--> and selected passages about the following rulers of Israel and Judah:
 
 1.&#160;[David](http://bible.oremus.org/?ql=308636109)
 
@@ -259,7 +259,7 @@ Robert Allen Warrior, “[A Native American Perspective: Canaanites, Cowboys, an
 
 **May 30: Suffering, Sex, and the Single Saviour**
 
-HB/OT: [Isaiah 52:13–53:12;&#160;&#160;Zechariah 12–13](http://bible.oremus.org/?ql=308774126)
+HB/OT: Isaiah 52:13–53:12;&#160;&#160;Zechariah 12–13<!--(http://bible.oremus.org/?ql=308774126)-->
 
 NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Societies, 1993), [pp. 288–324](https://docs.google.com/open?id=0B7vb2Xa26caLRnAxbm83eUlFWkU){:class="new-window" target="_blank"}
 
@@ -279,7 +279,7 @@ NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Soci
 
 **May 31: Law and Gospel: The Letters and Legacy of Paul the Apostle**
 
-NT: [Philiippians 2–3](http://bible.oremus.org/?ql=326267389); [Galatians](http://bible.oremus.org/?ql=213698441)
+NT: Philiippians 2–3<!--(http://bible.oremus.org/?ql=326267389)-->; Galatians<!--(http://bible.oremus.org/?ql=213698441)-->
 
 <span class="hide">Alexander Dominitz, Dir., [*95 Theses*](https://youtu.be/dt5AJr0wls0)</span>
 
