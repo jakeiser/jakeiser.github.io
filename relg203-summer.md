@@ -174,9 +174,9 @@ Riches 134–142
 
 <img class="hide" style="width: 100%; height; auto; margin-bottom: 1em" src="/assets/El_Palacio_de_Hierro_Ad.jpg">
 
-HB/OT: <a href="http://bible.oremus.org/?ql=307879367">Genesis 2:4b–4:26</a>
+HB/OT: <!--a href="http://bible.oremus.org/?ql=307879367"-->Genesis 2:4b–4:26
 
-NT: <a href="http://bible.oremus.org/?ql=320407774">Romans 5:12–21; 1 Timothy 2:12–15</a>
+NT: <!--a href="http://bible.oremus.org/?ql=320407774"-->Romans 5:12–21; 1 Timothy 2:12–15
 
 <span class="hide">Susan Osborne, “[Feminism: A Short History](https://drive.google.com/file/d/0B7vb2Xa26caLUUp6MzhGRWhtQU0/view?usp=sharing){:class="new-window" target="_blank"},” pp. 7–36 in idem, *Feminism* (Harpenden, Herts: Pocket Essentials, 2001)</span>
 
