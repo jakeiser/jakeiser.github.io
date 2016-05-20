@@ -182,6 +182,12 @@ NT: <!--a href="http://bible.oremus.org/?ql=320407774"-->Romans 5:12–21; 1 Tim
 
 Anne-Marie Korte, “[Paradise Lost, Growth Gained: Eve’s Story Revisited—Genesis 2–4 in a Feminist Theological Perspective](https://drive.google.com/file/d/0B7vb2Xa26caLeEozaVdncWo1T2M/view?usp=sharing){:class="new-window" target="_blank"},” pp. 140–156 in ed. Bob Becking and Susan Hennecke, *Out of Paradise: Eve and Adam and Their Interpreters* (Sheffield: Sheffield Phoenix Press, 2011)
 
+*Desperate Housewives* [Opening Credits](https://youtu.be/aR0jKlwE0zI) (yU + co, 2004). Learn more at [Artcyclopedia](http://www.artcyclopedia.com/feature-2005-05.html){:class="new-window" target="_blank"}.
+
+<div class="videoWrapper-16-9 noprint">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/aR0jKlwE0zI?&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <hr style="margin:2em 0 2em 0">
 
 #### Week 04
