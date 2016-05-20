@@ -168,7 +168,7 @@ Riches 134–142
 
 <hr style="margin:2em 0 2em 0">
 
-**May 19: The Fall of Adam and the Rise of Eve: Genesis 3 in Feminist and Postfeminist Perspectives**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</a></span>
+**May 19: The Fall of Adam and the Rise of Eve: Genesis 3 in Feminist and Postfeminist Perspectives**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLOERUemkzOXhaMDg/view?usp=sharing){:class="new-window" target="_blank"}</a></span>
 
 <span class="hide">*Thinking Piece #02:* Consider the following print advertisement for the Mexican luxury department store, El Palacio Hierro. Would you characterize this image as a feminist appropriation of Genesis 3? Why or why not?</span>
 
