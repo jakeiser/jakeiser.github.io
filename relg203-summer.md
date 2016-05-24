@@ -194,7 +194,7 @@ Anne-Marie Korte, “[Paradise Lost, Growth Gained: Eve’s Story Revisited—Ge
 
 **May 23: NO CLASS**
 
-**May 24: Will the Real Abraham Please Stand Up?**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLVzY0TkxBRjBlUXM/view?usp=sharing){:class="new-window" target="_blank"}</a></span><span style="margin-bottom:1em">
+**May 24: Will the Real Abraham Please Stand Up?**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLVzY0TkxBRjBlUXM/view?usp=sharing){:class="new-window" target="_blank"}</span><span style="margin-bottom:1em">
 
 *Reflection Paper #03:*&nbsp;&nbsp;Abraham is often called the father of three faiths: Judaism, Christianity, and Islam. What purpose does this characterization serve? Do you think it is an accurate characterization? Defend your answer with reference to the assigned materials for today.
 
