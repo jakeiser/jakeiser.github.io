@@ -214,8 +214,8 @@ Watch Author Bruce Feiler discuss his motivation for writing *Abraham: A Journey
 
 **May 25: Exodus and Liberation**
 
-Exodus 1–15  
-Matthew 1–4
+HB/OT: Exodus 1–15  
+NT: Matthew 1–4
 
 Robert Allen Warrior, “[A Native American Perspective: Canaanites, Cowboys, and Indians](https://docs.google.com/open?id=0B7vb2Xa26caLYXBGdkxFSFhXWEE){:class="new-window" target="_blank"},” pp. 235–241 in ed. R.S. Sugirtharaja, *Voices From the Margin: Interpreting the Bible in the Third World,* Third Edition (Maryknoll, NY: Orbis, 2006)
 
@@ -223,7 +223,7 @@ Robert Allen Warrior, “[A Native American Perspective: Canaanites, Cowboys, an
 
 **May 26: ‘Render unto Caesar’: Jews, Jesus, and Politics**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
 
-Deuteronomy 17:14–20<!--(http://bible.oremus.org/?ql=213512508)--> and selected passages about the following rulers of Israel and Judah:
+HB/OT: Deuteronomy 17:14–20<!--(http://bible.oremus.org/?ql=213512508)--> and selected passages about the following rulers of Israel and Judah:
 
 1.&#160;[David](http://bible.oremus.org/?ql=308636109)
 
@@ -242,6 +242,8 @@ Deuteronomy 17:14–20<!--(http://bible.oremus.org/?ql=213512508)--> and selecte
 <div class="videoWrapper-16-9 noprint hide">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/z3Nz98Cn7nM?start=30&end=148" frameborder="0" allowfullscreen></iframe>
 </div>
+
+NT: Matthew 1:1–17; 22:15–22
 
 4.&#160;[Ahab and Jezebel](http://bible.oremus.org/?ql=308638944)
 
