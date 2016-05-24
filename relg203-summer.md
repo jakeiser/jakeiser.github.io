@@ -263,17 +263,17 @@ HB/OT: Isaiah 52:13–53:12;&#160;&#160;Zechariah 12–13<!--(http://bible.oremu
 
 NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Societies, 1993), [pp. 288–324](https://docs.google.com/open?id=0B7vb2Xa26caLRnAxbm83eUlFWkU){:class="new-window" target="_blank"}
 
-<span class="hide">*Thinking Piece #04*&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing) (1988) and Ron Howard’s [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing) (2006), then read this *Atlantic Monthly* article on “[The Curious Case of Jesus’s Wife](http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/){:class="new-window" target="_blank"}.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?</span>
+*Reflection Paper #04*&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing) (1988) and Ron Howard’s [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing) (2006), then read this *Atlantic Monthly* article on “[The Curious Case of Jesus’s Wife](http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/){:class="new-window" target="_blank"}.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?
 
-<span class="hide">Martin Scorcese, Dir., [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing)
+<span class="noprint">Martin Scorcese, Dir., [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing)
 
-<div class="videoWrapper-other hide" style="padding-bottom: 52.5%">
+<div class="videoWrapper-other noprint" style="padding-bottom: 52.5%">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/preview" width="620" height="340"></iframe>
 </div>
 
-<span class="hide">Ron Howard, Dir., [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing)
+<span class="noprint">Ron Howard, Dir., [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing)
 
-<div class="videoWrapper-other hide" style="padding-bottom: 38%">
+<div class="videoWrapper-other noprint" style="padding-bottom: 38%">
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/preview" width="640" height="280"></iframe>
 </div>
 
