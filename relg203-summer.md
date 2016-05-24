@@ -243,8 +243,6 @@ HB/OT: Deuteronomy 17:14–20<!--(http://bible.oremus.org/?ql=213512508)--> and 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/z3Nz98Cn7nM?start=30&end=148" frameborder="0" allowfullscreen></iframe>
 </div>
 
-NT: Matthew 1:1–17; 22:15–22
-
 4.&#160;[Ahab and Jezebel](http://bible.oremus.org/?ql=308638944)
 
 “[Jezebel Stereotype](http://www.ferris.edu/jimcrow/jezebel.htm){:class="new-window" target="_blank"},” Jim Crow Museum of Racist Memorabilia, Ferris State University
@@ -254,6 +252,8 @@ NT: Matthew 1:1–17; 22:15–22
 <div class="videoWrapper-16-9 hide">
 <iframe width="420" height="315" src="//www.youtube.com/embed/G9qusjgZ66U?rel=0"></iframe>
 </div>
+
+NT: Matthew 1:1–17; 22:15–22
 
 <hr style="margin:2em 0 2em 0">
 
