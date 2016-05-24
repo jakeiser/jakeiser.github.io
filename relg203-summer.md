@@ -261,7 +261,7 @@ Deuteronomy 17:14–20<!--(http://bible.oremus.org/?ql=213512508)--> and selecte
 
 HB/OT: Isaiah 52:13–53:12;&#160;&#160;Zechariah 12–13<!--(http://bible.oremus.org/?ql=308774126)-->
 
-NT: Kurt Aland, ed., *Synopsis of the Four Gospels,* 10th Ed. (United Bible Societies, 1993), [pp. 288–324](https://docs.google.com/open?id=0B7vb2Xa26caLRnAxbm83eUlFWkU){:class="new-window" target="_blank"}
+NT: Luke 7:1–8:3; John 12:1–8; Mark 14–16
 
 *Reflection Paper #04*&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing) (1988) and Ron Howard’s [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing) (2006), then read this *Atlantic Monthly* article on “[The Curious Case of Jesus’s Wife](http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/){:class="new-window" target="_blank"}.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?
 
