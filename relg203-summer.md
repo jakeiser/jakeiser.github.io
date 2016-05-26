@@ -212,7 +212,7 @@ Watch Author Bruce Feiler discuss his motivation for writing *Abraham: A Journey
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLZHhUVGR0NmRLVTg/preview" width="640" height="480"></iframe>
 </div>
 
-**May 25: Exodus and Liberation**
+**May 25: Exodus and Liberation**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLTUdRQTVnWjB0Y0E/view?usp=sharing){:class="new-window" target="_blank"}</span><span style="margin-bottom:1em">
 
 HB/OT: Exodus 1–15  
 NT: Matthew 1–4
@@ -221,7 +221,7 @@ Robert Allen Warrior, “[A Native American Perspective: Canaanites, Cowboys, an
 
 <span class="hide noprint">**May 25: Bon King, Bad King**[Slides](){:class="new-window" target="_blank"}</a></span>
 
-**May 26: ‘Render unto Caesar’: Jews, Jesus, and Politics**<span class="hide noprint">[Slides](){:class="new-window" target="_blank"}</span>
+**May 26: ‘Render unto Caesar’: Jews, Jesus, and Politics**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLdktPYzBxZHVGQUE/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: Deuteronomy 17:14–20<!--(http://bible.oremus.org/?ql=213512508)--> and selected passages about the following rulers of Israel and Judah:
 
@@ -229,9 +229,9 @@ HB/OT: Deuteronomy 17:14–20<!--(http://bible.oremus.org/?ql=213512508)--> and 
 
 2.&#160;[Solomon](http://bible.oremus.org/?ql=308590940)
 
-<span class="hide">*Seinfeld,* “[The Seven](https://youtu.be/wsbgwNe4Rv4),” S07E13 (NBC, February 1, 1996)</span>
+*Seinfeld,* “[The Seven](https://youtu.be/wsbgwNe4Rv4),” S07E13 (NBC, February 1, 1996)
 
-<div class="videoWrapper-16-9 noprint hide">
+<div class="videoWrapper-16-9 noprint">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wsbgwNe4Rv4" frameborder="0" allowfullscreen></iframe>
 </div>
 
