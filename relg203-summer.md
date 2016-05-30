@@ -261,7 +261,7 @@ NT: Matthew 1:1–17; 22:15–22
 
 **May 30: Suffering, Sex, and the Single Saviour**
 
-HB/OT: <!--Isaiah 52:13–53:12;&#160;&#160;-->Zechariah 12–13<!--(http://bible.oremus.org/?ql=308774126)-->
+HB/OT: <!--Isaiah 52:13–53:12;&#160;&#160;-->	Zechariah 12–13<!--(http://bible.oremus.org/?ql=308774126)-->
 
 NT: Luke 7:1–8:3; John 12:1–8; Mark 14–16
 
