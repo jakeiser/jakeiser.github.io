@@ -235,7 +235,7 @@ HB/OT: Deuteronomy 17:14–20<!--(http://bible.oremus.org/?ql=213512508)--> and 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wsbgwNe4Rv4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-3.&#160;[Josiah](http://bible.oremus.org/?ql=213510542)
+<!--3.&#160;[Josiah](http://bible.oremus.org/?ql=213510542)
 
 <span class="hide">*Lost,* “[What Kate Did](https://youtu.be/z3Nz98Cn7nM),” S02E09 (ABC, November 30, 2005)</span>
 
@@ -245,7 +245,7 @@ HB/OT: Deuteronomy 17:14–20<!--(http://bible.oremus.org/?ql=213512508)--> and 
 
 4.&#160;[Ahab and Jezebel](http://bible.oremus.org/?ql=308638944)
 
-“[Jezebel Stereotype](http://www.ferris.edu/jimcrow/jezebel.htm){:class="new-window" target="_blank"},” Jim Crow Museum of Racist Memorabilia, Ferris State University
+“[Jezebel Stereotype](http://www.ferris.edu/jimcrow/jezebel.htm){:class="new-window" target="_blank"},” Jim Crow Museum of Racist Memorabilia, Ferris State University-->
 
 <span class="hide">Wyclef Jean, “[Jaspora](https://youtu.be/G9qusjgZ66U),” *Wyclef Jean Presents the Carnival Featuring the Refugee All-Stars* (Columbia, 1997). Lyrics and translation are available [here](http://archive-edu.com/page/766265/2012-11-27/http://ocw.nd.edu/romance-languages-and-literatures/creole-language-and-culture/eduCommons/romance-languages-and-literatures/creole-language-and-culture/references/lyrics-jaspora-by-wyclef-jean) (note: you can bypass the sign-up page by entering the following password: showarchive).</span>
 
@@ -261,7 +261,7 @@ NT: Matthew 1:1–17; 22:15–22
 
 **May 30: Suffering, Sex, and the Single Saviour**
 
-HB/OT: Isaiah 52:13–53:12;&#160;&#160;Zechariah 12–13<!--(http://bible.oremus.org/?ql=308774126)-->
+HB/OT: <!--Isaiah 52:13–53:12;&#160;&#160;-->Zechariah 12–13<!--(http://bible.oremus.org/?ql=308774126)-->
 
 NT: Luke 7:1–8:3; John 12:1–8; Mark 14–16
 
