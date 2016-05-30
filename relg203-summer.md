@@ -259,7 +259,7 @@ NT: Matthew 1:1–17; 22:15–22
 
 #### Week 05
 
-**May 30: Suffering, Sex, and the Single Saviour**
+**May 30: Suffering, Sex, and the Single Saviour**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLOGZlTldVb3l3VWc/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 HB/OT: <!--Isaiah 52:13–53:12;&#160;&#160;-->	Zechariah 12–13<!--(http://bible.oremus.org/?ql=308774126)-->
 
