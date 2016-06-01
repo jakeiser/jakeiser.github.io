@@ -288,7 +288,7 @@ Alexander Dominitz, Dir., [*95 Theses*](https://youtu.be/dt5AJr0wls0)
 <div class="videoWrapper-16-9 noprint">
 <iframe class="noprint" width="420" height="315" src="//www.youtube.com/embed/dt5AJr0wls0" frameborder="0" allowfullscreen></iframe></div>
 
-**Jun 01: The End Times in Fact and Fiction**
+**Jun 01: The End Times in Fact and Fiction**<span class="noprint">[Slides 1](https://drive.google.com/file/d/0B7vb2Xa26caLcVR0UEoyRmRHY2s/view?usp=sharing){:class="new-window" target="_blank"}
 
 NT: Revelation<!--(http://bible.oremus.org/?ql=213722896)-->
 
