@@ -279,13 +279,13 @@ NT: Luke 7:1–8:3; John 12:1–8; Mark 14–16
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/preview" width="640" height="280"></iframe>
 </div>
 
-**May 31: Law and Gospel: The Letters and Legacy of Paul the Apostle**
+**May 31: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="noprint">[Slides 1](https://drive.google.com/file/d/0B7vb2Xa26caLMTNCLVBBOFBDZjg/view?usp=sharing){:class="new-window" target="_blank"} &#124; [Slides 2](https://drive.google.com/file/d/0B7vb2Xa26caLYkEzUDVTSDFab2M/view?usp=sharing){:class="new-window" target="_blank"}</span>
 
 NT: Philiippians 2–3<!--(http://bible.oremus.org/?ql=326267389)-->; Galatians<!--(http://bible.oremus.org/?ql=213698441)-->
 
-<span class="hide">Alexander Dominitz, Dir., [*95 Theses*](https://youtu.be/dt5AJr0wls0)</span>
+Alexander Dominitz, Dir., [*95 Theses*](https://youtu.be/dt5AJr0wls0)
 
-<div class="videoWrapper-16-9 hide">
+<div class="videoWrapper-16-9 noprint">
 <iframe class="noprint" width="420" height="315" src="//www.youtube.com/embed/dt5AJr0wls0" frameborder="0" allowfullscreen></iframe></div>
 
 **Jun 01: The End Times in Fact and Fiction**
