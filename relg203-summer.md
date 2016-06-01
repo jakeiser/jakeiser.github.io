@@ -296,7 +296,7 @@ NT: Revelation<!--(http://bible.oremus.org/?ql=213722896)-->
 
 Barbara Rossing, “[The Invention of the Rapture](https://docs.google.com/open?id=0B7vb2Xa26caLMnhUS0Y5MGF2Ymc){:class="new-window" target="_blank"},” pp. 19–46 in idem, *The Rapture Exposed: The Message of Hope in the Book of Revelation* (New York: Basic Books, 2004)
 
-Visit [The Rapture Index](http://www.raptureready.com/rap2.html){:class="new-window" target="_blank"}, a self-described “Dow Jones Industrial Average of end time activity.”
+<span class="hide">Visit [The Rapture Index](http://www.raptureready.com/rap2.html){:class="new-window" target="_blank"}, a self-described “Dow Jones Industrial Average of end time activity.”</span>
 
 <span class="hide">*Left Behind,* “[Rapture on a Plane](https://drive.google.com/file/d/0B7vb2Xa26caLSG1PS2d4aXdtTjQ/view?usp=sharing)</a>.,” dir. Vic Sarin (Cloud Ten, 2000)</span>
 
