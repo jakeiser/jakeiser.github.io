@@ -4,6 +4,7 @@ header: false
 title: Bible and Western Culture
 location: McGill University, Montréal
 course: true
+exclude: true
 permalink: courses/relg203-summer/
 ---
 
