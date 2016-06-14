@@ -168,7 +168,7 @@ Riches 134–142
 
 <hr style="margin:2em 0 2em 0">
 
-**May 19: The Fall of Adam and the Rise of Eve: Genesis 3 in Feminist and Postfeminist Perspectives**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLOERUemkzOXhaMDg/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**May 19: The Fall of Adam and the Rise of Eve: Genesis 3 in Feminist and Postfeminist Perspectives**<span class="hide">[Slides](){:class="new-window" target="_blank"}</span>
 
 <span class="hide">*Thinking Piece #02:* Consider the following print advertisement for the Mexican luxury department store, El Palacio Hierro. Would you characterize this image as a feminist appropriation of Genesis 3? Why or why not?</span>
 
@@ -182,7 +182,7 @@ NT: <!--a href="http://bible.oremus.org/?ql=320407774"-->Romans 5:12–21; 1 Tim
 
 Anne-Marie Korte, “[Paradise Lost, Growth Gained: Eve’s Story Revisited—Genesis 2–4 in a Feminist Theological Perspective](https://drive.google.com/file/d/0B7vb2Xa26caLeEozaVdncWo1T2M/view?usp=sharing){:class="new-window" target="_blank"},” pp. 140–156 in ed. Bob Becking and Susan Hennecke, *Out of Paradise: Eve and Adam and Their Interpreters* (Sheffield: Sheffield Phoenix Press, 2011)
 
-*Desperate Housewives* [Opening Credits](https://youtu.be/aR0jKlwE0zI) (yU + co, 2004). Learn more at [Artcyclopedia](http://www.artcyclopedia.com/feature-2005-05.html){:class="new-window" target="_blank"}.
+<span class="noprint">*Desperate Housewives* [Opening Credits](https://youtu.be/aR0jKlwE0zI) (yU + co, 2004). Learn more at [Artcyclopedia](http://www.artcyclopedia.com/feature-2005-05.html){:class="new-window" target="_blank"}.</span>
 
 <div class="videoWrapper-16-9 noprint">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/aR0jKlwE0zI?&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe>
@@ -194,9 +194,9 @@ Anne-Marie Korte, “[Paradise Lost, Growth Gained: Eve’s Story Revisited—Ge
 
 **May 23: NO CLASS**
 
-**May 24: Will the Real Abraham Please Stand Up?**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLVzY0TkxBRjBlUXM/view?usp=sharing){:class="new-window" target="_blank"}</span><span style="margin-bottom:1em">
+**May 24: Will the Real Abraham Please Stand Up?**<span class="hide">[Slides](){:class="new-window" target="_blank"}</span><span style="margin-bottom:1em">
 
-*Reflection Paper #03:*&nbsp;&nbsp;Abraham is often called the father of three faiths: Judaism, Christianity, and Islam. What purpose does this characterization serve? Do you think it is an accurate characterization? Defend your answer with reference to the assigned materials for today.
+<span class="hide">*Reflection Paper #03:*&nbsp;&nbsp;Abraham is often called the father of three faiths: Judaism, Christianity, and Islam. What purpose does this characterization serve? Do you think it is an accurate characterization? Defend your answer with reference to the assigned materials for today.</span>
 
 HB/OT: Genesis 12–17<!--(http://bible.oremus.org/?ql=308397527)-->; Genesis 22:1–19<!--(http://bible.oremus.org/?ql=322037678)-->
 
@@ -212,7 +212,7 @@ Watch Author Bruce Feiler discuss his motivation for writing *Abraham: A Journey
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLZHhUVGR0NmRLVTg/preview" width="640" height="480"></iframe>
 </div>
 
-**May 25: Exodus and Liberation**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLTUdRQTVnWjB0Y0E/view?usp=sharing){:class="new-window" target="_blank"}</span><span style="margin-bottom:1em">
+**May 25: Exodus and Liberation**<span class="hide">[Slides](){:class="new-window" target="_blank"}</span><span style="margin-bottom:1em">
 
 HB/OT: Exodus 1–15  
 NT: Matthew 1–4
@@ -221,7 +221,7 @@ Robert Allen Warrior, “[A Native American Perspective: Canaanites, Cowboys, an
 
 <span class="hide noprint">**May 25: Bon King, Bad King**[Slides](){:class="new-window" target="_blank"}</a></span>
 
-**May 26: ‘Render unto Caesar’: Jews, Jesus, and Politics**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLdktPYzBxZHVGQUE/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**May 26: ‘Render unto Caesar’: Jews, Jesus, and Politics**<span class="hide">[Slides](){:class="new-window" target="_blank"}</span>
 
 HB/OT: Deuteronomy 17:14–20<!--(http://bible.oremus.org/?ql=213512508)--> and selected passages about the following rulers of Israel and Judah:
 
@@ -259,13 +259,13 @@ NT: Matthew 1:1–17; 22:15–22
 
 #### Week 05
 
-**May 30: Suffering, Sex, and the Single Saviour**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLOGZlTldVb3l3VWc/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**May 30: Suffering, Sex, and the Single Saviour**<span class="hide">[Slides](){:class="new-window" target="_blank"}</span>
 
 HB/OT: <!--Isaiah 52:13–53:12;&#160;&#160;-->	Zechariah 12–13<!--(http://bible.oremus.org/?ql=308774126)-->
 
 NT: Luke 7:1–8:3; John 12:1–8; Mark 14–16
 
-*Reflection Paper #04*&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing) (1988) and Ron Howard’s [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing) (2006), then read this *Atlantic Monthly* article on “[The Curious Case of Jesus’s Wife](http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/){:class="new-window" target="_blank"}.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?
+<span class="hide">*Reflection Paper #04*&nbsp;&nbsp;Watch the following clips from Martin Scorcese’s [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing) (1988) and Ron Howard’s [*The Da Vinci Code*](https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/view?usp=sharing) (2006), then read this *Atlantic Monthly* article on “[The Curious Case of Jesus’s Wife](http://www.theatlantic.com/magazine/archive/2014/12/the-curious-case-of-jesuss-wife/382227/){:class="new-window" target="_blank"}.” Does it matter whether Jesus and Mary Magdalene were married? Why do you think this question continues to draw so much attention?</span>
 
 <span class="noprint">Martin Scorcese, Dir., [*The Last Temptation of Christ*](https://drive.google.com/file/d/0B7vb2Xa26caLeEhOT2M4R19wVVk/view?usp=sharing)
 
@@ -279,7 +279,7 @@ NT: Luke 7:1–8:3; John 12:1–8; Mark 14–16
 <iframe src="https://drive.google.com/file/d/0B7vb2Xa26caLdjZscVVzS1I0MU0/preview" width="640" height="280"></iframe>
 </div>
 
-**May 31: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="noprint">[Slides 1](https://drive.google.com/file/d/0B7vb2Xa26caLMTNCLVBBOFBDZjg/view?usp=sharing){:class="new-window" target="_blank"} &#124; [Slides 2](https://drive.google.com/file/d/0B7vb2Xa26caLYkEzUDVTSDFab2M/view?usp=sharing){:class="new-window" target="_blank"}</span>
+**May 31: Law and Gospel: The Letters and Legacy of Paul the Apostle**<span class="hide">[Slides 1](){:class="new-window" target="_blank"} &#124; [Slides 2](){:class="new-window" target="_blank"}</span>
 
 NT: Philiippians 2–3<!--(http://bible.oremus.org/?ql=326267389)-->; Galatians<!--(http://bible.oremus.org/?ql=213698441)-->
 
@@ -288,7 +288,7 @@ Alexander Dominitz, Dir., [*95 Theses*](https://youtu.be/dt5AJr0wls0)
 <div class="videoWrapper-16-9 noprint">
 <iframe class="noprint" width="420" height="315" src="//www.youtube.com/embed/dt5AJr0wls0" frameborder="0" allowfullscreen></iframe></div>
 
-**Jun 01: The End Times in Fact and Fiction**<span class="noprint">[Slides](https://drive.google.com/file/d/0B7vb2Xa26caLcVR0UEoyRmRHY2s/view?usp=sharing){:class="new-window" target="_blank"}
+**Jun 01: The End Times in Fact and Fiction**<span class="hide">[Slides](){:class="new-window" target="_blank"}</span>
 
 NT: Revelation<!--(http://bible.oremus.org/?ql=213722896)-->
 
