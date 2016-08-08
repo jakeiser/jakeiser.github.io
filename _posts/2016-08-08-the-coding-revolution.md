@@ -13,7 +13,7 @@ comments: true
 disqus_identifier: e869ca6c-e805-4890-8a27-4f8fff81c47f
 ---
 
-The current issue of *Scientific American* (Aug 2016) includes an article entitled “The Coding Revolution,” on the push to teach coding to K–12 kids. How revolutionary is this movement? Consider the following quotations from proponents:
+<!--excerpt.start-->The current issue of *Scientific American* (Aug 2016) includes an article entitled “The Coding Revolution,” on the push to teach coding to K–12 kids. How revolutionary is this movement?<!--excerpt.end--> Consider the following quotations from proponents:
 
 >“Computational thinking includes the ability to abstract, to engage in logical and symbolic reasoning, to take a big problem and decompose it into many smaller problems… These are skills that everyone can use, whether they’re using a computer or not.”
 
