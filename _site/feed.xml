@@ -6,13 +6,14 @@
 </description>
     <link>http://jeffkeiser.com/</link>
     <atom:link href="http://jeffkeiser.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 08 Aug 2016 09:46:20 -0500</pubDate>
-    <lastBuildDate>Mon, 08 Aug 2016 09:46:20 -0500</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2016 10:39:06 -0500</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2016 10:39:06 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Is the Coding Revolution Really Revolutionary?</title>
-        <description>&lt;p&gt;The current issue of &lt;em&gt;Scientific American&lt;/em&gt; (Aug 2016) includes an article entitled “The Coding Revolution,” on the push to teach coding to K–12 kids. How revolutionary is this movement? Consider the following quotations from proponents:&lt;/p&gt;
+        <description>&lt;!--excerpt.start--&gt;
+&lt;p&gt;The current issue of &lt;em&gt;Scientific American&lt;/em&gt; (Aug 2016) includes an article entitled “The Coding Revolution,” on the push to teach coding to K–12 kids. How revolutionary is this movement?&lt;!--excerpt.end--&gt; Consider the following quotations from proponents:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Computational thinking includes the ability to abstract, to engage in logical and symbolic reasoning, to take a big problem and decompose it into many smaller problems… These are skills that everyone can use, whether they’re using a computer or not.”&lt;/p&gt;

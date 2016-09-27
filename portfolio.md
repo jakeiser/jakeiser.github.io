@@ -2,7 +2,6 @@
 layout: page
 header: true
 title: Portfolio
-group: "navigation"
 permalink: /portfolio/
 carousel:
 - image: /assets/images/lphs-fine_tune_your_brain_2.jpg
