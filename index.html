@@ -3,31 +3,8 @@ layout: default
 header: true
 ---
 
-  <!--ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<div style="text-align: center">
+<img style="width: 100px; margin-top: 40px" src="https://maxcdn.icons8.com/Android_L/PNG/512/Transport/under_construction-512.png">
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2> 
-        
-            <p class="post-excerpt">
-            {% if post.content contains '<!--excerpt.start-->' and post.content contains '<!--excerpt.end-->' %}
-            {{ ((post.content | split:'<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | remove: '<p>' | remove: '</p>' }}
-            {% else %}
-            {{ post.content }}
-            {% endif %}
-            
-            {% if post.content contains '<!--excerpt.end-->' %}
-        	.&nbsp;.&nbsp;.&nbsp;<a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
-            {% endif %}
-            </p>
-            
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p-->
-
+<h2>Under Construction</h2>
 </div>

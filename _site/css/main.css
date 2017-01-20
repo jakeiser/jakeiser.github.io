@@ -232,7 +232,7 @@ pre {
   max-width: calc(800px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
-  margin-top: 240px;
+  margin-top: 60px;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
@@ -272,7 +272,7 @@ pre {
  */
 .site-header {
   border-top: 5px solid #424242;
-  height: 240px;
+  height: 80px;
   width: 100%;
   background-color: #fff;
   z-index: 3;

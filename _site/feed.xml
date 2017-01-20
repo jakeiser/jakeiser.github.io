@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeff Keiser</title>
-    <description>JeffKeiser.com explores the Bible, Christianity, and culture from a scholarly perspective. The site is currently under construction, so check back regularly for updates.
+    <description>JeffKeiser.com is your one-stop portal for a complete suite of editing, design, and publishing services.
 </description>
-    <link>http://jeffkeiser.com/</link>
-    <atom:link href="http://jeffkeiser.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 27 Sep 2016 10:39:06 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Sep 2016 10:39:06 -0500</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 20 Jan 2017 10:45:16 -0600</pubDate>
+    <lastBuildDate>Fri, 20 Jan 2017 10:45:16 -0600</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Is the Coding Revolution Really Revolutionary?</title>
@@ -36,8 +36,8 @@
 &lt;p&gt;The article tacitly acknowledges that the gains these proponents of K–12 coding see in their students come from progressive engagement with ever more complex problems over time and not from computational theory or coding as such. The problems are content specific, but the outcomes are not. This means that similar outcomes can be achieved in different disciplines, such as, say, literature or philosophy, through progressive engagement with the ever more complex content over time. How revolutionary!&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jeffkeiser.com/blog/is-the-coding-revolution-really-revolutionary</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/blog/is-the-coding-revolution-really-revolutionary</guid>
+        <link>http://localhost:4000/blog/is-the-coding-revolution-really-revolutionary</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/is-the-coding-revolution-really-revolutionary</guid>
         
         <category>Coding</category>
         
@@ -74,8 +74,8 @@
 &lt;p&gt;“Love is the foremost of all all excellent acheivements and the first of the commandments of the law. If ever, then, the soul reach this goal, it will be in no need of anything else . . . For the life of the Supreme Being is love . . . ” (Macrina the Younger, in Gregory of Nyssa’s &lt;em&gt;Dialogue on the Soul and the Resurrection&lt;/em&gt; [J.-P. Migne, &lt;em&gt;Patrologia Graeca&lt;/em&gt; 46.96–97]).&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Jun 2014 14:04:00 -0500</pubDate>
-        <link>http://jeffkeiser.com/blog/memory-eternal-ellen-bradshaw-aitken</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/blog/memory-eternal-ellen-bradshaw-aitken</guid>
+        <link>http://localhost:4000/blog/memory-eternal-ellen-bradshaw-aitken</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/memory-eternal-ellen-bradshaw-aitken</guid>
         
         <category>Philosophy</category>
         
@@ -130,8 +130,8 @@
 &lt;p&gt;So, what does all this have to do with Saint Paul? He was not the first Jew to conclude that Jesus is the Christ, nor even the first Jew to invite non-Jews to participate in this new community of likeminded believers, so it is reasonable to suppose that his conversion story was influenced both by his past and by the lost stories of others in his adoptive community. Still, James’s notion of relgious ‘geniuses’ makes me wonder whether one person’s story can be so compelling as to change the narrative for everyone who follows in his or her footsteps. Were we to identify Paul’s conversion story as just such a story, would this imply that his experience was indeed &lt;em&gt;sui generis&lt;/em&gt;—unprecedented—or only that his peculiar genius lay in his manner of presentation?&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 May 2014 16:08:00 -0500</pubDate>
-        <link>http://jeffkeiser.com/blog/saint-paul-conversion-and-social-constructionism</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/blog/saint-paul-conversion-and-social-constructionism</guid>
+        <link>http://localhost:4000/blog/saint-paul-conversion-and-social-constructionism</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/saint-paul-conversion-and-social-constructionism</guid>
         
         <category>William James</category>
         
@@ -155,8 +155,8 @@
         <description>&lt;p&gt;“The wise person is not self-mastered but moderate, nor does the fool lack self-mastery but moderation. For the one takes pleasure in what is honourable, while the other is not troubled by shameful things. Lack of self-mastery, therefore, is the mark of a sophistic soul having reason but not the ability to stand by the things that it has correctly discerned” (Plutarch, &lt;em&gt;On Moral Virtue&lt;/em&gt; 446c).&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Jan 2013 14:42:00 -0600</pubDate>
-        <link>http://jeffkeiser.com/blog/quote-of-the-day-plutarch-on-moral-virtue-446c</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/blog/quote-of-the-day-plutarch-on-moral-virtue-446c</guid>
+        <link>http://localhost:4000/blog/quote-of-the-day-plutarch-on-moral-virtue-446c</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/quote-of-the-day-plutarch-on-moral-virtue-446c</guid>
         
         <category>Plutarch</category>
         
@@ -180,8 +180,8 @@
 &lt;p&gt;Sorry, Plato. If Dio is right, either a good king will be a bad philosopher or a bad king will be a good philosopher.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Oct 2012 10:00:00 -0500</pubDate>
-        <link>http://jeffkeiser.com/blog/quote-of-the-day-dio-chrysostom-alexander-32-18</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/blog/quote-of-the-day-dio-chrysostom-alexander-32-18</guid>
+        <link>http://localhost:4000/blog/quote-of-the-day-dio-chrysostom-alexander-32-18</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/quote-of-the-day-dio-chrysostom-alexander-32-18</guid>
         
         <category>Philosophy</category>
         
@@ -203,8 +203,8 @@
 &lt;p&gt;Now I know why I’m such a bad poet&lt;/p&gt;
 </description>
         <pubDate>Tue, 29 Mar 2011 08:58:00 -0500</pubDate>
-        <link>http://jeffkeiser.com/blog/quote-of-the-day-plato-phaedrus-245a</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/blog/quote-of-the-day-plato-phaedrus-245a</guid>
+        <link>http://localhost:4000/blog/quote-of-the-day-plato-phaedrus-245a</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/quote-of-the-day-plato-phaedrus-245a</guid>
         
         <category>madness</category>
         
@@ -247,17 +247,17 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Despite the title of Norman Russell’s indispensable survey of &lt;em&gt;&lt;a href=&quot;http://www.amazon.com/Doctrine-Deification-Patristic-Tradition-Christian/dp/0199205973?ie=UTF8&amp;amp;tag=sacrveil-20&amp;amp;link_code=btl&amp;amp;camp=213689&amp;amp;creative=392969&quot;&gt;The Doctrine of Deification in the Greek Patristic Tradition&lt;/a&gt;.&lt;/em&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Despite the title of Norman Russell’s indispensable survey of &lt;em&gt;&lt;a href=&quot;http://www.amazon.com/Doctrine-Deification-Patristic-Tradition-Christian/dp/0199205973?ie=UTF8&amp;amp;tag=sacrveil-20&amp;amp;link_code=btl&amp;amp;camp=213689&amp;amp;creative=392969&quot;&gt;The Doctrine of Deification in the Greek Patristic Tradition&lt;/a&gt;.&lt;/em&gt;&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;On the speech and silence of Jesus in this passage, see my forthcoming essay: “Hearing God’s Silence: Ignatius of Antioch and the Music of the Spheres” in ed. Ellen Aitken and John Fossey, &lt;em&gt;Late Antique Crossroads in the Levant&lt;/em&gt; (full publication information to follow). &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;On the speech and silence of Jesus in this passage, see my forthcoming essay: “Hearing God’s Silence: Ignatius of Antioch and the Music of the Spheres” in ed. Ellen Aitken and John Fossey, &lt;em&gt;Late Antique Crossroads in the Levant&lt;/em&gt; (full publication information to follow).&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 19 Jul 2010 21:52:00 -0500</pubDate>
-        <link>http://jeffkeiser.com/blog/thoughts-on-theosis-part-3</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/blog/thoughts-on-theosis-part-3</guid>
+        <link>http://localhost:4000/blog/thoughts-on-theosis-part-3</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/thoughts-on-theosis-part-3</guid>
         
         <category>Clement of Alexandria</category>
         
@@ -333,23 +333,23 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Including Athanasius’ preferred term, &lt;em&gt;theopoiesis.&lt;/em&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Including Athanasius’ preferred term, &lt;em&gt;theopoiesis.&lt;/em&gt;&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;No less an evangelical luminary than J. I. Packer once suggested that Peter’s amanuensis (scribe) was prone to embellishment—an easy but problematic dismissal of &lt;span class=&quot;noTag&quot;&gt;2 Peter 1:4&lt;/span&gt; (“‘Outside the Church There is No Salvation’: An Orthodox and Evangelical Exchange,” discussion sponsored by the Society for the Study of Eastern Orthodoxy and Evangelicalism, St. Paul’s Orthodox Church, Irvine, CA, 1999). &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;No less an evangelical luminary than J. I. Packer once suggested that Peter’s amanuensis (scribe) was prone to embellishment—an easy but problematic dismissal of &lt;span class=&quot;noTag&quot;&gt;2 Peter 1:4&lt;/span&gt; (“‘Outside the Church There is No Salvation’: An Orthodox and Evangelical Exchange,” discussion sponsored by the Society for the Study of Eastern Orthodoxy and Evangelicalism, St. Paul’s Orthodox Church, Irvine, CA, 1999).&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Important exceptions include the Alexandrians—Origen, Athanasius, and Cyril—and, much later, the Athonite monk and Archbishop of Thessaloniki, Gregory Palamas (Norman Russell, &lt;em&gt;&lt;a href=&quot;http://www.amazon.com/Fellow-Workers-God-Orthodox-Foundations/dp/0881413399?ie=UTF8&amp;amp;tag=sacrveil-20&amp;amp;link_code=btl&amp;amp;camp=213689&amp;amp;creative=392969&quot;&gt;Fellow Workers With God: Orthodox Thinking on Theosis&lt;/a&gt;&lt;/em&gt;, pp. 65–69). &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Important exceptions include the Alexandrians—Origen, Athanasius, and Cyril—and, much later, the Athonite monk and Archbishop of Thessaloniki, Gregory Palamas (Norman Russell, &lt;em&gt;&lt;a href=&quot;http://www.amazon.com/Fellow-Workers-God-Orthodox-Foundations/dp/0881413399?ie=UTF8&amp;amp;tag=sacrveil-20&amp;amp;link_code=btl&amp;amp;camp=213689&amp;amp;creative=392969&quot;&gt;Fellow Workers With God: Orthodox Thinking on Theosis&lt;/a&gt;&lt;/em&gt;, pp. 65–69).&amp;nbsp;&lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;Carl Mosser, “The Earliest Patristic Interpretations of Psalm 82, Jewish Antecedents, and the Origin of Christian Deification,” &lt;em&gt;Journal of Theological Studies&lt;/em&gt; 56.1 (2005): 30–73. Mosser has provided &lt;a href=&quot;http://jts.oxfordjournals.org/cgi/reprint/56/1/30?ijkey=MVYy5AKqzoJZkgZ&amp;amp;keytype=ref&quot;&gt;a link to his article&lt;/a&gt;. Non-specialists may find it a tough slog, but worth the effort. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Carl Mosser, “The Earliest Patristic Interpretations of Psalm 82, Jewish Antecedents, and the Origin of Christian Deification,” &lt;em&gt;Journal of Theological Studies&lt;/em&gt; 56.1 (2005): 30–73. Mosser has provided &lt;a href=&quot;http://jts.oxfordjournals.org/cgi/reprint/56/1/30?ijkey=MVYy5AKqzoJZkgZ&amp;amp;keytype=ref&quot;&gt;a link to his article&lt;/a&gt;. Non-specialists may find it a tough slog, but worth the effort.&amp;nbsp;&lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 28 Apr 2010 15:57:00 -0500</pubDate>
-        <link>http://jeffkeiser.com/blog/thoughts-on-theosis-part-2</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/blog/thoughts-on-theosis-part-2</guid>
+        <link>http://localhost:4000/blog/thoughts-on-theosis-part-2</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/thoughts-on-theosis-part-2</guid>
         
         <category>Psalms</category>
         
@@ -392,8 +392,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 29 Mar 2010 21:50:00 -0500</pubDate>
-        <link>http://jeffkeiser.com/blog/orthodox-christianity-is-not-exotic</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/blog/orthodox-christianity-is-not-exotic</guid>
+        <link>http://localhost:4000/blog/orthodox-christianity-is-not-exotic</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/orthodox-christianity-is-not-exotic</guid>
         
         <category>Orthodoxy</category>
         
@@ -424,29 +424,29 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;There is no shortage of scholarly books and essays on the subject, including Russell’s indispensible study ofThe Doctrine of Deification in the Greek Patristic Tradition Andrew Louth’s short essay on “The Place of Theosis in Orthodox Theology” is among the more accessible treatments (pp. 32–44 in Partakers of the Divine Nature: The History and Development of Deification in the Christian Traditions, edited by Michael J. Christensen and Jeffery A. Wittung). The full text of the late Panagiōtēs K. Chrēstou’s Partakers of God is available here. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;There is no shortage of scholarly books and essays on the subject, including Russell’s indispensible study ofThe Doctrine of Deification in the Greek Patristic Tradition Andrew Louth’s short essay on “The Place of Theosis in Orthodox Theology” is among the more accessible treatments (pp. 32–44 in Partakers of the Divine Nature: The History and Development of Deification in the Christian Traditions, edited by Michael J. Christensen and Jeffery A. Wittung). The full text of the late Panagiōtēs K. Chrēstou’s Partakers of God is available here.&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Exceptions include Vladimir Lossky’s The Mystical Theology of the Eastern Church, with a chapter on “The Way of Union,” and Daniel Clendenin’s Eastern Orthodox Christianity: A Western Perspective, with a chapter entitled “The Deification of Humanity: Theosis.” In what is still the most popular introduction to Orthodoxy, Timothy (Metropolitan Kallistos) Ware’s The Orthodox Church, Ware discusses deification in a subsection entitled ‘Partakers of the Divine Nature’ (the links will take you to an older edition; my printed 1997 edition has been revised to incorporate inclusive language, among other things—“humankind” instead of “man”, etc.). So, the issue is not whether Orthodox theologians discuss theosis, inevitably they do, but how they define and present it (see note 6 below). &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Exceptions include Vladimir Lossky’s The Mystical Theology of the Eastern Church, with a chapter on “The Way of Union,” and Daniel Clendenin’s Eastern Orthodox Christianity: A Western Perspective, with a chapter entitled “The Deification of Humanity: Theosis.” In what is still the most popular introduction to Orthodoxy, Timothy (Metropolitan Kallistos) Ware’s The Orthodox Church, Ware discusses deification in a subsection entitled ‘Partakers of the Divine Nature’ (the links will take you to an older edition; my printed 1997 edition has been revised to incorporate inclusive language, among other things—“humankind” instead of “man”, etc.). So, the issue is not whether Orthodox theologians discuss theosis, inevitably they do, but how they define and present it (see note 6 below).&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;This shift can be observed quite clearly in the successive editions of a short book by Archimandrite George, Abbot of St. Gregorios Monastery on Mt. Athos. In three editions from 1992 to 2001, the English version was entitled The deification as the purpose of man’s life. The title of the most recent 2006 edition is Theosis: the true purpose of human life (note also the use of inclusive language). &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;This shift can be observed quite clearly in the successive editions of a short book by Archimandrite George, Abbot of St. Gregorios Monastery on Mt. Athos. In three editions from 1992 to 2001, the English version was entitled The deification as the purpose of man’s life. The title of the most recent 2006 edition is Theosis: the true purpose of human life (note also the use of inclusive language).&amp;nbsp;&lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;Although the language of the Fathers is not necessarily uniform, at least initially. Carl Mosser has recently recommended using theopoiesis instead of theosis to characterize the perspective of early Church Fathers like Irenaeus, Athanasius, and others. For quick reference, Peter J. Leithart has provided a summary of Mosser’s views. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Although the language of the Fathers is not necessarily uniform, at least initially. Carl Mosser has recently recommended using theopoiesis instead of theosis to characterize the perspective of early Church Fathers like Irenaeus, Athanasius, and others. For quick reference, Peter J. Leithart has provided a summary of Mosser’s views.&amp;nbsp;&lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;As a transliterated Greek word, theosis has both a technical ring and the quality of being what Mosser (see note 4 above) might call “an exotic flower.” See Mosser’s exchange with Michael J. Gorman in the comments section of Gorman’s Cross Talk post on Protestants’ Fear of Theosis. Mosser’s comments concerning my own criticism of his position are also worth a look. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;As a transliterated Greek word, theosis has both a technical ring and the quality of being what Mosser (see note 4 above) might call “an exotic flower.” See Mosser’s exchange with Michael J. Gorman in the comments section of Gorman’s Cross Talk post on Protestants’ Fear of Theosis. Mosser’s comments concerning my own criticism of his position are also worth a look.&amp;nbsp;&lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;In his introduction to Fellow Workers with God Russell quotes four contemporary Orthodox theologians, each of whom offers a different perspective on deification or theosis (pp. 19–21). These four perspectives can be classified according to two distinct emphases. Russell harmonizes these emphases in his description of theosis as “both the goal of the divine economy and the process by which the economy is worked out in the believer” (p. 21). &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;In his introduction to Fellow Workers with God Russell quotes four contemporary Orthodox theologians, each of whom offers a different perspective on deification or theosis (pp. 19–21). These four perspectives can be classified according to two distinct emphases. Russell harmonizes these emphases in his description of theosis as “both the goal of the divine economy and the process by which the economy is worked out in the believer” (p. 21).&amp;nbsp;&lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 24 Mar 2010 11:44:00 -0500</pubDate>
-        <link>http://jeffkeiser.com/blog/thoughts-on-theosis-part-1</link>
-        <guid isPermaLink="true">http://jeffkeiser.com/blog/thoughts-on-theosis-part-1</guid>
+        <link>http://localhost:4000/blog/thoughts-on-theosis-part-1</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/thoughts-on-theosis-part-1</guid>
         
         <category>Participation in God</category>
         
