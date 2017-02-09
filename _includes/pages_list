@@ -10,13 +10,13 @@
 <li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/red fountain pen.png" style="width: 8%; position: absolute; top: -4px; left: 60px">{% endif %} 
         
         {% if node.title == "design" %}
-<li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/typographer A.svg" style="width: 70%; position: absolute; top: 32px; right: 20px">{% endif %} 
+<li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/Typographer A.svg" style="width: 70%; position: absolute; top: 32px; right: 20px">{% endif %} 
         
 		{% if node.title == "formatting" %}
 <li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/compass.png" style="width: 33%; position: absolute; top:-6px; left: 44px">{% endif %} 
         
         {% if node.title == "about me" %}
-<li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/business man sillouhette.svg" style="position: absolute; top: -5px; width: 36%">{% endif %}
+<li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/Business Man Sillouhette.svg" style="position: absolute; top: -5px; width: 36%">{% endif %}
 
  {% if node.title == "get a quote" %}
 <li class="nav-tab"><a class="nav-a-inactive" href="mailto:info@jeffkeiser.com"><img src="/assets/images/pennies.gif" style="position: absolute; top: 55px; left: 26px; width: 60%">{% endif %}
@@ -35,13 +35,13 @@
 <li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/red fountain pen.png" style="width: 8%; position: absolute; top: -4px; left: 60px">{% endif %} 
         
         {% if node.title == "design" %}
-<li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/typographer A.svg" style="width: 70%; position: absolute; top: 32px; right: 20px">{% endif %} 
+<li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/Typographer A.svg" style="width: 70%; position: absolute; top: 32px; right: 20px">{% endif %} 
         
 		{% if node.title == "formatting" %}
 <li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/compass.png" style="width: 33%; position: absolute; top:-6px; left: 44px">{% endif %} 
         
         {% if node.title == "about me" %}
-<li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/business man sillouhette.svg" style="position: absolute; top: -5px; width: 36%">{% endif %}
+<li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/Business Man Sillouhette.svg" style="position: absolute; top: -5px; width: 36%">{% endif %}
 
  {% if node.title == "get a quote" %}
 <li class="nav-tab"><a class="nav-a-active" href="mailto:info@jeffkeiser.com"><img src="/assets/images/pennies.gif" style="position: absolute; top: 55px; left: 26px; width: 60%">{% endif %}
