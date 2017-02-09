@@ -17,9 +17,35 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Julius Sans One">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Old Standard TT">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" media="all">
+    
+    <script type="text/javascript" charset="utf-8">
+		/* When the user clicks on the button, 
+		toggle between hiding and showing the dropdown content */
+		function myFunction() {
+    	document.getElementById("myDropdown").classList.toggle("show");
+		}
+
+		// Close the dropdown menu if the user clicks outside of it
+		window.onclick = function(event) {
+		  if (!event.target.matches('.menu-icon')) {
+
+		    var dropdowns = document.getElementsByClassName(".dropdown-content");
+		    var i;
+		    for (i = 0; i < dropdowns.length; i++) {
+		      var openDropdown = dropdowns[i];
+		      if (openDropdown.classList.contains('show')) {
+		    	openDropdown.classList.remove('show');
+	      			}
+    			}
+  			}
+		}
+	</script>
     
     
-    {% if page.carousel %}
+	{% if page.carousel %}
     <link rel="stylesheet" href="{{ "/css/flexslider.css" | prepend: site.baseurl }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script src="{{ "/js/jquery.flexslider.js" | prepend: site.baseurl }}"></script>

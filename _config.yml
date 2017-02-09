@@ -2,7 +2,7 @@
 title: Jeff Keiser
 email: info@jeffkeiser.com
 description: > # this means to ignore newlines until "baseurl:"
- JeffKeiser.com is your one-stop portal for a complete suite of editing, design, and publishing services.
+ JeffKeiser.com is your gateway to a complete suite of publishing services.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jeffkeiser.com" # the base hostname & protocol for your site
 twitter_username: jeffrey_keiser

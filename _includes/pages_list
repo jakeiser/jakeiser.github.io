@@ -1,9 +1,54 @@
- {% for node in pages_list %}
+{% for node in pages_list %}
   {% if group == null or group == node.group %}
-   {% if page.url contains node.url %}
-    <li class="nav-tab-active"><a style="display: block; padding: .5em 1em .75em 1em; color: #000" href="{{node.url}}">{{node.title}}</a>
+   {% if page.url != node.url %}
+    
+     <!--Inactive Nav Graphics-->     
+         {% if node.title == "home" %}
+<li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/home-icon.svg" img style="width: 70%; position: absolute; top: 26px; right: 20px">{% endif %} 
+        
+        {% if node.title == "editing" %}
+<li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/red fountain pen.png" style="width: 8%; position: absolute; top: -4px; left: 60px">{% endif %} 
+        
+        {% if node.title == "design" %}
+<li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/typographer A.svg" style="width: 70%; position: absolute; top: 32px; right: 20px">{% endif %} 
+        
+		{% if node.title == "formatting" %}
+<li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/compass.png" style="width: 33%; position: absolute; top:-6px; left: 44px">{% endif %} 
+        
+        {% if node.title == "about me" %}
+<li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/business man sillouhette.svg" style="position: absolute; top: -5px; width: 36%">{% endif %}
+
+ {% if node.title == "get a quote" %}
+<li class="nav-tab"><a class="nav-a-inactive" href="mailto:info@jeffkeiser.com"><img src="/assets/images/pennies.gif" style="position: absolute; top: 55px; left: 26px; width: 60%">{% endif %}
+      <!--End Inactive Nav Graphics-->
+         
+    {{node.title}}</a></li>
+     
      {% else %}
-     <li class="nav-tab-inactive"><a style="display: block; padding: .5em 1em .25em 1em; color: #000" href="{{node.url}}">{{node.title}}</a>
+     {% if page.url == node.url %}
+     
+          <Active Nav Graphics> 
+           {% if node.title == "home" %}  
+<li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/home-icon.svg" img style="width: 70%; position: absolute; top: 26px; right: 20px">{% endif %} 
+        
+        {% if node.title == "editing" %}
+<li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/red fountain pen.png" style="width: 8%; position: absolute; top: -4px; left: 60px">{% endif %} 
+        
+        {% if node.title == "design" %}
+<li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/typographer A.svg" style="width: 70%; position: absolute; top: 32px; right: 20px">{% endif %} 
+        
+		{% if node.title == "formatting" %}
+<li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/compass.png" style="width: 33%; position: absolute; top:-6px; left: 44px">{% endif %} 
+        
+        {% if node.title == "about me" %}
+<li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/business man sillouhette.svg" style="position: absolute; top: -5px; width: 36%">{% endif %}
+
+ {% if node.title == "get a quote" %}
+<li class="nav-tab"><a class="nav-a-active" href="mailto:info@jeffkeiser.com"><img src="/assets/images/pennies.gif" style="position: absolute; top: 55px; left: 26px; width: 60%">{% endif %}
+      <!--End Active Nav Graphics-->
+    
+     {{node.title}}</a></li>
+     {% endif %}
     {% endif %}
    {% endif %}
   {% endfor %}
