@@ -12,7 +12,7 @@
         {% if node.title == "design" %}
 <li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/Typographer A.svg" style="width: 70%; position: absolute; top: 32px; right: 20px">{% endif %} 
         
-		{% if node.title == "formatting" %}
+		{% if node.title == "layout" %}
 <li class="nav-tab"><a class="nav-a-inactive" href="{{node.url}}"><img src="/assets/images/compass.png" style="width: 33%; position: absolute; top:-6px; left: 44px">{% endif %} 
         
         {% if node.title == "about me" %}
@@ -37,7 +37,7 @@
         {% if node.title == "design" %}
 <li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/Typographer A.svg" style="width: 70%; position: absolute; top: 32px; right: 20px">{% endif %} 
         
-		{% if node.title == "formatting" %}
+		{% if node.title == "layout" %}
 <li class="nav-tab"><a class="nav-a-active" href="{{node.url}}"><img src="/assets/images/compass.png" style="width: 33%; position: absolute; top:-6px; left: 44px">{% endif %} 
         
         {% if node.title == "about me" %}

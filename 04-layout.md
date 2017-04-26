@@ -1,9 +1,9 @@
 ---
 layout: default
 header: true
-title: formatting
+title: layout
 group: "navigation-02"
-permalink: formatting
+permalink: layout
 ---
 
 <div style="text-align: center; margin-top: 20px">
