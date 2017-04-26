@@ -6,7 +6,17 @@ group: "navigation-01"
 permalink: editing
 ---
 
-<div style="text-align: center">
+<div style="text-align: center; margin-top: 20px">
+<img style="width: 100px;" src="https://maxcdn.icons8.com/Android_L/PNG/512/Transport/under_construction-512.png">
+<h2>Under Construction</h2>
+</div>
+
+<div style="text-align: center; margin-top: 40px">
+To find out what I’m building&nbsp;.&nbsp;.&nbsp;.<br /><a href="mailto:info@jeffkeiser.com"><span class="contact-button">CONTACT ME</span></a>
+</div>
+
+
+<!--div style="text-align: center">
 
 <h1 style="font-variant: small-caps">precision editing packages</h1>
 </div>
@@ -52,4 +62,4 @@ Here’s what comes ‘in the box’ with each package:
 
 <div style="text-align: center; margin-top: 20px">
 <span style="display: block">Still have questions?</span><a href="mailto:info@jeffkeiser.com"><span class="contact-button">CONTACT ME</span></a>
-</div>
+</div-->
