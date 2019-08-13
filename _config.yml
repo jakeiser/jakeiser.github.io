@@ -9,3 +9,4 @@ twitter_username: jeffrey_keiser
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-minimal
