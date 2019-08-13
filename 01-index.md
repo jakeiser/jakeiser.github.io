@@ -8,7 +8,7 @@ permalink: /
 
 <div style="text-align: center">
 
-<h1 style="font-variant: small-caps">professional publishing services</h1>
+<h1 style="font-variant: small-caps">professional publishing and design services</h1>
 </div>
 
 Welcome to <span style="font-family: 'Arial', sans-serif'"><span style="color: #cc0000">JEFF</span>KEISER.com</span>, your gateway to a comprehensive suite of publishing services. Here you will find everything you need to polish your writing, whether you’re looking for feedback on structure and logic or help with the nitty-gritty details of copyediting, layout, and proofreading. To get started, click on the menu above.

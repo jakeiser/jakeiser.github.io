@@ -7,6 +7,7 @@ img: Typographer A.svg
 permalink: design
 ---
 
+
 <div style="text-align: center; margin-top: 20px">
 <img style="width: 100px;" src="https://maxcdn.icons8.com/Android_L/PNG/512/Transport/under_construction-512.png">
 <h2>Under Construction</h2>
